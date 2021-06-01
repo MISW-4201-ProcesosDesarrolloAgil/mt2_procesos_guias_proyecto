@@ -3,12 +3,12 @@
 ### Objetivos
 ---
 
-Los objetivos para esta semana, en el marco del desarrollo del proyecto del curso son:
+Los objetivos para esta semana en el marco del desarrollo del proyecto del curso son:
 
+* Realizar el alistamiento del ambiente de desarrollo.
 * Detallar las historias de usuario con mayor prioridad en el *Product Backlog* (PBL).
 * Definir la estrategia inicial de arquitectura.
 * Realizar la estimación y planeación del proyecto utilizando las técnicas estudiadas.
-* Realizar el alistamiento del ambiente de desarrollo.
 * Identificar los principales riesgos del proyecto y sus correspondientes acciones de mitigación y contingencia.
  
 ### Resumen de las actividades
@@ -29,8 +29,7 @@ Como hemos visto en semanas anteriores, el marco DAD favorece la adaptabilidad d
 
 | Actividad                                        | Puntos de decisión                                        | Práctica o estrategia                                                   | Descripción |
 |--------------------------------------------------|--------------------------------------------------|-------------------------------------------------------------|-------------|
-|Estrategia de arquitectura [1] | Definir una estrategia de entrega                | Ampliar la solución existente                               | Dado que los equipos tendrán que trabajar para mejorar una aplicación existente.            |
-| | Seleccionar una estrategia de arquitectura       | Arquitectura existente / Una sola propuesta de arquitectura | A partir de la arquitectura de la aplicación base y el análisis de los nuevos requerimientos, el equipo podrá decidir si es necesario o no realizar ajustes a la arquitectura actual.      |
+|Estrategia de arquitectura [1] | Seleccionar una estrategia de arquitectura       | Arquitectura existente / Una sola propuesta de arquitectura | A partir de la arquitectura de la aplicación base y el análisis de los nuevos requerimientos, el equipo podrá decidir si es necesario o no realizar ajustes a la arquitectura actual.      |
 | | Modelar la arquitectura tecnológica              | Diagrama de *stack* tecnológico                               | El equipo tendrá que realizar un documento de arquitectura que contenga este diagrama.             |
 | | Modelar la arquitectura de negocio               | Modelo conceptual /dominio                                  | El equipo tendrá que realizar un documento de arquitectura que contenga este modelo.            |
 | | Modelar la arquitectura de interfaces de usuario | Diagrama de flujo de interfaces de usuario                  | El equipo tendrá que realizar un documento de arquitectura que contenga este diagrama.            |
