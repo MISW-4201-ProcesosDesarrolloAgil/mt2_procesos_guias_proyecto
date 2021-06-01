@@ -13,9 +13,9 @@ Los objetivos para esta semana, en el marco del desarrollo del proyecto son:
 
 | Actividades   |
 |---------------|
-| [Alistamiento del espacio para gestión y documentación del proyecto](https://avargas20.github.io/MISW-Procesos/semanas/inception/semana2/s2_alistamiento)|
-| [Generación de acuerdos de equipo](https://avargas20.github.io/MISW-Procesos/semanas/inception/semana2/s2_canvas_de_equipo) |
-| [Explorar el alcance](https://avargas20.github.io/MISW-Procesos/semanas/inception/semana2/s2_alcance)|
+| [Alistamiento del espacio para gestión y documentación del proyecto](../../s2_alistamiento)|
+| [Generación de acuerdos de equipo](../../s2_canvas_de_equipo) |
+| [Explorar el alcance](../../s2_alcance)|
 
 ### Prácticas y estrategias aplicadas de DAD
 ---
