@@ -40,7 +40,7 @@ Las actividades que deben realizar como parte del alistamiento son:
 ### Recursos 
 
 ---
-* [Guía para organización de la documentación del proyecto](/semana2/s2_organizacion_de_la_documentacion).
+* [Guía para organización de la documentación del proyecto](../semana2/s2_organizacion_de_la_documentacion).
 * Tutorial de Jira. (*Pendiente*)
 
 ### Entregables
