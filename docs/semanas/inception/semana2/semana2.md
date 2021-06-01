@@ -1,4 +1,4 @@
-## Semana 2 - Inception (Parte 1)
+## Semana 2 - Fase de inicio (Parte 1)
 
 ### Objetivos
 ---
