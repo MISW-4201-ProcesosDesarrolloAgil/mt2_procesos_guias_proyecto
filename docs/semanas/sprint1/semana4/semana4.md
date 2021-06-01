@@ -6,8 +6,8 @@ Los objetivos para esta semana, en el marco del desarrollo del proyecto del curs
 
 * Realizar la planeación del sprint para lograr un entendimiento común del equipo sobre las actividades que se van a desarrollar.
 * Iniciar la ejecución de las tareas de desarrollo propuestas para el primer sprint.
-* Hacer seguimiento al avance de actividades del sprint mediante la realización de *Daily meetings* y la actualización del tablero Kanban.
-* Refinar las historias de usuario (HU) del product backlog (PBL) en una sesión de *Grooming* con el *Product Owner* (PO).
+* Hacer seguimiento al avance de actividades del sprint mediante la realización de *Daily meetings* y la actualización del tablero de tareas.
+* Iniciar el detalle las historias de usuario (HU) que quedaron en el tope del product backlog (PBL) en una sesión de *Grooming* con el *Product Owner*  (tutor).
  
 ### Resumen de las actividades
 

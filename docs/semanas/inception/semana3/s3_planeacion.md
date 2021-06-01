@@ -7,27 +7,35 @@
 ### Objetivos
 
 ---
-Realizar la planeación general del proyecto.
+Realizar la planeación general del proyecto. Al finalizar esta actividad cada una de las historias de usuario del *Product Backlog* (PBL) tendrán una estimación en puntos de historia de usuario (PHU). 
 
+### Pasos previos
+
+---
+* El PBL se encuentra establecido y priorizado.
+* Las historias de usuario del tope del PBL se encuentran completamente detalladas.
+* El equipo comprende completamente las historias de usuario del tope del PBL.
+* El equipo ha revisado los videos de Planeación de la fase de incio y de Cálculo de velocidad.
 
 ### Descripción actividad
 
 ---
 #### ![](./../../assets/images/grupo.png) Actividad grupal
 
-* Escoger la historia de usuario base (HUB)
-   * Escoger la HUB para el proyecto (se recomienda que sea una historia de complejidad media y que implique desarrollo tanto en el *backend* como en el *frontend*).
-   * Identificar con detalle las actividades necesarias para desarrollar la HUB sobre la arquitectura propuesta.
+* Escoger la historia de usuario base (HU Base)
+   * Escoger la HU Base para el proyecto (se recomienda que sea una historia de complejidad media y que implique desarrollo tanto en el *backend*, incluyendo persistencia, como en el *frontend*).
+   * Discutir en con detalle las actividades necesarias para desarrollar la HU Base sobre la arquitectura propuesta. Tener en cuenta los criterios para la definición de terminado ([DoD](https://avargas20.github.io/MISW-Procesos/semanas/inception/semana3/s3_DoD), por sus siglas en ingles).
    * Definir los puntos de historia de usuario (PHU) que se le van a asignar (se recomienda que sea un valor intermedio, generalmente 3 o 5).
-   * Tener en cuenta los criterios para la definición de terminado ([DoD](https://avargas20.github.io/MISW-Procesos/semanas/inception/semana3/s3_DoD), por sus siglas en ingles).
-* Estimar todo el *Product Backlog* (PBL)
-   * Dada la HUB seleccionada, cada equipo debe estimar las historias de usuario (HU) del PBL del proyecto, utilizando la técnica de *Planning Poker*.
+   
+* Estimar todo el *Product Backlog* (PBL):
+   * Dada la HU Base seleccionada, cada equipo debe estimar las historias de usuario (HU) del PBL del proyecto, utilizando la técnica de *Planning Poker*.
    * Registrar el resultado de la estimación en el PBL en Jira.
 * Cálculo de la velocidad del equipo
-   * Utilizando la técnica de *Planning Poker* estimar en horas las actividades para desarrollar la HUB (se deben tener en cuenta todas las actividades).
+   * Utilizando la técnica de *Planning Poker* estimar en horas las actividades para desarrollar la HU Base (se deben tener en cuenta todas las actividades).
    * Diligenciar el formato para cálculo de velocidad disponible en Recursos y cargarlo en la wiki.
 * Teniendo en cuenta la velocidad calculada y las estimaciones del PBL definir el alcance del sprint
-   * Proponer un listado de historias de usuario candidatas para ser incluidas en el primer sprint y cargarlo en la Wiki.
+   * Crear los sprint 1 en Jira y agregar las historias de usuario candidatas para ser incluidas en el primer sprint.
+   * Solicitar la aprobación del alcance propuesto al dueño de producto (tutor o profesor).
 
  
 ### Recursos 
@@ -40,8 +48,9 @@ Realizar la planeación general del proyecto.
 ### Entregables
 
 ---
-* URL al proyecto del equipo en Jira.
-* URL a la wiki del proyecto en GitHub.
+* Historias de usuario del PBL se encuentran estimadas en JIRA.
+* Formato de velocidad diligenciado en la Wiki del proyecto.
+* Sprint 1 se ha creado en JIRA y contiene las Historias de usuario seleccionadas y aprobadas por el dueño de producto para el sprint.
 
 ### Criterios de evaluación
 

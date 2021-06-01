@@ -9,6 +9,10 @@
 ---
 Diseñar la arquitectura del producto teniendo en cuenta los requerimientos globales (*Product Backlog*), el lenguaje de programación y los *frameworks* de desarrollo que se van a utilizar.
 
+### Pasos previos
+---
+
+Revisar la arquitectura de referencia de la aplicación base para entender su diseño y cómo esta desarrollada.
 
 ### Descripción actividad
 

@@ -8,7 +8,7 @@
 
 ---
 * Configurar el ambiente de desarrollo de cada uno de los integrantes del equipo.
-* Definir el flujo de trabajo que el equipo va a utilizar en Git para iniciar la implementación del proyecto.
+* Acordar el flujo de trabajo que el equipo va a utilizar en Git para iniciar la implementación del proyecto.
 
 ### Descripción actividad
 
@@ -19,24 +19,24 @@ Realizar la instalación y configuración del ambiente de desarrollo de acuerdo 
 
 #### ![](./../../assets/images/grupo.png) Actividad grupal
 
-* Acordar el flujo de trabajo que se seguirá para la implementación y consignar el acuerdo en el formato [Flujo de trabajo](https://ticsw.github.io/mt1_practicas_guias_proyecto/semanas/semana4/MT1PEA-FM-FlujoDeTrabajo.html).
+* Acordar el flujo de trabajo que se seguirá para la implementación. Revisar el flujo GitFlow propuesto y realizar los ajustes que el grupo acuerde. Consignar el flujo definido por el equipo en el formato [Flujo de trabajo](https://ticsw.github.io/mt1_practicas_guias_proyecto/semanas/semana4/MT1PEA-FM-FlujoDeTrabajo.html).
 * Documentar los acuerdos en la wiki del proyecto.
 
 
 ### Recursos 
 
 ---
-* Instrucciones de instalación del ambiente desde cero *(Pendiente)*.
+* Instrucciones de instalación del ambiente de desarrollo *(Pendiente)*.
+* Flujo GitFlow *Pendiente*
 * [Formato Flujo de trabajo](https://ticsw.github.io/mt1_practicas_guias_proyecto/semanas/semana4/MT1PEA-FM-FlujoDeTrabajo.html).
 
 
 ### Entregables 
 
 ---
-* URL al proyecto del equipo en Jira.
-* URL al repositorio del equipo en GitHub.
+* El flujo de trabajo acordado por el equipo se encuentra en la Wiki del proyecto.
 
 ### Criterios de evaluación
 ---
-
-Se evidencia en el repositorio de cada grupo la creación de las ramas permanentes de acuerdo con el flujo de trabajo seleccionado.
+* El flujo de trabajo definido debe.... (*completar*)
+* Se evidencia en el repositorio de cada grupo la creación de las ramas permanentes de acuerdo con el flujo de trabajo seleccionado.

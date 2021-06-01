@@ -46,8 +46,7 @@ Las actividades que deben realizar como parte del alistamiento son:
 ### Entregables
 
 ---
-* URL al proyecto del equipo en Jira.
-* URL a la wiki del equipo en GitHub.
+Cargar en Coursera la URL para acceder al proyecto en Jira y a la wiki en GitHub.
 
 ### Criterios de evaluación
 

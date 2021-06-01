@@ -40,8 +40,7 @@ Realizar una propuesta individual del mapa de historias de usuario de la soluci√
 ### Entregables
 ---
 
-* URL al proyecto del equipo en Jira.
-* URL a la wiki del proyecto en GitHub.
+Cargar en Coursera la URL para acceder al proyecto en Jira y a la wiki en GitHub.
 
 ### Criterios de evaluaci√≥n
 ---

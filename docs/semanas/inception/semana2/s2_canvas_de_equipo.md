@@ -33,7 +33,7 @@ y las funciones que debe desempeñar de acuerdo con la Guía de Scrum.
 ### Entregables
 ---
 
-URL a la wiki del proyecto en GitHub.
+Cargar en Coursera la URL para acceder a la wiki en GitHub.
 
 ### Criterios de evaluación
 ---

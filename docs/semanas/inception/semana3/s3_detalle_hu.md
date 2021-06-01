@@ -13,7 +13,7 @@
 ### Pasos previos
 
 ---
-Antes de realizar esta actividad, el equipo debe convocar la reunión de priorización del PBL con el *Product Owner* (PO).
+El PBL se encuentra en Jira  y ha sido priorizado con el PO.
 
 ### Descripción actividad
 
@@ -21,18 +21,18 @@ Antes de realizar esta actividad, el equipo debe convocar la reunión de prioriz
 
 #### ![](./../../assets/images/grupo.png) Actividad grupal
 
-Distribuir en equipo las historias priorizadas por el PO.
+Distribuir entre el equipo las historias priorizadas por el PO. Para cada historia se debe asignar un responsable de detallar la historia y un responsable para inspeccionarla.
 
 
 #### ![](./../../assets/images/individuo.png) Actividad individual
 
 * Detallar HU:
-  * Detallar cada HU con la descripción, los criterios de aceptación y *mockups*.
-  * Cargar el detalle de las HU en Jira.
+  * Detallar cada HU con la descripción, los criterios de aceptación y  los *mockups*.
+  * Registrar el detalle de las HU en Jira.
 
 * Inspeccionar HU:
   * Realizar la inspección de las HU detalladas por otro compañero teniendo en cuenta la [Lista de chequeo para la inspección de HU](https://ticsw.github.io/mt1_practicas_guias_proyecto/semanas/semana3/MT1PEA-GuiaInspeccionHU.pdf).
-  * Registrar el resultado de la inspección en Jira.
+  * Registrar el resultado de la inspección como comentario en la historia en Jira.
   * Cada integrante del grupo corrige las historias que detalló de acuerdo con las observaciones que realizó su compañero en la inspección.
 
 
@@ -47,7 +47,7 @@ Distribuir en equipo las historias priorizadas por el PO.
 
 ---
 
-URL al proyecto del equipo en Jira.
+Las HU del tope del PBL detalladas en JIRA. El detalle incluye descripción, criterios de aceptación y *mockups*.
 
 ### Criterios de evaluación
 
