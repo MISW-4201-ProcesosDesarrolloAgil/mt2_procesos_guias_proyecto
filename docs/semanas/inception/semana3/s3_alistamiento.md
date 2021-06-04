@@ -13,7 +13,7 @@
 ### Descripción actividad
 
 ---
-#### ![](../../assets/images/individuo.png) Actividad individual---
+#### ![](../assets/images/individuo.png) Actividad individual------+--
 
 Realizar la instalación y configuración del ambiente de desarrollo de acuerdo con las instrucciones proporcionadas.
 
