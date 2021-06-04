@@ -8,7 +8,7 @@
 
 ---
 * Identificar los riesgos del proyecto.
-* Seleccionar los riesgos con mayor impacto a partir del analisis de la matriz de riesgos.
+* Seleccionar los riesgos con mayor impacto a partir del análisis de la matriz de riesgos.
 * Definir las acciones preventivas y correctivas de los riesgos seleccionados.
 
 ### Descripción actividad
@@ -27,11 +27,10 @@
 ### Entregables
 
 ---
-URL a la wiki del proyecto en GitHub.
+Formato de identificación de riesgos completamente diligenciado y cargado en la wiki del proyecto.
 
 
 ### Criterios de evaluación
 
 ---
-* El formato de definición de riesgos se encuentra totalmente diligenciado
-  * Se listan los riesgos del proyecto y se definen las acciones preventivas y correctivas para los riesgos de alto impacto
+* Se listan los riesgos del proyecto y se definen las acciones preventivas y correctivas para los riesgos de alto impacto.
