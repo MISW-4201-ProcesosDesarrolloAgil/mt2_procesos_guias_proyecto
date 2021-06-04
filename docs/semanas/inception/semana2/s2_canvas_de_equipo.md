@@ -16,12 +16,14 @@ Para el desarrollo de esta actividad es necesario haber realizado la actividad d
 ### Descripción actividad
 
 ---
-#### ![](./../../assets/images/grupo.png) Actividad grupal
+#### ![](./../../../assets/images/grupo.png) Actividad grupal
 
 * Realizar una reunión con los miembros del equipo para diligenciar el Canvas de acuerdo con las instrucciones del formato proporcionado.
 ~~~
-Se recomienda aprovechar este espacio para elegir al Scrum Master del equipo teniendo en cuenta las características que debe tener
-y las funciones que debe desempeñar de acuerdo con la Guía de Scrum.
+Se recomienda aprovechar este espacio para elegir al Scrum Master y al representante del Product Owner en el equipo. 
+
+Tener en cuenta las características que cada rol debe tener y las funciones que debe desempeñar de acuerdo con la Guía
+de Scrum.
 ~~~
 * Cargar el Canvas de equipo en la wiki del proyecto.
 
