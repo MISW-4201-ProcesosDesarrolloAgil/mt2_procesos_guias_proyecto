@@ -1,6 +1,6 @@
-| [Inception](https://avargas20.github.io/MISW-Procesos/semanas/inception/inception) |   | [Sprint 1](https://avargas20.github.io/MISW-Procesos/semanas/sprint1/sprint1) |   | [Sprint 2](https://avargas20.github.io/MISW-Procesos/semanas/sprint2/sprint2) |   | [Cierre]() |
+| Inception |   | Sprint 1 |   | Sprint 2 |   | Cierre |
 |-----------|---|----------|---|----------|---|--------|
-| [Semana 2](https://avargas20.github.io/MISW-Procesos/semanas/inception/semana2/semana2)         | **[Semana 3](https://avargas20.github.io/MISW-Procesos/semanas/inception/semana3/semana3)** | [Semana 4](https://avargas20.github.io/MISW-Procesos/semanas/sprint1/semana4/semana4) | [Semana 5](https://avargas20.github.io/MISW-Procesos/semanas/sprint1/semana5/semana5) | [Semana 6](https://avargas20.github.io/MISW-Procesos/semanas/sprint2/semana6/semana6) | [Semana 7](https://avargas20.github.io/MISW-Procesos/semanas/sprint1/semana7/semana7) | Semana 8      |
+| [Semana 2](/mt2_procesos_guias_proyecto/semanas/inception/semana2/semana2)        | **[Semana 3](/mt2_procesos_guias_proyecto/semanas/inception/semana3/semana3)** | [Semana 4](/mt2_procesos_guias_proyecto/semanas/sprint1/semana4/semana4) | [Semana 5](/mt2_procesos_guias_proyecto/semanas/sprint1/semana5/semana5) | [Semana 6](/mt2_procesos_guias_proyecto/semanas/sprint2/semana6/semana6) | [Semana 7](/mt2_procesos_guias_proyecto/semanas/sprint2/semana7/semana7) | [Semana 8]()      |
 
 ## Estimación y planeación
 
@@ -20,11 +20,11 @@ Realizar la planeación general del proyecto. Al finalizar esta actividad cada u
 ### Descripción actividad
 
 ---
-#### ![](./../../assets/images/grupo.png) Actividad grupal
+#### ![](./../../../assets/images/grupo.png) Actividad grupal
 
 * Escoger la historia de usuario base (HU Base)
    * Escoger la HU Base para el proyecto (se recomienda que sea una historia de complejidad media y que implique desarrollo tanto en el *backend*, incluyendo persistencia, como en el *frontend*).
-   * Discutir en con detalle las actividades necesarias para desarrollar la HU Base sobre la arquitectura propuesta. Tener en cuenta los criterios para la definición de terminado ([DoD](https://avargas20.github.io/MISW-Procesos/semanas/inception/semana3/s3_DoD), por sus siglas en ingles).
+   * Discutir en con detalle las actividades necesarias para desarrollar la HU Base sobre la arquitectura propuesta. Tener en cuenta los criterios para la definición de terminado ([DoD](../inception/semana3/s3_DoD), por sus siglas en ingles).
    * Definir los puntos de historia de usuario (PHU) que se le van a asignar (se recomienda que sea un valor intermedio, generalmente 3 o 5).
    
 * Estimar todo el *Product Backlog* (PBL):
@@ -41,9 +41,9 @@ Realizar la planeación general del proyecto. Al finalizar esta actividad cada u
 ### Recursos 
 
 ---
-* [DoD primer sprint](https://avargas20.github.io/MISW-Procesos/semanas/inception/semana3/s3_DoD)
-* [Instructivo para conducir una sesión de Planning Poker](https://avargas20.github.io/MISW-Procesos/semanas/inception/semana3/s3_planning_poker)
-* [Formato para cálculo de velocidad del equipo](https://github.com/avargas20/MISW-Procesos/blob/main/docs/formats/MISW-DA-Inception-CalculoVelocidad.xlsx)
+* [DoD primer sprint](../inception/semana3/s3_DoD)
+* [Instructivo para conducir una sesión de Planning Poker](../inception/semana3/s3_planning_poker)
+* [Formato para cálculo de velocidad del equipo](./../../../formats/MISW-DA-Inception-CalculoVelocidad.xlsx)
 
 ### Entregables
 
