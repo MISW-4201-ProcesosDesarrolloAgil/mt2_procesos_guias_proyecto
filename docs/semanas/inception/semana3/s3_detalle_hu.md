@@ -1,6 +1,6 @@
-| [Inception](https://avargas20.github.io/MISW-Procesos/semanas/inception/inception) |   | [Sprint 1](https://avargas20.github.io/MISW-Procesos/semanas/sprint1/sprint1) |   | [Sprint 2](https://avargas20.github.io/MISW-Procesos/semanas/sprint2/sprint2) |   | [Cierre]() |
+| Inception |   | Sprint 1 |   | Sprint 2 |   | Cierre |
 |-----------|---|----------|---|----------|---|--------|
-| [Semana 2](https://avargas20.github.io/MISW-Procesos/semanas/inception/semana2/semana2)         | **[Semana 3](https://avargas20.github.io/MISW-Procesos/semanas/inception/semana3/semana3)** | [Semana 4](https://avargas20.github.io/MISW-Procesos/semanas/sprint1/semana4/semana4) | [Semana 5](https://avargas20.github.io/MISW-Procesos/semanas/sprint1/semana5/semana5) | [Semana 6](https://avargas20.github.io/MISW-Procesos/semanas/sprint2/semana6/semana6) | [Semana 7](https://avargas20.github.io/MISW-Procesos/semanas/sprint1/semana7/semana7) | Semana 8      |
+| [Semana 2](/mt2_procesos_guias_proyecto/semanas/inception/semana2/semana2)        | **[Semana 3](/mt2_procesos_guias_proyecto/semanas/inception/semana3/semana3)** | [Semana 4](/mt2_procesos_guias_proyecto/semanas/sprint1/semana4/semana4) | [Semana 5](/mt2_procesos_guias_proyecto/semanas/sprint1/semana5/semana5) | [Semana 6](/mt2_procesos_guias_proyecto/semanas/sprint2/semana6/semana6) | [Semana 7](/mt2_procesos_guias_proyecto/semanas/sprint2/semana7/semana7) | [Semana 8]()      |1/semana7/semana7) | Semana 8      |
 
 ## Detalle de Historias de usuario
 
@@ -19,12 +19,12 @@ El PBL se encuentra en Jira  y ha sido priorizado con el PO.
 
 ---
 
-#### ![](./../../assets/images/grupo.png) Actividad grupal
+#### ![](./../../../assets/images/grupo.png) Actividad grupal
 
 Distribuir entre el equipo las historias priorizadas por el PO. Para cada historia se debe asignar un responsable de detallar la historia y un responsable para inspeccionarla.
 
 
-#### ![](./../../assets/images/individuo.png) Actividad individual
+#### ![](./../../../assets/images/individuo.png) Actividad individual
 
 * Detallar HU:
   * Detallar cada HU con la descripción, los criterios de aceptación y  los *mockups*.
@@ -40,7 +40,7 @@ Distribuir entre el equipo las historias priorizadas por el PO. Para cada histor
 
 ---
 * [Lista de chequeo para la inspección de HU](https://ticsw.github.io/mt1_practicas_guias_proyecto/semanas/semana3/MT1PEA-GuiaInspeccionHU.pdf)
-* [Guía para determinar la Definición de Listo (Definition of Ready - DoR)](https://avargas20.github.io/MISW-Procesos/semanas/inception/semana3/s3_DoR)
+* [Guía para determinar la Definición de Listo (Definition of Ready - DoR)](../inception/semana3/s3_DoR)
 
 
 ### Entregables
