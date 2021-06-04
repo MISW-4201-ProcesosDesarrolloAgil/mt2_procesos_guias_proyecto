@@ -29,7 +29,7 @@ una tarjeta de crédito y la disponibilidad de la información registrada se pon
 ### Descripción actividad
 ---
 
-#### ![](./../../assets/images/grupo.png) Actividad grupal
+#### ![](./../../../assets/images/grupo.png) Actividad grupal
 
 Las actividades que deben realizar como parte del alistamiento son:
 
