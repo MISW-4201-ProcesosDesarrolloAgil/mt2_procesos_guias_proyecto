@@ -19,10 +19,10 @@ Para realizar esta actividad, se espera que cada miembro del equipo:
 * Cree una cuenta en [Jira](https://id.atlassian.com/signup?continue=https%3A%2F%2Fprocesos-agiles-test.atlassian.net%2Flogin%3FredirectCount%3D1%26application%3Djira&application=jira).
 
 ~~~
-Las funcionalidades de la versión gratuita son suficientes para la gestión del proyecto del curso. 
+Las funcionalidades de la versión gratuita son suficientes para la gestión del proyecto del curso.
 
-Es importante abstenerse de aceptar los planes de prueba disponibles pues una vez finalizan es requerido ingresar
-una tarjeta de crédito y la disponibilidad de la información registrada se pone en riesgo.
+Abstengase de aceptar las opciones de periodos de prueba para los planes pagos pues una vez finalizan, no tendrá acceso
+a la información de los proyectos creados en el plan free. 
 ~~~
 
 
