@@ -4,10 +4,10 @@
 
 ### Descripción 
 ---
-La definición de terminado (DoD, por sus siglas en ingles) consiste en un checklist con actividades que el equipo debe haber completado antes de considerar una historia como terminada y que se puede entregar al final del sprint.
+La definición de terminado (DoD, por sus siglas en inglés) consiste en una lista de chequeo con actividades que el equipo debe haber completado antes de considerar una historia como terminada y que se puede entregar al final del sprint.
 
 
-### Definición de terminado para el Sprint
+### Definición de terminado para el sprint
 ---
 
 La siguiente es la DoD para el sprint 1:
@@ -19,8 +19,8 @@ La siguiente es la DoD para el sprint 1:
 * La historia de usuario se ha desplegado en el ambiente de pruebas.
 * Se han realizado pruebas funcionales del la historia de usuario y han sido satisfactorias.
 * Se ha actualizado la documentación del producto
-  * Documento de arquitectura actualizado, incluyendo documentación de servicios.
-  * Se ha actualizado el detalle de la historia de usuario, incluyendo la descripción, los criterios de aceptación y los mockups
+  * Documento de arquitectura, incluyendo documentación de servicios.
+  * El detalle de las historias de usuario, incluyendo la descripción, los criterios de aceptación y los *mockups*.
   * Casos de prueba. (*Revisar*)
 
 **Proceso** (*Revisemos*)
