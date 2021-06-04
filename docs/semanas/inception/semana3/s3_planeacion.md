@@ -24,7 +24,7 @@ Realizar la planeación general del proyecto. Al finalizar esta actividad cada u
 
 * Escoger la historia de usuario base (HU Base)
    * Escoger la HU Base para el proyecto (se recomienda que sea una historia de complejidad media y que implique desarrollo tanto en el *backend*, incluyendo persistencia, como en el *frontend*).
-   * Discutir en con detalle las actividades necesarias para desarrollar la HU Base sobre la arquitectura propuesta. Tener en cuenta los criterios para la definición de terminado ([DoD](../inception/semana3/s3_DoD), por sus siglas en inglés).
+   * Discutir en detalle las actividades necesarias para desarrollar la HU Base sobre la arquitectura propuesta. Tener en cuenta los criterios para la definición de terminado ([DoD](../inception/semana3/s3_DoD), por sus siglas en inglés).
    * Definir los puntos de historia de usuario (PHU) que se le van a asignar (se recomienda que sea un valor intermedio, generalmente 3 o 5).
    
 * Estimar todo el *Product Backlog* (PBL):
@@ -34,7 +34,7 @@ Realizar la planeación general del proyecto. Al finalizar esta actividad cada u
    * Utilizando la técnica de *Planning Poker* estimar en horas las actividades para desarrollar la HU Base (se deben tener en cuenta todas las actividades).
    * Diligenciar el formato para cálculo de velocidad disponible en Recursos y cargarlo en la wiki.
 * Teniendo en cuenta la velocidad calculada y las estimaciones del PBL definir el alcance del sprint
-   * Crear los sprint 1 en Jira y agregar las historias de usuario candidatas para ser incluidas en el primer sprint.
+   * Crear el sprint 1 en Jira y agregar las historias de usuario candidatas para ser incluidas en el primer sprint.
    * Solicitar la aprobación del alcance propuesto al dueño de producto (tutor o profesor).
 
  
