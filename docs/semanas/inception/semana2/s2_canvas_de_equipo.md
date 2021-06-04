@@ -23,7 +23,7 @@ Para el desarrollo de esta actividad es necesario haber realizado la actividad d
 ~~~
 Se recomienda aprovechar este espacio para elegir al Scrum Master y al representante del Product Owner en el equipo. 
 
-Tener en cuenta las características que cada rol debe tener y las funciones que debe desempeñar de acuerdo con la Guía
+Tener en cuenta las características que debe tener cada rol y las funciones que debe desempeñar de acuerdo con la Guía
 de Scrum.
 ~~~
 
