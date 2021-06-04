@@ -20,11 +20,11 @@
 ### Descripción actividad
 ---
 
-#### ![](./../../assets/images/individuo.png) Actividad individual
+#### ![](./../../../assets/images/individuo.png) Actividad individual
 
 Realizar una propuesta individual del mapa de historias de usuario de la solución.
 
-#### ![](./../../assets/images/grupo.png) Actividad grupal
+#### ![](./../../../assets/images/grupo.png) Actividad grupal
 
 * En equipo, socializar las propuestas individuales y realizar la construcción colectiva del mapa de historias de usuario y del PBL de la solución. 
 * Al menos un representante de cada equipo debe participar en la reunión sincrónica de priorización de historias de usuario (HU) con el profesor / tutor.
