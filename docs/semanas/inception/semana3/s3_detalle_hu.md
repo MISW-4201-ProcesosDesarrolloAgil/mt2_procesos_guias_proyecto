@@ -47,7 +47,7 @@ Distribuir entre el equipo las historias priorizadas por el PO. Para cada histor
 
 ---
 
-Las HU del tope del PBL detalladas en JIRA. El detalle incluye descripción, criterios de aceptación y *mockups*.
+Las HU del tope del PBL detalladas en Jira. El detalle incluye descripción, criterios de aceptación y *mockups*.
 
 ### Criterios de evaluación
 
