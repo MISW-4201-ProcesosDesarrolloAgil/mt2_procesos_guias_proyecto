@@ -13,7 +13,7 @@ Realizar la planeación del sprint para lograr un entendimiento común de los mi
 ### Pasos previos
 ---
 
-* El alcance del sprint se encuentra acordado con el Product Owner (tutor).
+* El alcance del sprint se encuentra acordado con el *Product Owner* (tutor).
 * El sprint se encuentra creado en Jira.
 
 
