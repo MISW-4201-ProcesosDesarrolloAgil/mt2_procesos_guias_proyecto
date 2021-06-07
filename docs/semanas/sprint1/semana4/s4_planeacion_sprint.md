@@ -41,4 +41,4 @@ La planeación de tareas del sprint en el tablero de tareas de Jira.
 ### Criterios de evaluación
 
 ---
-Se evidencia el inicio del sprint y la distribución de tareas en el tablero Kanban.
+Se evidencia el inicio del sprint y la distribución de tareas en el tablero de tareas de Jira.
