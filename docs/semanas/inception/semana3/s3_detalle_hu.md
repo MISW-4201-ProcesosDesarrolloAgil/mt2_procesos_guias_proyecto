@@ -8,12 +8,12 @@
 
 ---
 * Detallar las historias de usuario (HU) con mayor prioridad en el *Product Backlog* (PBL). 
-* Asegurar la calidad de las HU a través la inspección.
+* Asegurar la calidad de las HU a través de la inspección.
 
 ### Pasos previos
 
 ---
-El PBL se encuentra en Jira  y ha sido priorizado con el PO.
+El PBL se encuentra en Jira  y ha sido priorizado con el *Product Owner* (PO).
 
 ### Descripción actividad
 
