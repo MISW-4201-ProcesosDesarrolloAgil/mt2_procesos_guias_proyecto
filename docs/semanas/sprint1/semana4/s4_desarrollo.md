@@ -42,8 +42,11 @@ URL del repositorio del equipo en GitHub.
 ### Criterios de evaluación
 ---
 
-* Todas las pruebas unitarias funcionan correctamente.
-* Se evidencia en el historial del respositorio el desarrollo usando TDD.
-* El resultado de la integración continua es exitoso.
-* Las grabaciones de *Daily meetings* se encuentran cargadas o referenciadas en la wiki del proyecto.
-* El estado del tablero Kanban del proyecto en Jira refleja el estado de las actividades durante el proceso.
+* Se lleva un registro de las reuniones diarias mediante grabaciones y registro fotográfico de tableros Kanban (6 por cada hito).
+•	Se hace seguimiento de actividades mediante la herramienta de control de tareas Jira.
+•	Se cuenta con una gráfica de seguimiento que evidencia un flujo de trabajo constante y acorde a las estimaciones (Burndown Chart).
+•	Se cuenta con registros de tiempos y reportes consolidados para finalizar el Sprint 1, que sea de utilidad para reestimar el siguiente ciclo de trabajo.
+•	El código fuente de la aplicación ha sido versionado mediante un gestor de versiones (Git).
+•	Se evidencia la participación de todo el equipo de trabajo en el desarrollo mediante commits en el código fuente de la aplicación.
+•	El producto desarrollado ha sido desplegado con éxito en el ambiente de desarrollo.
+•	El producto entregado cuenta con las características funcionales esperadas y planeadas para el sprint.
