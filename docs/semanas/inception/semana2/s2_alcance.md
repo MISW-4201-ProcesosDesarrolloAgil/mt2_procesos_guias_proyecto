@@ -45,5 +45,16 @@ Cargar en Coursera la URL para acceder al proyecto en Jira y a la wiki en GitHub
 ### Criterios de evaluación
 ---
 
-* El mapa de historias de usuario contempla la identificación de usuarios, épicas, actividades, historias de usuario y planes de lanzamiento del producto.
-* El PBL se encuentra priorizado de acuerdo con reunión de priorización con el dueño de producto.
+* Mapa de historias de usuario:
+  * Identifica los usuarios claves del problema.
+  * Identifica las diferentes grandes funcionalidades o Épicas en las que se puede dividir la solución y las sitúa en un orden lógico secuencial asociado a cada usuario.
+  * Descompone las funcionalidades identificadas en funcionalidades más pequeñas o historias de usuarios acorde a las acciones que realizan los usuarios.
+  * Identifica las sub-tareas que deben ser desarrolladas acorde a cada funcionalidad esperada asegurando la entrega de valor en cada una de ellas.
+  * Prioriza las historias usuario acorde a las necesidades y expectativas del cliente.
+  * Define un plan de entrega de *releases* por cada sprint del proyecto.
+  * Las funcionalidades planteadas corresponden a lo solicitado por el *Product Owner*.
+  * Las funcionalidades esperadas para el producto están claramente distribuidas a lo largo del mapa.
+  * No se presentan dependencias entre historias y *releases*.
+  
+* *Product Backlog*:
+  * El *backlog* de historias de usuario iniciales está definido con base en la necesidad y requerimientos planteados por los *stakeholders*.
