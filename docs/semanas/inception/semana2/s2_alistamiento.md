@@ -7,7 +7,7 @@
 ### Objetivos
 ---
 
-Estructurar el espacio para la gestión y documentación del proyecto en Jira y la Wiki de GitHub.
+Estructurar el espacio para la gestión y documentación del proyecto en Jira y la wiki de GitHub.
 
 
 ### Pasos previos
@@ -52,6 +52,6 @@ Cargar en Coursera la URL para acceder al proyecto en Jira y a la wiki en GitHub
 
 ---
 * Se evidencia la creación del proyecto en Jira (todos los integrantes del equipo, el profesor y el tutor tienen acceso).
-* Se evidencia en la wiki la estructuración de la documentación y la información de los integrantes del equipo
+* Se evidencia en la wiki la estructuración de la documentación y la información de los integrantes del equipo.
 
 
