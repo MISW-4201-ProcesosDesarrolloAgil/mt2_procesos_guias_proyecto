@@ -20,6 +20,7 @@ Realizar la instalación y configuración del ambiente de desarrollo de acuerdo 
 #### ![](./../../../assets/images/grupo.png) Actividad grupal
 
 * Acordar el flujo de trabajo que se seguirá para la implementación. Revisar el flujo GitFlow propuesto y realizar los ajustes que el grupo acuerde. Consignar el flujo definido por el equipo en el formato [Flujo de trabajo](https://ticsw.github.io/mt1_practicas_guias_proyecto/semanas/semana4/MT1PEA-FM-FlujoDeTrabajo.html).
+* Crear un script de GitHub Actions para integrar el código que pasa exitosamente las pruebas unitarias en el repositorio de acuerdo con el flujo de trabajo definido.
 * Documentar los acuerdos en la wiki del proyecto.
 
 
