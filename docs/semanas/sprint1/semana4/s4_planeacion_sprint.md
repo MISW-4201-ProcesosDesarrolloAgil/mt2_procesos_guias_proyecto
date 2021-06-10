@@ -26,7 +26,7 @@ La planeación del sprint la realiza el equipo completo en la reunión de planea
 
 * Todos los miembros del equipo deben participar en la reunión de planeación del sprint.
 * Para cada una de las historias de usuario del *Sprint Backlog* el equipo debe:
-  * Definir las actividades necesarias para completar la historia. Tomar como referencia las actividades de la historia de usuario base, analizar cuáles de estas aplican y cuáles pueden faltar.
+  * Definir las actividades necesarias para completar la historia. Tomar como referencia las actividades de la historia de usuario base, analizar cuáles de estas aplican y cuáles pueden faltar. Adicionalmente el equipo debe acordar si para la historia van a aplicar las prácticas de *Test-driven development* (TDD) y *pair programming* y tener esto en cuenta en la definición de actividades. 
   * Estimar el tiempo necesario para ejecutar cada una de las actividades. Tomar como referencia las estimaciones de las actividades de la historia de usuario base. En el caso de no poder definir facilmente el tiempo estimado, realizar una ronda de *Planning poker* para estimarlo.
   * Registrar la información en el tablero de tareas en Jira.
 
