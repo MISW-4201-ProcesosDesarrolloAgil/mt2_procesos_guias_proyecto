@@ -21,9 +21,3 @@ La siguiente es la DoD para el sprint 1:
 * Se ha actualizado la documentación del producto
   * Documento de arquitectura, incluyendo documentación de servicios.
   * El detalle de las historias de usuario, incluyendo la descripción, los criterios de aceptación y los *mockups*.
-  * Casos de prueba. (*Revisar*)
-
-**Proceso** (*Revisemos*)
-
-* Documentación del proyecto actualizada en la wiki.
-* Evidencia de las reuniones de seguimiento del sprint cargada en la wiki.
