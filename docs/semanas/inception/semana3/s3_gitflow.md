@@ -2,7 +2,7 @@
 ## GitFlow base
 
 
-A continuación se propone un flujo de trabajo base para el desarrollo del proyecto del curso. Si desean ajustarlo estan en libertad de hacerlo.
+A continuación se propone un flujo de trabajo base para el desarrollo del proyecto del curso. Evaluar en equipo si están de acuerdo con las ramas propuestas, realizar los ajustes que consideren necesarios y completar la información solicitada.
 
 ### Repositorios
 ---
