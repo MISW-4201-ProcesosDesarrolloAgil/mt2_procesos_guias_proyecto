@@ -9,7 +9,7 @@ A continuación se propone un flujo de trabajo base para el desarrollo del proye
 
 |Nombre   |Ubicación (url/directorio)   |Propósito   |
 |---|---|---|
-|<<Nombre repositorio>>   |<<url repositorio>>  |<<Propósito repositorio>>   |
+|<< Nombre del repositorio >>   |<< Ubicación >>  |<< Propósito repositorio >>   |
 
   
 ### Ramas
@@ -34,4 +34,4 @@ Indicar los acuerdos del equipo para uso de los repositorios y ramas. Incluir ac
 
 |Acción   |Quíen   |Cuándo   |Dónde   |
 |---|---|---|---|
-|<<Acción>>   |<<Quíen>>  |<<Cuándo>>   |<<Dónde>>   |
+|<< Acción >>   |<< Quíen >>  |<< Cuándo >>   |<< Dónde >>   |
