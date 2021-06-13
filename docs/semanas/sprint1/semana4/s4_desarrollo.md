@@ -7,20 +7,19 @@
 ### Objetivos
 ---
 
-* Iniciar la ejecución de las tareas de desarrollo propuestas para el primer sprint.
-* Hacer seguimiento al avance de actividades del sprint mediante la realización de *Daily meetings* y la actualización del tablero Kanban.
+* Completar las tareas de desarrollo propuestas para el primer sprint.
+* Hacer el seguimiento al avance de actividades del sprint mediante la realización de *Daily meetings* y la actualización del tablero de actividades.
 
 
 ### Descripción actividad
 ---
+Durante la ejecución del sprint se espera que el equipo complete las actividades planeadas para el desarrollo de las historias de usuario comprometidas para el sprint. En cada semana vamos a simular que pasan 2 dias de desarrollo. 
 
 #### ![](./../../assets/images/individuo.png) Actividad individual
 
-* Revisar la distribución de historias de usuario (HU) en el tablero del sprint.
-* Desarrollar cada una de las historias a su cargo implementando *Test-driven development* (TDD) y pair programming (en las HU más complejas).
-  * Para dejar evidencia del uso de TDD, se debe realizar commit al repositorio al definir las pruebas, al implementar el código y al realizar *recfactoring* del código.
-  * Implementar la generación de datos aleatorios en las pruebas unitarias.
-* Crear un script de GitHub Actions para integrar el código que pasa exitosamente las pruebas unitarias en el repositorio de acuerdo con el flujo de trabajo definido.
+* Revisar la distribución de las tareas de historias de usuario (HU) en el tablero del sprint.
+* Ejecutar las tareas asignadas para el siguiente "Daily Meeting"
+* Actualizar los tiempos reales de las actividades en JIRA. 
 
 #### ![](./../../assets/images/grupo.png) Actividad grupal
 
@@ -42,11 +41,8 @@ URL del repositorio del equipo en GitHub.
 ### Criterios de evaluación
 ---
 
-* Se lleva un registro de las reuniones diarias mediante grabaciones y registro fotográfico de tableros Kanban (6 por cada hito).
-* Se hace seguimiento de actividades mediante la herramienta de control de tareas Jira.
-* Se cuenta con una gráfica de seguimiento que evidencia un flujo de trabajo constante y acorde a las estimaciones (Burndown Chart).
-* Se cuenta con registros de tiempos y reportes consolidados para finalizar el Sprint 1, que sea de utilidad para reestimar el siguiente ciclo de trabajo.
-* El código fuente de la aplicación ha sido versionado mediante un gestor de versiones (Git).
-* Se evidencia la participación de todo el equipo de trabajo en el desarrollo mediante commits en el código fuente de la aplicación.
-* El producto desarrollado ha sido desplegado con éxito en el ambiente de desarrollo.
-* El producto entregado cuenta con las características funcionales esperadas y planeadas para el sprint.
+* Todas las pruebas unitarias funcionan correctamente.
+* Se evidencia en el historial del respositorio el desarrollo usando TDD.
+* El resultado de la integración continua es exitoso.
+* Las grabaciones de *Daily meetings* se encuentran cargadas o referenciadas en la wiki del proyecto.
+* El estado del tablero  del proyecto en Jira refleja el estado de las actividades durante el proceso.
