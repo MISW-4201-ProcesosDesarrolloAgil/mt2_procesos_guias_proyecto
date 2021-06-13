@@ -19,7 +19,7 @@ Realizar la instalación y configuración del ambiente de desarrollo de acuerdo 
 
 #### ![](./../../../assets/images/grupo.png) Actividad grupal
 
-* Acordar el flujo de trabajo que se seguirá para la implementación. Revisar el flujo GitFlow propuesto y realizar los ajustes que el grupo acuerde. Consignar el flujo definido por el equipo en el formato [Flujo de trabajo](https://ticsw.github.io/mt1_practicas_guias_proyecto/semanas/semana4/MT1PEA-FM-FlujoDeTrabajo.html).
+* Acordar el flujo de trabajo que se seguirá para la implementación. Revisar el [flujo GitFlow](../semana3/s3_gitflow) propuesto y realizar los ajustes que el grupo acuerde.
 * Crear un script de GitHub Actions para integrar el código que pasa exitosamente las pruebas unitarias en el repositorio de acuerdo con el flujo de trabajo definido.
 * Documentar los acuerdos en la wiki del proyecto.
 
@@ -28,16 +28,14 @@ Realizar la instalación y configuración del ambiente de desarrollo de acuerdo 
 
 ---
 * Instrucciones de instalación del ambiente de desarrollo *(Pendiente)*.
-* Flujo GitFlow *Pendiente*
-* [Formato Flujo de trabajo](https://ticsw.github.io/mt1_practicas_guias_proyecto/semanas/semana4/MT1PEA-FM-FlujoDeTrabajo.html).
-
+* [Flujo GitFlow](../semana3/s3_gitflow)
 
 ### Entregables 
 
 ---
-* El flujo de trabajo acordado por el equipo se encuentra en la Wiki del proyecto.
+* El flujo de trabajo acordado por el equipo se encuentra en la wiki del proyecto.
 
 ### Criterios de evaluación
 ---
-* El flujo de trabajo definido debe.... (*completar*)
+* El flujo de trabajo definido especifica la información de las ramas y acuerdos del equipo para su uso.
 * Se evidencia en el repositorio de cada grupo la creación de las ramas permanentes de acuerdo con el flujo de trabajo seleccionado.
