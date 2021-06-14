@@ -24,7 +24,7 @@ Para el desarrollo de esta actividad es necesario haber realizado la actividad d
 Se recomienda aprovechar este espacio para elegir al Scrum Master y al representante de el dueño de producto en el equipo. 
 
 Tener en cuenta las características que debe tener cada rol y las funciones que debe desempeñar de acuerdo con la Guía
-de Scrum y los videos referenciados en la sección de Recursos en Coursera.
+de Scrum y los videos referenciados en la sección de Recursos en Coursera (enlace).
 ~~~
 
 * Cargar el Canvas de equipo en la wiki del proyecto.
