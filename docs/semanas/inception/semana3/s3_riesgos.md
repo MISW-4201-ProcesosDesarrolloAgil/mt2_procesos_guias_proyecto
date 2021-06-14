@@ -33,4 +33,4 @@ Formato de identificación de riesgos completamente diligenciado y cargado en la
 ### Criterios de evaluación
 
 ---
-* Se listan los riesgos del proyecto y se definen las acciones preventivas y correctivas para los riesgos de alto impacto.
+Se listan los riesgos del proyecto y se definen las acciones preventivas y correctivas para los riesgos de alto impacto.
