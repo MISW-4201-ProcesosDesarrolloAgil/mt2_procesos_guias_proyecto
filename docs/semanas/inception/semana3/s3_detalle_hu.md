@@ -32,7 +32,7 @@ Distribuir entre el equipo las historias priorizadas por el dueño de producto. 
   * Registrar el detalle de las HU en Jira.
 
 * Inspeccionar HU:
-  * Realizar la inspección de las HU detalladas por otro compañero teniendo en cuenta la [Lista de chequeo para la inspección de HU](../inception/semana3/s3_guia_inspeccion_hu).
+  * Realizar la inspección de las HU detalladas por otro compañero teniendo en cuenta la [lista de chequeo para la inspección de HU](../inception/semana3/s3_guia_inspeccion_hu).
   * Registrar el resultado de la inspección como comentario en la historia en Jira.
   * Cada integrante del grupo corrige las historias que detalló de acuerdo con las observaciones que realizó su compañero en la inspección.
 
