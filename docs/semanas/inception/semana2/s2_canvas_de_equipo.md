@@ -21,10 +21,10 @@ Para el desarrollo de esta actividad es necesario haber realizado la actividad d
 * Realizar una reunión con los miembros del equipo para diligenciar el Canvas de acuerdo con las instrucciones del formato proporcionado.
 
 ~~~
-Se recomienda aprovechar este espacio para elegir al Scrum Master y al representante del Product Owner en el equipo. 
+Se recomienda aprovechar este espacio para elegir al Scrum Master y al representante de el dueño de producto en el equipo. 
 
 Tener en cuenta las características que debe tener cada rol y las funciones que debe desempeñar de acuerdo con la Guía
-de Scrum.
+de Scrum y los videos referenciados en la sección de Recursos en Coursera.
 ~~~
 
 * Cargar el Canvas de equipo en la wiki del proyecto.
