@@ -7,7 +7,7 @@
 ### Objetivos
 ---
 
-Realizar la planeación del sprint para lograr un entendimiento común de los miembros del equipo sobre las historias a desarrollar.
+Realizar la planeación del sprint para lograr un entendimiento común de los miembros del equipo sobre las actividades que se van a desarrollar.
 
 
 ### Pasos previos
@@ -30,10 +30,10 @@ Durante esta semana los miembros del equipo deben coordinarse para realizar las 
   * Estimar los tiempos de las actividades de la HUB.
   * Realizar el cálculo de la velocidad del equipo.
   * Cargar el cálculo de velocidad en la wiki y actualizar la estimación de las HU en Jira.
-* Junto con el PO, definir el alcance del sprint de acuerdo con el cálculo de velocidad del equipo.
+* Junto con el dueño de producto, definir el alcance del sprint de acuerdo con el cálculo de velocidad del equipo.
 * Planeación detallada:
   * El equipo de desarrollo debe identificar las actividades necesarias para completar cada una de las HU del sprint y su tiempo estimado.
-* Cargar esta información en Jira y dar inicio al sprint.
+* Cargar esta información en Jira, crear y dar inicio al sprint.
 
 ### Recursos 
 ---
