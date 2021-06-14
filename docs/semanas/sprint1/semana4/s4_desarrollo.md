@@ -13,7 +13,7 @@
 
 ### Descripción actividad
 ---
-Durante la ejecución del sprint se espera que el equipo complete las actividades planeadas para el desarrollo de las historias de usuario comprometidas para el sprint. En cada semana vamos a simular que pasan 3 dias de desarrollo (esto corresponde al número esperado de *daily meetings* por semana).
+Durante la ejecución del sprint se espera que el equipo complete las actividades planeadas para el desarrollo de las historias de usuario comprometidas para el sprint. En cada semana vamos a simular que pasan 2 dias de desarrollo (esto corresponde al número esperado de *daily meetings* por semana).
 
 #### ![](./../../../assets/images/individuo.png) Actividad individual
 
@@ -23,7 +23,7 @@ Durante la ejecución del sprint se espera que el equipo complete las actividade
 
 #### ![](./../../../assets/images/grupo.png) Actividad grupal
 
-* Definir en equipo el horario y periodicidad que más se ajuste para la realización de *Daily meetings* (se recomienda hacerlas mínimo 3 veces por semana en el mismo horario).
+* Definir en equipo el horario y periodicidad que más se ajuste para la realización de *Daily meetings* (se recomienda hacerlas mínimo 2 veces por semana en el mismo horario).
 * Realizar las *Daily meetings* en los horarios definidos y teniendo en cuenta el instructivo disponible en Recursos.
 * Cargar las evidencias de la realización de *Daily meetings* en la wiki del proyecto.
 
