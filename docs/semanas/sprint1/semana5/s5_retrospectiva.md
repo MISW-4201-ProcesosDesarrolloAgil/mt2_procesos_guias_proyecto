@@ -15,7 +15,7 @@
 
 ---
 
-#### ![](./../../assets/images/grupo.png) Actividad grupal
+#### ![](./../../../assets/images/grupo.png) Actividad grupal
 
 * Recoger los datos del sprint y analizarlos:
   * HU teminadas y no terminadas.
