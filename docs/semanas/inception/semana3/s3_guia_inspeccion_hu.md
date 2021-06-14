@@ -34,5 +34,5 @@ Encuentre a continuación una guía con los criterios para realizar la inspecci�
 ### Referencias
 ---
 
-Rubin, K. (2012). Chapter 5. Requirements and User Stories en Essential Scrum: A Practical Guide to the Most Popular Agile Process. Estados Unidos: Addison-Wesley Professional.
+Rubin, K. (2012). *Chapter 5. Requirements and User Stories* en *Essential Scrum: A Practical Guide to the Most Popular Agile Process*. Estados Unidos: Addison-Wesley Professional.
 
