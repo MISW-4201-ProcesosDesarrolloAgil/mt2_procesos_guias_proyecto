@@ -15,13 +15,13 @@ La DoR se utiliza para asegurar que las historias de usuario (HU) están en cond
 ### Criterios
 ---
 
-A continuación se proponen los criterios iniciales que de acuerdo con Rubin (2013) se deben cumplir para poder incluir una historia en el *sprint backlog*:
+A continuación se proponen los criterios iniciales que de acuerdo con Rubin (2012) se deben cumplir para poder incluir una historia en el *sprint backlog*:
 
-- El equipo comprende completamente el detalle de las HU (Rubin, 2013).
-- No hay dependencias externas que puedan impedir que la HU se complete (Rubin, 2013).
-- La HU ha sido debidamente estimada y es lo suficientemente pequeña para ser completada en un sprint (Rubin, 2013).
-- Los criterios de aceptación son claros y verificables (Rubin, 2013).
-- El equipo comprende cómo mostrar la HU durante la demostración al *Product Owner* (PO) (Rubin, 2013).
+- El equipo comprende completamente el detalle de las HU (Rubin, 2012).
+- No hay dependencias externas que puedan impedir que la HU se complete (Rubin, 2012).
+- La HU ha sido debidamente estimada y es lo suficientemente pequeña para ser completada en un sprint (Rubin, 2012).
+- Los criterios de aceptación son claros y verificables (Rubin, 2012).
+- El equipo comprende cómo mostrar la HU durante la demostración al *Product Owner* (PO) (Rubin, 2012).
 
 Otros criterios iniciales que deben cumplir las HU son:
 
@@ -33,4 +33,4 @@ Si el equipo considera que es necesario agregar un criterio, está en libertad d
 ### Referencias
 ---
 
-*Rubin, K. (2013). Essential Scrum- A practical guide to the most popular agile process. Estados Unidos: Addison Wesley*
+Rubin, K. (2012). *Essential Scrum: A Practical Guide to the Most Popular Agile Process*. Estados Unidos: Addison-Wesley Professional.
