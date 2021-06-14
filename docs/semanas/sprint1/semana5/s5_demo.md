@@ -13,7 +13,7 @@ Preparar la demostración de las historias de usuario (HU) completadas durante e
 ### Descripción actividad
 ---
 
-#### ![](./../../assets/images/grupo.png) Actividad grupal
+#### ![](./../../../assets/images/grupo.png) Actividad grupal
 
 Para realizar la demostración, el equipo debe:
 
