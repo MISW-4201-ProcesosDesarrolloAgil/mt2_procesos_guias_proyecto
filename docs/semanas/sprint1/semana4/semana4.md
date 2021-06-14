@@ -15,4 +15,4 @@ Los objetivos para esta semana, en el marco del desarrollo del proyecto del curs
 |---------------|
 |[Sprint 1. Planeación](../semana4/s4_planeacion_sprint)  |
 |[Sprint 1. Desarrollo](../semana4/s4_desarrollo)|
-|[Sprint 1. Refinamiento del *product backlog*](../sprint1/semana5/s5_grooming)|
+|[Sprint 1. Refinamiento del *product backlog*](../semana5/s5_grooming)|
