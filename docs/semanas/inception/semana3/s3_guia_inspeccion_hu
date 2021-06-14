@@ -1,0 +1,16 @@
+## Guía para inspección de historias de usuario
+
+| Criterios  | Nivel  | Descripción  | Observaciones para la inspección  |
+|---|---|---|---|
+| Forma  | Listado de historias  | Cada historia se presenta en la forma "Como <usuario> quisiera que <funcionalidad> para <propósito>".  | <usuario>: usuario del sistema que se reconoce en el
+enunciado. Responde a la pregunta ¿quién usará la funcionalidad? 
+<funcionalidad>: aquello que se espera que el <usuario> pueda hacer. Responde a la pregunta ¿Qué puede hacer el usuario?
+<propósito>: el objetivo que quiere alcanzar el <usuario> al ejecutar la <funcionalidad>. Responde a la pregunta ¿Para qué le sirve al usuario?  |
+| Completo  | Listado de historias  | Cubre totalmente las funcionalidades solicitadas en el enunciado y contiene lo necesario para cumplir con el objetivo del producto
+solicitado.  | ¿Las historias incluyen todas las funcionalidades contempladas en el enunciado para cada uno de los usuarios identificados?  |
+| Consistente  | Listado de historias  | En el listado de HU no se presentan contradicciones o inconsistencias entre historias.  |   |
+| Independiente  | Listado de historias  | La historias de las lista son independientes entre sí, es decir se podrían desarrollar por separado.  | Verificar que las historias no se superponen entre ellas (la
+misma fucionalidad se contempla en dos historias).
+Verifcar que la dependencia en el orden de desarrollo de las historias se ha reducido lo más posible.
+Verificar que las historias no están contenidas entre ellas.  |
+ 
