@@ -24,7 +24,7 @@ Realizar la planeación general del proyecto. Al finalizar esta actividad cada u
 
 * Escoger la historia de usuario base (HU Base)
    * Escoger la HU Base para el proyecto (se recomienda que sea una historia de complejidad media y que implique desarrollo tanto en el *backend*, incluyendo persistencia, como en el *frontend*).
-   * Discutir en detalle las actividades necesarias para desarrollar la HU Base sobre la arquitectura propuesta. Tener en cuenta los criterios para la definición de terminado ([DoD](../inception/semana3/s3_DoD), por sus siglas en inglés).
+   * Discutir en detalle las actividades necesarias para desarrollar la HU Base sobre la arquitectura propuesta. Tener en cuenta los criterios para la definición de terminado ([DoD](../semana3/s3_DoD), por sus siglas en inglés).
    * Definir los puntos de historia de usuario (PHU) que se le van a asignar (se recomienda que sea un valor intermedio, generalmente 3 o 5).
    
 * Estimar todo el *Product Backlog* (PBL):
@@ -41,8 +41,8 @@ Realizar la planeación general del proyecto. Al finalizar esta actividad cada u
 ### Recursos 
 
 ---
-* [DoD primer sprint](../inception/semana3/s3_DoD)
-* [Instructivo para conducir una sesión de Planning Poker](../inception/semana3/s3_planning_poker)
+* [DoD primer sprint](../semana3/s3_DoD)
+* [Instructivo para conducir una sesión de Planning Poker](../semana3/s3_planning_poker)
 * [Formato para cálculo de velocidad del equipo](./../../../formats/MISW-DA-Inception-CalculoVelocidad.xlsx)
 
 ### Entregables
