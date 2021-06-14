@@ -7,20 +7,19 @@
 ### Objetivos
 
 ---
-* Iniciar la ejecución de las tareas de desarrollo propuestas para el segundo sprint.
-* Hacer seguimiento al avance de actividades del sprint mediante la realización de *Daily meetings* y la actualización del tablero Kanban.
-
+* Completar las tareas de desarrollo propuestas para el primer sprint.
+* Hacer seguimiento al avance de actividades del sprint mediante la realización de *Daily meetings* y actualizar el tablero de tareas.
 
 ### Descripción actividad
-
 ---
+
+Durante la ejecución del sprint se espera que el equipo complete las actividades planeadas para el desarrollo de las historias de usuario comprometidas para el sprint. En cada semana vamos a simular que pasan 2 días de desarrollo (esto corresponde al número esperado de *daily meetings* por semana).
+
 #### ![](./../../../assets/images/individuo.png) Actividad individual
 
-* Revisar la distribución de historias de usuario (HU) en el tablero del sprint.
-* Desarrollar cada una de las historias a su cargo implementando *Test-driven development* (TDD) y pair programming (en las HU más complejas).
-  * Para dejar evidencia del uso de TDD, se debe realizar commit al repositorio al definir las pruebas, al implementar el código y al realizar *recfactoring* del código.
-  * Implementar la generación de datos aleatorios en las pruebas unitarias.
-* Crear un script de GitHub Actions para integrar el código que pasa exitosamente las pruebas unitarias en el repositorio de acuerdo con el flujo de trabajo definido.
+* Revisar la distribución de las tareas de historias de usuario (HU) en el tablero del sprint.
+* Ejecutar las tareas asignadas para el siguiente *Daily Meeting*.
+* Actualizar los tiempos reales de las actividades en Jira. 
 
 #### ![](./../../../assets/images/grupo.png) Actividad grupal
 
@@ -45,11 +44,14 @@
 ### Entregables
 
 ---
-URL al repositorio del equipo en GitHub.
+* La presentación de bad smells en la wiki del proyecto.
+* URL del repositorio del equipo en GitHub.
 
 ### Criterios de evaluación
 
 ---
-* Todas las pruebas unitarias funcionan correctamente
-* Se evidencia en el historial del respositorio el desarrollo usando TDD y las correcciones de bad smells identificados
-* El resultado de la integración continua es exitoso
+* Todas las pruebas unitarias funcionan correctamente.
+* Se evidencia en el historial del respositorio el desarrollo usando TDD y las correcciones de bad smells identificados.
+* El resultado de la integración continua es exitoso.
+* Las grabaciones de *Daily meetings* se encuentran cargadas o referenciadas en la wiki del proyecto.
+* El estado del tablero  del proyecto en Jira refleja el estado de las actividades durante el proceso.
