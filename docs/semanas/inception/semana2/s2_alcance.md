@@ -52,7 +52,7 @@ Cargar en Coursera la URL para acceder al proyecto en Jira y a la wiki en GitHub
   * Identifica las sub-tareas que deben ser desarrolladas acorde a cada funcionalidad esperada asegurando la entrega de valor en cada una de ellas.
   * Prioriza las historias usuario acorde a las necesidades y expectativas del cliente.
   * Define un plan de entrega de *releases* por cada sprint del proyecto.
-  * Las funcionalidades planteadas corresponden a lo solicitado por el *Product Owner*.
+  * Las funcionalidades planteadas corresponden a lo solicitado por el dueño de producto.
   * Las funcionalidades esperadas para el producto están claramente distribuidas a lo largo del mapa.
   * No se presentan dependencias entre historias y *releases*.
   
