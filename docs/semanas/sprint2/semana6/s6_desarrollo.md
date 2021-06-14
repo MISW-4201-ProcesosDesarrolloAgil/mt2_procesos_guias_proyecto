@@ -1,6 +1,6 @@
-| [Inception](https://avargas20.github.io/MISW-Procesos/semanas/inception/inception) |   | [Sprint 1](https://avargas20.github.io/MISW-Procesos/semanas/sprint1/sprint1) |   | [Sprint 2](https://avargas20.github.io/MISW-Procesos/semanas/sprint2/sprint2) |   | [Cierre]() |
+| Inception |   | Sprint 1 |   | Sprint 2 |   | Cierre |
 |-----------|---|----------|---|----------|---|--------|
-| [Semana 2](https://avargas20.github.io/MISW-Procesos/semanas/inception/semana2/semana2)         | [Semana 3](https://avargas20.github.io/MISW-Procesos/semanas/inception/semana3/semana3) | [Semana 4](https://avargas20.github.io/MISW-Procesos/semanas/sprint1/semana4/semana4) | [Semana 5](https://avargas20.github.io/MISW-Procesos/semanas/sprint1/semana5/semana5) | **[Semana 6](https://avargas20.github.io/MISW-Procesos/semanas/sprint2/semana6/semana6)** | [Semana 7](https://avargas20.github.io/MISW-Procesos/semanas/sprint2/semana7/semana7) | [Semana 8]()      |
+| [Semana 2](/mt2_procesos_guias_proyecto/semanas/inception/semana2/semana2)        | [Semana 3](/mt2_procesos_guias_proyecto/semanas/inception/semana3/semana3) | [Semana 4](/mt2_procesos_guias_proyecto/semanas/sprint1/semana4/semana4) | [Semana 5](/mt2_procesos_guias_proyecto/semanas/sprint1/semana5/semana5) | **[Semana 6](/mt2_procesos_guias_proyecto/semanas/sprint2/semana6/semana6)** | [Semana 7](/mt2_procesos_guias_proyecto/semanas/sprint2/semana7/semana7) | [Semana 8]()      |nt1/semana7/semana7) | Semana 8      |/semana7/semana7) | [Semana 8]()      |
 
 ## Sprint 2. Desarrollo
 
@@ -14,7 +14,7 @@
 ### Descripción actividad
 
 ---
-#### ![](./../../assets/images/individuo.png) Actividad individual
+#### ![](./../../../assets/images/individuo.png) Actividad individual
 
 * Revisar la distribución de historias de usuario (HU) en el tablero del sprint.
 * Desarrollar cada una de las historias a su cargo implementando *Test-driven development* (TDD) y pair programming (en las HU más complejas).
@@ -22,7 +22,7 @@
   * Implementar la generación de datos aleatorios en las pruebas unitarias.
 * Crear un script de GitHub Actions para integrar el código que pasa exitosamente las pruebas unitarias en el repositorio de acuerdo con el flujo de trabajo definido.
 
-#### ![](./../../assets/images/grupo.png) Actividad grupal
+#### ![](./../../../assets/images/grupo.png) Actividad grupal
 
 * Seguimiento:
   * Definir en equipo el horario y periodicidad que más se ajuste para la realización de *Daily meetings* (se recomienda hacerlas mínimo 3 veces por semana en el mismo horario).
@@ -40,7 +40,7 @@
 ---
 
 * [Refactoring: Improving the Design of Existing Code, Martin Fowler](https://moodleinstitucional.uniandes.edu.co/pluginfile.php/45336/mod_label/intro/RefactoringCapitulo1-3.pdf)
-* [Instructivo para conducir sesiones de *Daily meeting*](https://avargas20.github.io/MISW-Procesos/semanas/sprint1/semana4/s4_daily_meeting)
+* [Instructivo para conducir sesiones de *Daily meeting*](../semana4/s4_daily_meeting)
 
 ### Entregables
 
