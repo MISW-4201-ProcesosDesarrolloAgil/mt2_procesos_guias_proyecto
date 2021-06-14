@@ -26,8 +26,3 @@ El *Planning Poker* es una técnica colaborativa para estimar historias de usuar
 * Cada miembro del equipo de desarrollo selecciona una carta con el puntaje que considere apropiado para la historia de usuario y teniendo como referencia la historia de usuario base que ha seleccionado el equipo. Cuando todos hayan escogido una carta, se descubren todos a la vez.
 * Si no hay consenso en las cartas elegidas. Los integrantes que seleccionaron el puntaje más bajo y más alto, explican con detalle las razones por las cuales escogieron sus puntajes. Con esta nueva información todos los miembros del equipo vuelven a estimar. El proceso se repite hasta que lleguen a un consenso.
 * Esto se repite con cada HU del PBL.
-
-### Recursos 
-
----
-* [Agile Estimating and Planning: Planning Poker (Mike Cohn)](https://www.youtube.com/watch?v=gE7srp2BzoM)
