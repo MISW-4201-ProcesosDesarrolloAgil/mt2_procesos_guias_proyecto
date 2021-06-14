@@ -15,13 +15,13 @@
 ---
 Durante la ejecución del sprint se espera que el equipo complete las actividades planeadas para el desarrollo de las historias de usuario comprometidas para el sprint. En cada semana vamos a simular que pasan 2 dias de desarrollo. 
 
-#### ![](./../../assets/images/individuo.png) Actividad individual
+#### ![](./../../../assets/images/individuo.png) Actividad individual
 
 * Revisar la distribución de las tareas de historias de usuario (HU) en el tablero del sprint.
 * Ejecutar las tareas asignadas para el siguiente "Daily Meeting"
 * Actualizar los tiempos reales de las actividades en JIRA. 
 
-#### ![](./../../assets/images/grupo.png) Actividad grupal
+#### ![](./../../../assets/images/grupo.png) Actividad grupal
 
 * Definir en equipo el horario y periodicidad que más se ajuste para la realización de *Daily meetings* (se recomienda hacerlas mínimo 3 veces por semana en el mismo horario).
 * Realizar las *Daily meetings* en los horarios definidos y teniendo en cuenta el instructivo disponible en Recursos.
@@ -30,7 +30,7 @@ Durante la ejecución del sprint se espera que el equipo complete las actividade
 ### Recursos 
 ---
 
-[Instructivo para conducir sesiones de *Daily meeting*](https://avargas20.github.io/MISW-Procesos/semanas/sprint1/semana4/s4_daily_meeting)
+[Instructivo para conducir sesiones de *Daily meeting*](../semana4/s4_daily_meeting)
 
 
 ### Entregables
