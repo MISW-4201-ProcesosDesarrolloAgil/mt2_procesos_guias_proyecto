@@ -14,7 +14,7 @@
 ### Pasos previos
 
 ---
-El PBL se encuentra en Jira  y ha sido priorizado con el *Product Owner* (PO).
+El PBL se encuentra en Jira y ha sido priorizado con el dueño de producto (tutor).
 
 ### Descripción actividad
 
@@ -22,13 +22,13 @@ El PBL se encuentra en Jira  y ha sido priorizado con el *Product Owner* (PO).
 
 #### ![](./../../../assets/images/grupo.png) Actividad grupal
 
-Distribuir entre el equipo las historias priorizadas por el PO. Para cada historia se debe asignar un responsable de detallar la historia y un responsable para inspeccionarla.
+Distribuir entre el equipo las historias priorizadas por el dueño de producto. Para cada historia se debe asignar un responsable de detallar la historia y un responsable para inspeccionarla.
 
 
 #### ![](./../../../assets/images/individuo.png) Actividad individual
 
 * Detallar HU:
-  * Detallar cada HU con la descripción, los criterios de aceptación y  los *mockups*.
+  * Detallar cada HU con la descripción, los criterios de aceptación y los *mockups*. Al detallar las historias tenga en cuenta los criterios de la Guía para determinar la Definición de Listo (DoR).
   * Registrar el detalle de las HU en Jira.
 
 * Inspeccionar HU:
