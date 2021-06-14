@@ -13,13 +13,13 @@ Realizar la planeación del sprint para lograr un entendimiento común de los mi
 ### Pasos previos
 ---
 
-Programar la reunión de priorización con el *Product Owner* (PO) para definir las historias de usuario (HU) del segundo sprint.
+Programar la reunión de priorización con el dueño de producto para definir las historias de usuario (HU) del segundo sprint.
 
 
 ### Descripción actividad
 ---
 
-#### ![](./../../assets/images/grupo.png) Actividad grupal
+#### ![](./../../../assets/images/grupo.png) Actividad grupal
 
 Durante esta semana los miembros del equipo deben coordinarse para realizar las siguientes actividades:
 * Detalle de HU:
@@ -39,7 +39,7 @@ Durante esta semana los miembros del equipo deben coordinarse para realizar las 
 ---
 
 * DoD segundo sprint (*Pendiente*).
-* [Instructivo para conducir una sesión de Planning Poker](https://avargas20.github.io/MISW-Procesos/semanas/inception/semana3/s3_planning_poker).
+* [Instructivo para conducir una sesión de Planning Poker](../semana3/s3_planning_poker).
 * [Formato para cálculo de velocidad del equipo](https://github.com/avargas20/MISW-Procesos/blob/main/docs/formats/MISW-DA-Inception-CalculoVelocidad.xlsx).
 
 
