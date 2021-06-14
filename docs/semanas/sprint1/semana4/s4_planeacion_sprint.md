@@ -20,7 +20,7 @@ Realizar la planeación del sprint para lograr un entendimiento común de los mi
 ### Descripción actividad
 ---
 
-#### ![](./../../assets/images/grupo.png) Actividad grupal
+#### ![](./../../../assets/images/grupo.png) Actividad grupal
 
 La planeación del sprint la realiza el equipo completo en la reunión de planeación. En esta reunión se revisan las actividades necesarias para desarrollar cada una de las historias del sprint. Para esto el equipo ya cuenta con información valiosa, pues para calcular la velocidad analizó las actividades necesarias para desarrollar la historia de usuario base y estimó, en minutos, la duración de cada actividad. 
 
