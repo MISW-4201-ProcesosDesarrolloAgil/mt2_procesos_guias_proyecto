@@ -13,7 +13,7 @@
 
 ### Descripción actividad
 ---
-Durante la ejecución del sprint se espera que el equipo complete las actividades planeadas para el desarrollo de las historias de usuario comprometidas para el sprint. En cada semana vamos a simular que pasan 2 dias de desarrollo (esto corresponde al número esperado de *daily meetings* por semana).
+Durante la ejecución del sprint se espera que el equipo complete las actividades planeadas para el desarrollo de las historias de usuario comprometidas para el sprint. En cada semana vamos a simular que pasan 2 días de desarrollo (esto corresponde al número esperado de *daily meetings* por semana).
 
 #### ![](./../../../assets/images/individuo.png) Actividad individual
 
