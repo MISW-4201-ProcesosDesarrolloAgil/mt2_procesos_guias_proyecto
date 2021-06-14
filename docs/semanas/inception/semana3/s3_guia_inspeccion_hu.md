@@ -2,8 +2,10 @@
 
 Encuentre a continuación una guía con los criterios para realizar la inspección de historias de usuario en el proyecto del curso. Estos criterios corresponden al acrónimo INVEST descrito en el capítulo 5 del libro Essential Scrum (Rubin, 2012).
 
+
 ### Criterios para inspección del listado de historias de usuario
 ---
+
 
 | Criterios                                 | Descripción                                                                                                                                    | Observaciones para la inspección                                                                                                                                                                               |
 |-------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -19,6 +21,7 @@ Encuentre a continuación una guía con los criterios para realizar la inspecci�
 
 ### Criterios para inspección de historias de usuario detalladas
 ---
+
 
 | Criterios                                 | Descripción                                                                                                                                    | Observaciones para la inspección                                                                                                                                                                               |
 |-------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
