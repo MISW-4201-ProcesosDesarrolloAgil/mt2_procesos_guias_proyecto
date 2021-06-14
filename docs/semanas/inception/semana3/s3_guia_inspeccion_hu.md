@@ -1,6 +1,6 @@
 ## Guía para inspección de historias de usuario
 
-Encuentre a continuación una guía con los criterios para realizar la inspección de historias de usuario en el proyecto del curso. Estos criterios corresponden al acrónimo INVEST descrito en el capítulo 5 del libro Essential Scrum (Rubin, 2012) para evaluar si las historias de usuario estan correctamente definidas o requeren trabajo adicional.
+Encuentre a continuación una guía con los criterios para realizar la inspección de historias de usuario en el proyecto del curso. Estos criterios corresponden al acrónimo INVEST descrito en el capítulo 5 del libro *Essential Scrum* (Rubin, 2012) para evaluar si las historias de usuario estan correctamente definidas o requieren trabajo adicional.
 
 
 ### Criterios para inspección del listado de historias de usuario
