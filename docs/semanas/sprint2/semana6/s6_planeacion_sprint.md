@@ -30,7 +30,7 @@ Durante esta semana los miembros del equipo deben coordinarse para realizar las 
   * Realizar el cálculo de la velocidad del equipo.
   * Colocar el cálculo de velocidad del sprint 2 en la wiki y actualizar la estimación de las HU en Jira.
 
-* Acordar con el dueño de producto, definir el alcance del sprint de acuerdo con el cálculo de velocidad del equipo.
+* Establecer con el dueño de producto el alcance del sprint de acuerdo con el cálculo de velocidad del equipo.
 
 * Planeación detallada para cada una de las historias de usuario del *Sprint Backlog* (todos los miembros del equipo):
   * Definir las actividades necesarias para completar la historia. Tomar como referencia las actividades de la historia de usuario base, analizar cuáles de estas aplican y cuáles pueden faltar. Adicionalmente el equipo debe acordar si para la historia van a aplicar las prácticas de *Test-driven development* (TDD) y *pair programming* y tener esto en cuenta en la definición de actividades. 
