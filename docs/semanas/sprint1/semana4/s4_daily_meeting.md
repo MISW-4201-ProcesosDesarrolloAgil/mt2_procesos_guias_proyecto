@@ -1,8 +1,8 @@
-## Instructivo para conducir sesiones de *Daily meeting*
+## Instructivo para conducir sesiones de *Daily Meeting*
 
 ### Objetivos
 ---
-Proporcionar una guía para realizar sesiones de *Daily meeting* en el equipo de desarrollo.
+Proporcionar una guía para realizar sesiones de *Daily Meeting* en el equipo de desarrollo.
 
 ### Descripción 
 ---
@@ -12,7 +12,7 @@ El *Daily Meeting* es una reunión diaria en la que el equipo se sincroniza, ins
 ---
 * La reunión la facilita el Scrum Master y participan todos los miembros del equipo.
 * La duración máxima es de 15 minutos.
-* Se realiza cada día a la misma hora. Para el proyecto del curso, vamos a realizar la reunión 2 veces por semana. El equipo debe acordar el día y la hora de las dos reuniones de la semana. 
+* Se realiza cada día a la misma hora. Para el proyecto del curso, vamos a realizar la reunión 2 veces por semana. El equipo debe acordar el día y la hora de las dos reuniones de la semana.
 * Si durante la reunión se identifican porblemas o impedimentos que se deben resolver, el equipo acuerda en qué momento los abordan y quién, o quiénes, son responsables de solucionar. Una posibilidad es realizar una sesión luego de la sesión del *Daily Meeting* con los miembros que se requieran para resolver los impedimentos.
 
 ### Instrucciones
