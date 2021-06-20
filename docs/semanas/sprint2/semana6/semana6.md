@@ -7,7 +7,7 @@ Los objetivos para esta semana, en el marco del desarrollo del proyecto del curs
 
 * Realizar la planeación del sprint para lograr un entendimiento común del equipo sobre las actividades que se van a desarrollar.
 * Iniciar la ejecución de las tareas de desarrollo propuestas para el segundo sprint.
-* Hacer seguimiento al avance de actividades del sprint mediante la realización de *Daily meetings* y actualizar el tablero de tareas.
+* Hacer seguimiento al avance de actividades del sprint mediante la realización de *Daily Meetings* y actualizar el tablero de tareas.
  
 ### Resumen de las actividades
 ---
