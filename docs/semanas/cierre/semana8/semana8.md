@@ -11,4 +11,4 @@ Los objetivos de la semana 2 son:
 
 | Actividad                                            |
 | ---------------------------------------------------- |
-| [<< Descripción actividad >>](https://avargas20.github.io/MISW-Procesos/semanas/semana8/s8_actividad_1)      |
+| [<< Descripción actividad >>](../semana8/s8_actividad_1)      |

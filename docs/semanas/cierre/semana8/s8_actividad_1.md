@@ -16,7 +16,7 @@
 ### Descripción actividad
 
 ---
-#### ![](./../../assets/images/individuo.png) Actividad individual
+#### ![](./../../../assets/images/individuo.png) Actividad individual
 
 * 
 * 

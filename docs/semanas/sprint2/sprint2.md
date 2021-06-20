@@ -12,7 +12,7 @@
 ### Resumen de las actividades
 ---
 
-![](./../../assets/images/sprint2.jpg)
+![](./../../../assets/images/sprint2.jpg)
 
 ### Detalle de las actividades
 ---
@@ -26,12 +26,12 @@
     <td colspan="4"><b>Semana 7</b></td>
   </tr>
   <tr>
-    <td><a href="https://avargas20.github.io/MISW-Procesos/semanas/sprint2/semana6/s6_planeacion_sprint">Planeación del sprint</a></td>
-    <td><a href="https://avargas20.github.io/MISW-Procesos/semanas/sprint2/semana6/s6_desarrollo">Desarrollo del proyecto (1 parte)</a></td>
-    <td><a href="https://avargas20.github.io/MISW-Procesos/semanas/sprint2/semana6/s6_seguimiento">Seguimiento (1 parte)</a></td>
-    <td><a href="https://avargas20.github.io/MISW-Procesos/semanas/sprint2/semana7/s7_desarrollo">Desarrollo del proyecto (2 parte)</a></td>
-    <td><a href="https://avargas20.github.io/MISW-Procesos/semanas/sprint2/semana7/s7_seguimiento">Seguimiento (2 parte)</a></td>
-    <td><a href="https://avargas20.github.io/MISW-Procesos/semanas/sprint2/semana7/s7_demo">Demostración del producto</a></td>
-    <td><a href="https://avargas20.github.io/MISW-Procesos/semanas/sprint2/semana7/s7_retrospectiva">Retrospectiva</a></td>
+    <td><a href="../semana6/s6_planeacion_sprint">Planeación del sprint</a></td>
+    <td><a href="../semana6/s6_desarrollo">Desarrollo del proyecto (1 parte)</a></td>
+    <td><a href="../semana6/s6_seguimiento">Seguimiento (1 parte)</a></td>
+    <td><a href="../semana7/s7_desarrollo">Desarrollo del proyecto (2 parte)</a></td>
+    <td><a href="../semana7/s7_seguimiento">Seguimiento (2 parte)</a></td>
+    <td><a href="../semana7/s7_demo">Demostración del producto</a></td>
+    <td><a href="../semana7/s7_retrospectiva">Retrospectiva</a></td>
   </tr>
 </table>

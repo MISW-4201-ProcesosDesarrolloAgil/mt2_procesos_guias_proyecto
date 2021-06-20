@@ -43,7 +43,7 @@ Durante esta semana los miembros del equipo deben coordinarse para realizar las 
 
 * [DoD segundo sprint](../semana6/s6_DoD).
 * [Instructivo para conducir una sesión de Planning Poker](../semana3/s3_planning_poker).
-* [Formato para cálculo de velocidad del equipo](https://github.com/avargas20/MISW-Procesos/blob/main/docs/formats/MISW-DA-Inception-CalculoVelocidad.xlsx).
+* [Formato para cálculo de velocidad del equipo](cambiar por enlace de coursera).
 
 
 ### Entregables

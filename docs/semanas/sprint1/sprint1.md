@@ -13,7 +13,7 @@
 ### Resumen de las actividades
 ---
 
-![](./../../assets/images/sprint1.jpg)
+![](./../../../assets/images/sprint1.jpg)
 
 ### Detalle de las actividades
 ---
@@ -27,13 +27,13 @@
     <td colspan="5"><b>Semana 5</b></td>    
   </tr>
   <tr>
-    <td><a href="https://avargas20.github.io/MISW-Procesos/semanas/sprint1/semana4/s4_planeacion_sprint">Planeación del sprint</a></td>
-    <td><a href="https://avargas20.github.io/MISW-Procesos/semanas/sprint1/semana4/s4_desarrollo">Desarrollo del proyecto (1 parte)</a></td>
-    <td><a href="https://avargas20.github.io/MISW-Procesos/semanas/sprint1/semana4/s4_seguimiento">Seguimiento (1 parte)</a></td>
-    <td><a href="https://avargas20.github.io/MISW-Procesos/semanas/sprint1/semana5/s5_desarrollo">Desarrollo del proyecto (2 parte)</a></td>
-    <td><a href="https://avargas20.github.io/MISW-Procesos/semanas/sprint1/semana5/s5_seguimiento">Seguimiento (2 parte)</a></td>
-    <td><a href="https://avargas20.github.io/MISW-Procesos/semanas/sprint1/semana5/s5_grooming">Grooming de historias</a></td>
-    <td><a href="https://avargas20.github.io/MISW-Procesos/semanas/sprint1/semana5/s5_demo">Demostración del producto</a></td>
-    <td><a href="https://avargas20.github.io/MISW-Procesos/semanas/sprint1/semana5/s5_retrospectiva">Retrospectiva</a></td>
+    <td><a href="../semana4/s4_planeacion_sprint">Planeación del sprint</a></td>
+    <td><a href="../semana4/s4_desarrollo">Desarrollo del proyecto (1 parte)</a></td>
+    <td><a href="../semana4/s4_seguimiento">Seguimiento (1 parte)</a></td>
+    <td><a href="../semana5/s5_desarrollo">Desarrollo del proyecto (2 parte)</a></td>
+    <td><a href="../semana5/s5_seguimiento">Seguimiento (2 parte)</a></td>
+    <td><a href="../semana5/s5_grooming">Grooming de historias</a></td>
+    <td><a href="../semana5/s5_demo">Demostración del producto</a></td>
+    <td><a href="../semana5/s5_retrospectiva">Retrospectiva</a></td>
   </tr>
 </table>

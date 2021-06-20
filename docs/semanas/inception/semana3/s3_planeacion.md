@@ -43,7 +43,7 @@ Realizar la planeación general del proyecto. Al finalizar esta actividad cada u
 ---
 * [DoD primer sprint](../semana3/s3_DoD)
 * [Instructivo para conducir una sesión de Planning Poker](../semana3/s3_planning_poker)
-* [Formato para cálculo de velocidad del equipo](./../../../formats/MISW-DA-Inception-CalculoVelocidad.xlsx)
+* [Formato para cálculo de velocidad del equipo](cambiar por enlace en Coursera)
 
 ### Entregables
 
