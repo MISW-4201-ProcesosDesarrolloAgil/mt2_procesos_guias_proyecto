@@ -18,9 +18,9 @@ El *Daily Meeting* es una reunión diaria en la que el equipo se sincroniza, ins
 ### Instrucciones
 ---
 * En el orden que el equipo considere, cada miembro debe responder a las siguientes preguntas:
-  * ¿Que hice desde la reunión anterior ? 
+  * ¿Qué hice desde la reunión anterior? 
   * ¿Qué voy a hacer hasta la siguiente reunión?
-  * ¿Qué impedimentos tiene?
+  * ¿Qué impedimentos tengo?
  
 * Actualizar las actividades en el tablero del proyecto a medida que se responde cada pregunta: 
   *  Se actualiza el tiempo de ejecución de la actividad.
@@ -28,5 +28,5 @@ El *Daily Meeting* es una reunión diaria en la que el equipo se sincroniza, ins
   *  Si la tarea no se ha terminado se deja en la columna En proceso.
   *  Si la actividad va a comenzar a ejectarse se mueve a la columna En proceso.
 
-* Verificar en la columna En proceso que todos los integrantes del equipo tienen asignadas tareas de acuerdo a las horas de dedicación esperadas para el proyecto.
+* Verificar en la columna En proceso que todos los integrantes del equipo tengan asignadas tareas de acuerdo a las horas de dedicación esperadas para el proyecto.
 
