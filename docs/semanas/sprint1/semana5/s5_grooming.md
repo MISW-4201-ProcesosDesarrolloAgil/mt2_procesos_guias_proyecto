@@ -7,14 +7,16 @@
 ### Objetivos
 ---
 
-* Agregar/eliminar hisotorias en el *product backlog*, de acuerdo a las necesidades expresadas por el dueño de producto.
+* Agregar / eliminar historias de usuario en el *product backlog*, de acuerdo a las necesidades expresadas por el dueño de producto.
 * Revisar la pririorización de las historias de usuario en el *product backlog*.
-* Refinar las historias que se encuentran en la parte alta del *product backlog*. Esto signinifica detallar las historias y revisar que cumplen el criterio de *ready* definido para el proyecto.
-* Refinar la estimación de las historias que se encuentran en la parte alta del *product backlog*
+* Refinar las historias de usuario que se encuentran en la parte alta del *product backlog*.
+* Refinar la estimación de las historias de usuario que se encuentran en la parte alta del *product backlog*.
 
 
 ### Descripción actividad
 ---
+
+Refinar las historias de usuario signinifica detallar las historias y revisar que cumplen el criterio de *ready* definido para el proyecto.
 
 #### ![](./../../assets/images/grupo.png) Actividad grupal
 
