@@ -26,7 +26,7 @@ Para realizar la demostración, el equipo debe:
 
 * Para la presentación:
 
-  * Todas las historias de usaurio presentadas deben cumplir con la definición de terminado (DoD, por sus siglas en ingles).
+  * Todas las historias de usuario presentadas deben cumplir con la definición de terminado (DoD, por sus siglas en ingles).
   * Durante la reunión, el dueño de producto puede realizar cualquier comentario u observación sobre el software.
   * Si el dueño de producto considera que una historia no satisface los criterios de aceptación o no cumple el detalle acordado, se debe tomar nota de los ajustes y reintegrar la historia al *product backlog*. El dueño de producto debe establecer la prioridad de corrección de la historia.
 
@@ -34,7 +34,6 @@ Para realizar la demostración, el equipo debe:
 
   * Cuando la aplicación no es intuitiva se recomienda colocar las rutas para probar las HU.
   * Entregar la aplicación con datos precargados que permitan ver las funcionalidades desarrolladas.
-  * Revisar la coherencia entre lo configurado en Jira y lo escrito en la wiki. (**Revisar**)
   * Al realizar las entregas incluir los datos de los usuarios que se requieran si se usa autenticación.
 
 
