@@ -24,7 +24,7 @@ Programar la reunión de priorización con el dueño de producto para definir la
 Durante esta semana los miembros del equipo deben coordinarse para realizar las siguientes actividades:
 
 * Revisar y calcular la nueva velocidad del equipo:
-  * Revisar las actividades de la historia de usuario base (HUB), ajustar las actividades teniendo en cuenta la experiencia del sprint anterior, las acciones de la mejora definidas en la retrospectiva y de la definición de terminado del segundo sprint ([DoD segundo sprint](../semana6/s6_DoD))
+  * Revisar las actividades de la historia de usuario base, ajustar las actividades teniendo en cuenta la experiencia del sprint anterior, las acciones de la mejora definidas en la retrospectiva y de la definición de terminado del segundo sprint ([DoD segundo sprint](../semana6/s6_DoD))
   * Revisar la estimación de las historias de usuario de la parte alta del *product backlog*, si es necesario volver a estimar las HU utilizando la técnica de *Planning Poker*. Actualizar la estimación en JIRA.
   * Revisar la estimación de los tiempos de las actividades de la HUB.
   * Realizar el cálculo de la velocidad del equipo.
@@ -32,7 +32,7 @@ Durante esta semana los miembros del equipo deben coordinarse para realizar las 
 
 * Establecer con el dueño de producto el alcance del sprint de acuerdo con el cálculo de velocidad del equipo.
 
-* Planeación detallada para cada una de las historias de usuario del *Sprint Backlog* (todos los miembros del equipo):
+* Planear de forma detallada para cada una de las historias de usuario del *Sprint Backlog* (todos los miembros del equipo):
   * Definir las actividades necesarias para completar la historia. Tomar como referencia las actividades de la historia de usuario base, analizar cuáles de estas aplican y cuáles pueden faltar. Adicionalmente el equipo debe acordar si para la historia van a aplicar las prácticas de *Test-driven development* (TDD) y *pair programming* y tener esto en cuenta en la definición de actividades. 
   * Estimar el tiempo necesario para ejecutar cada una de las actividades. Tomar como referencia las estimaciones de las actividades de la historia de usuario base. En el caso de no poder definir facilmente el tiempo estimado, realizar una ronda de *Planning poker* para estimarlo.
   * Registrar la información en el tablero de tareas en Jira.
