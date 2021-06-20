@@ -25,8 +25,8 @@ Durante esta semana los miembros del equipo deben coordinarse para realizar las 
 
 * Revisar y calcular la nueva velocidad del equipo:
   * Revisar las actividades de la historia de usuario base, ajustar las actividades teniendo en cuenta la experiencia del sprint anterior, las acciones de la mejora definidas en la retrospectiva y de la definición de terminado del segundo sprint ([DoD segundo sprint](../semana6/s6_DoD))
-  * Revisar la estimación de las historias de usuario de la parte alta del *product backlog*, si es necesario volver a estimar las HU utilizando la técnica de *Planning Poker*. Actualizar la estimación en JIRA.
-  * Revisar la estimación de los tiempos de las actividades de la HUB.
+  * Revisar la estimación de las historias de usuario de la parte alta del *product backlog*, si es necesario volver a estimar las HU utilizando la técnica de *Planning Poker*. Actualizar la estimación en Jira.
+  * Revisar la estimación de los tiempos de las actividades de la historia de usuario base.
   * Realizar el cálculo de la velocidad del equipo.
   * Colocar el cálculo de velocidad del sprint 2 en la wiki y actualizar la estimación de las HU en Jira.
 
