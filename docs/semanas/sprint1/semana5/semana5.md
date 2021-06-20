@@ -4,11 +4,11 @@
 ---
 
 * Realizar las actividades de desarrollo correspondientes a la segunda semana del sprint.
-* Hacer seguimiento al avance de actividades del sprint mediante la realización de *Daily meetings* y actualizar el tablero de tareas.
+* Hacer seguimiento al avance de actividades del sprint mediante la realización de *Daily Meetings* y actualizar el tablero de tareas.
 * Finalizar el refinamiento del *product backlog*: terminar de detallar las historias de usuario (HU) de la parte alta del *product backlog* y refinar la estimación.
 * Cerrar el primer sprint de desarrollo.
-* Preparar la demostración de las historias de usuario  completadas como incremento de producto durante el sprint.
-* Realizar la Retrospectiva del sprint a partir del análisis de las lecciones aprendidas en las dimensiones de equipo, proceso y producto.
+* Preparar la demostración de las historias de usuario completadas como incremento de producto durante el sprint.
+* Realizar la retrospectiva del sprint a partir del análisis de las lecciones aprendidas en las dimensiones de equipo, proceso y producto.
  
 ### Resumen de las actividades
 ---
