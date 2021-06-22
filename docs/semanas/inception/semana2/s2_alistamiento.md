@@ -15,7 +15,7 @@ Estructurar el espacio para la gestión y documentación del proyecto en Jira y 
 ---
 Para realizar esta actividad, se espera que cada miembro del equipo:
 
-* Verifique su acceso al repositorio asignado en Git.
+* Verifique su acceso al repositorio asignado en GitHub.
 * Cree una cuenta en [Jira](https://id.atlassian.com/signup?continue=https%3A%2F%2Fprocesos-agiles-test.atlassian.net%2Flogin%3FredirectCount%3D1%26application%3Djira&application=jira).
 
 ~~~
