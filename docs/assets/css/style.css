@@ -341,4 +341,5 @@ table.menu td a {
 table.menu td.active {
   background-color: #fbf1bb;
   padding: 10px 15px;
+  font-weight: bold;
 }
