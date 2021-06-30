@@ -302,3 +302,43 @@ table th {
 table td {
   border: 1px solid #e8e8e8;
 }
+
+table th {
+  background-color: #f89947;
+  border: 1px solid #f89947;
+  border-bottom-color: #f89947;
+  text-align: center;
+  color: #ffffff;
+}
+
+table th a {
+  color: #ffffff;
+}
+
+table th a:hover {
+  color: #353535;
+  text-decoration: underline;
+}
+
+table tr:nth-child(odd) {
+  background-color: #fbc46526;
+}
+
+table td a {
+  display: flex;
+}
+
+table.menu td {
+  padding: 0px 0px;
+  text-align: center;
+}
+
+table.menu td a {
+  display: flex;
+  justify-content: center;
+}
+
+table.menu td.active {
+  background-color: #fbf1bb;
+  padding: 10px 15px;
+}
