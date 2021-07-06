@@ -36,11 +36,3 @@ Cada integrante del equipo debe:
 URL al proyecto del equipo en Jira.
 
 
-### Criterios de evaluación
-
----
-* El listado de HU está completo con su detalle.
-* Cada detalle contiene la descripción en el formato *Como XXX quiero YYY para ZZZ*, los criterios de aceptación y el *mockup*.
-* Las historias de usuario del *product backlog* se encuentran estimadas.
-
-
