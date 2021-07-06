@@ -3,7 +3,7 @@
 ### Descripción
 ---
 
-
+![](./../../assets/images/fase_inicio.jpg)
 
 ### Entregables y criterios de evaluación
 ---
