@@ -44,10 +44,5 @@ Tutorial Heroku (*Pendiente*).
 * URL al repositorio del equipo en GitHub.
 * URL del producto desplegado en Heroku.
 
-### Criterios de evaluación
-
----
-* El equipo presenta al PO todas las HU comprometidas para el sprint.
-* La versión desplegada en el ambiente de pruebas corresponde con lo presentado por el equipo.
 
 
