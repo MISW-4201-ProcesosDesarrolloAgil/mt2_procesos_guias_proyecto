@@ -29,8 +29,3 @@ Realizar la instalación y configuración del ambiente de desarrollo de acuerdo 
 
 ---
 * El flujo de trabajo acordado por el equipo se encuentra en la wiki del proyecto.
-
-### Criterios de evaluación
----
-* El flujo de trabajo definido especifica la información de las ramas y acuerdos del equipo para su uso.
-* Se evidencia en el repositorio de cada grupo la creación de las ramas permanentes de acuerdo con el flujo de trabajo seleccionado.
