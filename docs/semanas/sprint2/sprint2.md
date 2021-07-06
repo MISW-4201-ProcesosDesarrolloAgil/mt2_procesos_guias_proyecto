@@ -7,7 +7,7 @@ Para dar inicio al segundo sprint cada equipo debe preparar su backlog, recalcul
 
 El equipo debe hacer seguimiento a las actividades mediante *daily meetings* y la actualización del tablero de tareas. Adicional a lo anterior se propone una actividad de refactorización para mejorar la calidad del código desarrollado. Finalizando el sprint cada equipo debe preparar la demostración del producto terminado al cliente y los insumos necesarios para realizar la retrospectiva.
 
-<iframe width="968" height="632" src="https://miro.com/app/live-embed/o9J_lH3wguE=/?moveToViewport=1672,-251,1490,977" frameBorder="0" scrolling="no" allowFullScreen></iframe>
+![](./../../assets/images/sprint2.jpg)
 
 ### Entregables y criterios de evaluación
 ---
