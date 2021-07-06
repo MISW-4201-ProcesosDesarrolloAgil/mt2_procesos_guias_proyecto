@@ -44,11 +44,3 @@ Durante la ejecución del sprint se espera que el equipo complete las actividade
 * La presentación de bad smells en la wiki del proyecto.
 * URL del repositorio del equipo en GitHub.
 
-### Criterios de evaluación
-
----
-* Todas las pruebas unitarias funcionan correctamente.
-* Se evidencia en el historial del respositorio el desarrollo usando TDD y las correcciones de bad smells identificados.
-* El resultado de la integración continua es exitoso.
-* Las grabaciones de *Daily meetings* se encuentran cargadas o referenciadas en la wiki del proyecto.
-* El estado del tablero  del proyecto en Jira refleja el estado de las actividades durante el proceso.
