@@ -1,6 +1,6 @@
-## ¿Cómo hacer una Visión de producto?
+## Ejemplo elaboración de la visión de producto
 
-A continuación, podrá encontrar un ejemplo de la elaboración de la visión del producto para el caso de Mercados Orgánicos. Se recomienda leer cuidadosamente la transcripción de la conversación entre Ramiro, dueño de la empresa y Sara, analista de negocio de la empresa de software contratada para desarrollar el sitio web. Posterior a dicha transcripción podrá encontrar una imagen con el mapa de historias de usuario y el *Product Backlog* elaborados a partir de la conversación.
+A continuación, podrá encontrar un ejemplo de la elaboración de la visión del producto para el caso de Mercados Orgánicos. Se recomienda leer cuidadosamente la transcripción de la conversación entre Ramiro, dueño de la empresa y Sara, analista de negocio de la empresa de software contratada para desarrollar el sitio web. Posterior a dicha transcripción podrá encontrar una imagen con el mapa de historias de usuario y el *Product Backlog* elaborados a partir de la conversación. Tambien puede consultar el recurso en Miro haciendo clic [aquí](https://miro.com/app/board/o9J_lQKbLXc=/)
 
 ### Entrevista a Mercados Orgánicos
 ---
@@ -99,6 +99,8 @@ Se recomienda revisar las instrucciones en el enlace a [Miro](https://miro.com/a
 
 ### Product Backlog
 ---
+
+Primera versión del *Product Backlog* para el caso de Mercados Orgánicos:
 
 * Crear productos
 * Listar productos
