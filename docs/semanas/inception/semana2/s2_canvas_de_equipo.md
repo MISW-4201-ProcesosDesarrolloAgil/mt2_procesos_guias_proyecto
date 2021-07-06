@@ -30,10 +30,4 @@ Para el desarrollo de esta actividad es necesario haber realizado la actividad d
 ### Entregables
 ---
 
-Cargar en Coursera la URL para acceder a la wiki en GitHub.
-
-### Criterios de evaluación
----
-
-El canvas de equipo, completamente diligenciado, permite identificar los acuerdos del equipo para el logro de un propósito común.
-
+Cargar imagen del Canvas de equipo o su enlace a Miro en la wiki de GitHub.
