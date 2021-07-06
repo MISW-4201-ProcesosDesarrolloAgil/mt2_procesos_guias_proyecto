@@ -3,7 +3,7 @@
 ### Descripción
 ---
 
-<iframe width="768" height="432" src="https://miro.com/app/live-embed/o9J_lFbXHyk=/?moveToViewport=-901,-1164,1194,1421" frameBorder="0" scrolling="no" allowFullScreen></iframe>
+<iframe width="968" height="768" src="https://miro.com/app/live-embed/o9J_lFbXHyk=/?moveToViewport=-901,-1164,1194,1421" frameBorder="0" scrolling="no" allowFullScreen></iframe>
 
 
 ### Entregables y criterios de evaluación
