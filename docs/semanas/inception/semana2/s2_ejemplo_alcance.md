@@ -1,6 +1,6 @@
 ## Elaboración de la visión de producto. Caso de estudio: Mercados Orgánicos
 
-A continuación, podrá encontrar un ejemplo de la elaboración de la visión del producto para el caso de Mercados Orgánicos:
+A continuación, podrá encontrar un ejemplo de la elaboración de la visión del producto para el caso de Mercados Orgánicos.
 
 ### Primer paso. Entrevista con el dueño de producto
 ---
