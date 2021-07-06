@@ -45,12 +45,3 @@ Distribuir entre el equipo las historias priorizadas por el dueño de producto. 
 
 Las HU del tope del PBL detalladas en Jira. El detalle incluye descripción, criterios de aceptación y *mockups*.
 
-### Criterios de evaluación
-
----
-* El listado de las HU está completo con su detalle.
-  * Cada detalle contiene la descripción, los criterios de aceptación y *mockups*.
-  * Cada HU tiene la información de la revisión realizada por el integrante del equipo que no la detalló.
-  * La revisión cubre cada uno de los elementos solicitados.
-  * En el caso donde se encontró algún problema en el detalle de la historia, esta fue corregida por el responsable.
- 
