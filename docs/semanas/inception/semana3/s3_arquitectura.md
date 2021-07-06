@@ -36,18 +36,4 @@ Revisar la arquitectura de referencia de la aplicación base para entender su di
 ---
 URL a la wiki del proyecto.
 
-### Criterios de evaluación
-
----
-
-* Describe de forma concisa y sustancial el negocio del proyecto, el problema o la necesidad que se presenta y así mismo la solución esperada para ello.
-* La descripción del contexto presentada es lo suficientemente clara para comprender en su totalidad de lo que se desea desarrollar.
-* Describe y representa mediante modelos de arquitectura las tecnologías a utilizar y su organización durante la ejecución (modelo de despliegue).
-* Representa el flujo de navegación requerido para la construcción y puesta en marcha del software a desarrollar (diagrama de flujo de navegación).
-* Representa el modelo de contexto de la aplicación de forma que sea posible discriminar los elementos del sistema y sus relaciones (modelo de contexto).
-* Define el flujo de comunicación y procesos del sistema a desarrollar con la finalidad de identificar y modelar los componentes del mismo (modelo de componentes).
-* El documento de arquitectura está acorde a las necesidades y preocupaciones de los stakeholders.
-* El documento de arquitectura sirve como guía para la construcción del software requerido.
-* El documento de arquitectura cumple con las características básicas de una visión de arquitectura ideal para un proyecto de desarrollo ágil.
-* El documento de arquitectura presenta coherencia y cohesión a lo largo su contenido.
 
