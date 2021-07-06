@@ -36,21 +36,5 @@ Realizar una propuesta individual del mapa de historias de usuario de la soluci�
 ### Entregables
 ---
 
-Cargar en Coursera la URL para acceder al proyecto en Jira y a la wiki en GitHub.
-
-### Criterios de evaluación
----
-
-* Mapa de historias de usuario:
-  * Identifica los usuarios claves del problema.
-  * Identifica las diferentes grandes funcionalidades o Épicas en las que se puede dividir la solución y las sitúa en un orden lógico secuencial asociado a cada usuario.
-  * Descompone las funcionalidades identificadas en funcionalidades más pequeñas o historias de usuarios acorde a las acciones que realizan los usuarios.
-  * Identifica las sub-tareas que deben ser desarrolladas acorde a cada funcionalidad esperada asegurando la entrega de valor en cada una de ellas.
-  * Prioriza las historias usuario acorde a las necesidades y expectativas del cliente.
-  * Define un plan de entrega de *releases* por cada sprint del proyecto.
-  * Las funcionalidades planteadas corresponden a lo solicitado por el dueño de producto.
-  * Las funcionalidades esperadas para el producto están claramente distribuidas a lo largo del mapa.
-  * No se presentan dependencias entre historias y *releases*.
-  
-* *Product Backlog*:
-  * El *backlog* de historias de usuario iniciales está definido con base en la necesidad y requerimientos planteados por los *stakeholders*.
+* Imagen del mapa de historias de usuario o su enlace a miro registrado en la wiki del equipo.
+* Listado de historias de usuario cargado en Jira.
