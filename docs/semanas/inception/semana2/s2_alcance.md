@@ -36,5 +36,5 @@ Realizar una propuesta individual del mapa de historias de usuario de la soluci√
 ### Entregables
 ---
 
-* Imagen del mapa de historias de usuario o su enlace a miro registrado en la wiki del equipo.
-* Listado de historias de usuario cargado en Jira.
+* Cargar imagen del mapa de historias de usuario o su enlace a Miro en la wiki de GitHub.
+* Cargar el listado de historias de usuario en Jira.
