@@ -1,9 +1,12 @@
 ## Elaboración de la visión de producto. Caso de estudio: Mercados Orgánicos
 
-A continuación, podrá encontrar un ejemplo de la elaboración de la visión del producto para el caso de Mercados Orgánicos. Se recomienda leer cuidadosamente la transcripción de la conversación entre Ramiro, dueño de Mercados Orgánicos y Sara, analista de negocio de la empresa de software contratada para desarrollar su sitio web. Posterior a dicha transcripción podrá encontrar una imagen con el mapa de historias de usuario y el *Product Backlog* elaborados a partir de la conversación con el cliente. Tambien puede consultar el recurso en Miro haciendo clic [aquí](https://miro.com/app/board/o9J_lQKbLXc=/).
+A continuación, podrá encontrar un ejemplo de la elaboración de la visión del producto para el caso de Mercados Orgánicos:
 
-### Primer paso. Leer entrevista con el dueño de producto
+### Primer paso. Entrevista con el dueño de producto
 ---
+<br>
+
+Se recomienda leer cuidadosamente la transcripción de la conversación entre Ramiro, dueño de Mercados Orgánicos y Sara, analista de negocio de la empresa de software contratada para desarrollar su sitio web. 
 
 **SARA:** Hola Ramiro, gracias por invitarnos a participar en este proyecto. Nos gustaría aprovechar este espacio para conocer un poco más sobre Mercados Orgánicos y la principal motivación al contactarnos.
 
@@ -90,14 +93,14 @@ Si es la primera vez que el cliente va a comprar se le va a pedir que se registr
 
 **SARA:** Gracias a ustedes nuevamente por invitarnos a participar en este proyecto y esperamos contactarlos nuevamente para resolver las dudas que puedan salir en el proceso.
 
-### Segundo paso. Elaborar Mapa de Historias de Usuario
+### Segundo paso. Mapa de Historias de Usuario
 ---
 
 A partir de la conversación con Ramiro (dueño de Mercados Orgánicos) se ha elaborado el siguiente Mapa de Historias de Usuario. Se recomienda revisar las instrucciones en el recurso disponible en [Miro](https://miro.com/app/board/o9J_lQKbLXc=/).
 
 ![](./../../assets/images/user_story_mapping.jpg)
 
-### Tercer paso. Definir Product Backlog
+### Tercer paso. Product Backlog
 ---
 
 El siguiente listado de historias de usuario corresponde a la primera versión del *Product Backlog* propuesto:
