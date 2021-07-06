@@ -27,6 +27,7 @@ Analizar las lecciones aprendidas durante el sprint en las dimensiones de equipo
 ### Entregables
 
 ---
-* URL a la wiki del proyecto.
-* URL al proyecto del equipo en Jira.
+* Cargar en la wiki del proyecto:
+  * El material para hacer la revisión del sprint.
+  * La presentación PowerPoint con el resultado de la retrospectiva.
 
