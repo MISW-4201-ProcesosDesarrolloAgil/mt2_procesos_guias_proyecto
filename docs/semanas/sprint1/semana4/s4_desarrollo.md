@@ -34,11 +34,3 @@ Durante la ejecución del sprint se espera que el equipo complete las actividade
 
 * Evidencias de la realización de las *Daily Meetings* cargadas en la wiki del proyecto.
 
-### Criterios de evaluación
----
-
-* Todas las pruebas unitarias funcionan correctamente.
-* Se evidencia en el historial del respositorio el desarrollo usando TDD.
-* El resultado de la integración continua es exitoso.
-* Las grabaciones de *Daily Meetings* se encuentran cargadas o referenciadas en la wiki del proyecto.
-* El estado del tablero  del proyecto en Jira refleja el estado de las actividades durante el proceso.
