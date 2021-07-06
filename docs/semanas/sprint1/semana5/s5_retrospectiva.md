@@ -42,8 +42,4 @@
 * URL a la wiki del proyecto.
 * URL al proyecto del equipo en Jira.
 
-### Criterios de evaluación
-
----
-La presentación evidencia la realización de la retrospectiva en equipo y la definición de compromisos y acciones de mejora.
 
