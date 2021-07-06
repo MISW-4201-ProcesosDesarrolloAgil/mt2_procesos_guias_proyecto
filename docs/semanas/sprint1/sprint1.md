@@ -2,6 +2,7 @@
 
 ### Descripción
 ---
+
 <br>
 El objetivo del primer sprint es construir las funcionalidades del producto mínimo viable priorizadas por el dueño de producto. Cada equipo debe realizar la planeación detallada con el fin de definir las actividades necesarias para desarrollar cada historia de usuario del *Sprint Backlog*, en el sprint se realiza el diseño, la implementación y las pruebas del sistema. Toda la documentación del proyecto debe organizarse en la wiki de GitHub.
 
@@ -11,5 +12,6 @@ El equipo debe hacer seguimiento a las actividades mediante *daily meetings* y l
 
 ### Entregables y criterios de evaluación
 ---
+
 <br>
 ![](./../../assets/images/criterios_semanas_4_y_5.png)
