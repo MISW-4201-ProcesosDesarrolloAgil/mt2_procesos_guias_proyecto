@@ -5,7 +5,7 @@ A continuación, podrá encontrar un ejemplo de la elaboración de la visión de
 ### Primer paso. Entrevista con el dueño de producto
 ---
 <br>
-Se recomienda leer cuidadosamente la transcripción de la conversación entre Ramiro, dueño de Mercados Orgánicos y Sara, analista de negocio de la empresa de software contratada para desarrollar su sitio web. 
+El siguiente dialogo corresponde a la transcripción de la conversación entre Ramiro, dueño de Mercados Orgánicos y Sara, analista de negocio de la empresa de software contratada para desarrollar su sitio web. 
 
 **SARA:** Hola Ramiro, gracias por invitarnos a participar en este proyecto. Nos gustaría aprovechar este espacio para conocer un poco más sobre Mercados Orgánicos y la principal motivación al contactarnos.
 
