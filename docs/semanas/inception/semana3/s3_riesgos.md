@@ -25,8 +25,3 @@
 ---
 Formato de identificación de riesgos completamente diligenciado y cargado en la wiki del proyecto.
 
-
-### Criterios de evaluación
-
----
-Se listan los riesgos del proyecto y se definen las acciones preventivas y correctivas para los riesgos de alto impacto.
