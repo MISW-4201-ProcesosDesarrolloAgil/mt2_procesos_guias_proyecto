@@ -1,9 +1,9 @@
 ## ¿Cómo hacer una Visión de producto?
 
+A continuación, podrá encontrar un ejemplo de la elaboración de la visión del producto para el caso de Mercados Orgánicos. Se recomienda leer cuidadosamente la transcripción de la conversación entre Ramiro, dueño de la empresa y Sara, analista de negocio de la empresa de software contratada para desarrollar el sitio web. Posterior a dicha transcripción podrá encontrar una imagen con el mapa de historias de usuario y el *Product Backlog* elaborados a partir de la conversación.
+
 ### Entrevista a Mercados Orgánicos
 ---
-
-A continuación, hacemos la transcripción de una conversación entre Ramiro, representante de Mercados Orgánicos, y Sara, analista de negocio de la empresa de software contratada para desarrollar el sitio web de Mercados Orgánicos.
 
 **SARA:** Hola Ramiro, gracias por invitarnos a participar en este proyecto. Nos gustaría aprovechar este espacio para conocer un poco más sobre Mercados Orgánicos y la principal motivación al contactarnos.
 
@@ -88,4 +88,72 @@ Si es la primera vez que el cliente va a comprar se le va a pedir que se registr
 
 **RAMIRO:** No, considero que hemos abarcado las características del sistema que requerimos en Mercados Orgánicos y agradezco su disposición y colaboración.
 
-**SARA:** Gracias a ustedes nuevamente por invitarnos a participar en este proyecto y esperamos contactarlos nuevamente para resolver las dudas que puedan salir en el proceso. 
+**SARA:** Gracias a ustedes nuevamente por invitarnos a participar en este proyecto y esperamos contactarlos nuevamente para resolver las dudas que puedan salir en el proceso.
+
+### User Story Mapping
+---
+
+Se recomienda revisar las instrucciones en el enlace a [Miro](https://miro.com/app/board/o9J_lQKbLXc=/) del recurso
+
+![](./../../assets/images/user_story_mapping.jpg)
+
+### Product Backlog
+---
+
+* Crear productos
+* Listar productos
+* Editar producto
+* Eliminar producto
+* Crear canasta
+* Ver canasta
+* Listar canastas
+* Modificar canasta
+* Inactivar canasta
+* Registrar productor
+* Aprobar / rechazar un productor
+* Recibir notificación de solicitud aprobada / rechazada
+* Iniciar sesión
+* Registrar oferta
+* Confirmar oferta
+* Listar ofertas de la semana
+* Ver oferta por productor
+* Establecer precio de venta por producto
+* Listar productores
+* Ver productor
+* Listar consumidores
+* Ver consumidor
+* Reporte de inventarios
+* Modificar oferta
+* Abrir mercado
+* Definir fecha y hora de apertura automática del mercado
+* Ver catálogo de productos
+* Ver información de producto
+* Agregar producto al carrito de compras
+* Eliminar producto al carrito de compras
+* Registrar consumidor
+* Registrar medio de pago
+* Confirmar compra
+* Recibir notificación de nuevo pedido
+* Listar pedidos
+* Ver detalle de pedido
+* Consultar pedidos por día
+* Dar de baja un productor
+* Reporte de productores por pedido
+* Reporte de pedidos por día
+* Lista de pedidos por cliente
+* Inactivar producto
+* Activar producto
+* Cerrar sesión
+* Ver perfil de usuario
+* Actualizar perfil de usuario
+* Ver productos ofertados
+* Vaciar carrito de compras
+* Actualizar medio de pago
+* Seleccionar fecha y dirección de envio
+* Consultar pedidos por fecha
+* Listar histórico de pedidos
+* Histórico de ofertas por semana
+* Histórico de ofertas por producto
+* Histórico de pedidos por producto
+* Dar de baja un consumidor
+* Reporte de ventas semanales
