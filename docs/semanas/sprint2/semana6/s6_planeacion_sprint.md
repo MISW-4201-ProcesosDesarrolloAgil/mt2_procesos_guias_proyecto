@@ -47,10 +47,3 @@ Durante esta semana los miembros del equipo deben coordinarse para realizar las 
 
 * El formato para cálculo de velocidad del sprint 2 del equipo se encuentra en la wiki del proyecto.
 * La planeación de tareas del sprint en el tablero de tareas de Jira.
-
-### Criterios de evaluación
----
-
-* El formato para el cálculo de la velocidad del equipo se encuentra completamente diligenciado.
-* Todas las HU del sprint se encuentran detalladas y estimadas en Jira.
-* Se evidencia el inicio del sprint y la distribución de tareas en el tablero de tareas de Jira.
