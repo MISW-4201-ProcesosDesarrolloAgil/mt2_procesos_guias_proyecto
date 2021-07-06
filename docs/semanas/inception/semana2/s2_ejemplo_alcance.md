@@ -1,11 +1,11 @@
-## Elaboración de la visión de producto. Caso de estudio: Mercados Orgánicos
+## Ejemplo. Elaboración de la visión del producto
 
 A continuación, podrá encontrar un ejemplo de la elaboración de la visión del producto para el caso de Mercados Orgánicos.
 
 ### Primer paso. Entrevista con el dueño de producto
 ---
 <br>
-El siguiente dialogo corresponde a la transcripción de la conversación entre Ramiro, dueño de Mercados Orgánicos y Sara, analista de negocio de la empresa de software contratada para desarrollar su sitio web. 
+El siguiente dialogo corresponde a la transcripción de la conversación entre Ramiro, dueño de Mercados Orgánicos y Sara, analista de negocio de la empresa de software contratada para desarrollar el sitio web. 
 
 **SARA:** Hola Ramiro, gracias por invitarnos a participar en este proyecto. Nos gustaría aprovechar este espacio para conocer un poco más sobre Mercados Orgánicos y la principal motivación al contactarnos.
 
@@ -95,7 +95,7 @@ Si es la primera vez que el cliente va a comprar se le va a pedir que se registr
 ### Segundo paso. Mapa de Historias de Usuario
 ---
 <br>
-A partir de la conversación con Ramiro (dueño de Mercados Orgánicos) se ha elaborado el siguiente Mapa de Historias de Usuario. Se recomienda revisar las instrucciones en el recurso disponible en [Miro](https://miro.com/app/board/o9J_lQKbLXc=/).
+A partir de la conversación con Ramiro (dueño de Mercados Orgánicos) se ha elaborado el siguiente Mapa de Historias de Usuario. Revise las instrucciones en el recurso disponible en [Miro](https://miro.com/app/board/o9J_lQKbLXc=/).
 
 ![](./../../../assets/images/user_story_mapping.jpg)
 
