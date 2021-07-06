@@ -95,7 +95,7 @@ Si es la primera vez que el cliente va a comprar se le va a pedir que se registr
 ### Segundo paso. Mapa de Historias de Usuario
 ---
 <br>
-A partir de la conversación con Ramiro (dueño de Mercados Orgánicos) se ha elaborado el siguiente Mapa de Historias de Usuario. Revise las instrucciones en el recurso disponible en [Miro](https://miro.com/app/board/o9J_lQKbLXc=/).
+A partir de la conversación con Ramiro (dueño de Mercados Orgánicos) se ha elaborado el siguiente Mapa de Historias de Usuario. Revise los detalles en el recurso disponible en [Miro](https://miro.com/app/board/o9J_lQKbLXc=/).
 
 ![](./../../../assets/images/user_story_mapping.jpg)
 
