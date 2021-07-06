@@ -1,4 +1,4 @@
-## Retrospectiva del Sprint 2
+## Sprint 2. Retrospectiva
 
 ### Objetivos
 
@@ -29,9 +29,4 @@ Analizar las lecciones aprendidas durante el sprint en las dimensiones de equipo
 ---
 * URL a la wiki del proyecto.
 * URL al proyecto del equipo en Jira.
-
-### Criterios de evaluación
-
----
-La presentación evidencia la realización de la retrospectiva en equipo y la definición de compromisos y acciones de mejora.
 
