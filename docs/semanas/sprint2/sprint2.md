@@ -1,37 +1,11 @@
 ## Sprint 2
 
-### Objetivos
+### Descripción
 ---
+<br>
+<iframe width="968" height="632" src="https://miro.com/app/live-embed/o9J_lH3wguE=/?moveToViewport=1672,-251,1490,977" frameBorder="0" scrolling="no" allowFullScreen></iframe>
 
-* Realizar la planeación del sprint
-* Desarrollar las funcionalidades del Sprint Backlog teniendo en cuenta las prácticas vistas en cursos anteriores
-* Hacer seguimiento al avance de actividades del sprint mediante Daily meetings y tableros Kanban
-* Cerrar el segundo sprint de desarrollo y preparar la demostración para la *Revisión del Sprint*
-* Realizar la *Retrospectiva del sprint* a partir del análisis de las lecciones aprendidas en las dimensiones de equipo, proceso y producto
- 
-### Resumen de las actividades
+### Entregables y criterios de evaluación
 ---
-
-![](./../../../assets/images/sprint2.jpg)
-
-### Detalle de las actividades
----
-
-<table>
-  <tr>
-   <td align="center" colspan="7"><b>Sprint 2</b></td>
-  </tr>
-  <tr>
-    <td colspan="3"><b>Semana 6</b></td>
-    <td colspan="4"><b>Semana 7</b></td>
-  </tr>
-  <tr>
-    <td><a href="../semana6/s6_planeacion_sprint">Planeación del sprint</a></td>
-    <td><a href="../semana6/s6_desarrollo">Desarrollo del proyecto (1 parte)</a></td>
-    <td><a href="../semana6/s6_seguimiento">Seguimiento (1 parte)</a></td>
-    <td><a href="../semana7/s7_desarrollo">Desarrollo del proyecto (2 parte)</a></td>
-    <td><a href="../semana7/s7_seguimiento">Seguimiento (2 parte)</a></td>
-    <td><a href="../semana7/s7_demo">Demostración del producto</a></td>
-    <td><a href="../semana7/s7_retrospectiva">Retrospectiva</a></td>
-  </tr>
-</table>
+<br>
+![](./../../assets/images/criterios_semanas_6_y_7.png)
