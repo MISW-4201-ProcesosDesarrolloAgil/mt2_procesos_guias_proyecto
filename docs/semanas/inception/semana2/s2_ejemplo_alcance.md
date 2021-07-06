@@ -1,8 +1,8 @@
-## Ejemplo elaboración de la visión de producto
+## Elaboración de la visión de producto - Ejemplo Mercados Orgánicos
 
-A continuación, podrá encontrar un ejemplo de la elaboración de la visión del producto para el caso de Mercados Orgánicos. Se recomienda leer cuidadosamente la transcripción de la conversación entre Ramiro, dueño de la empresa y Sara, analista de negocio de la empresa de software contratada para desarrollar el sitio web. Posterior a dicha transcripción podrá encontrar una imagen con el mapa de historias de usuario y el *Product Backlog* elaborados a partir de la conversación. Tambien puede consultar el recurso en Miro haciendo clic [aquí](https://miro.com/app/board/o9J_lQKbLXc=/).
+A continuación, podrá encontrar un ejemplo de la elaboración de la visión del producto para el caso de Mercados Orgánicos. Se recomienda leer cuidadosamente la transcripción de la conversación entre Ramiro, dueño de Mercados Orgánicos y Sara, analista de negocio de la empresa de software contratada para desarrollar su sitio web. Posterior a dicha transcripción podrá encontrar una imagen con el mapa de historias de usuario y el *Product Backlog* elaborados a partir de la conversación con el cliente. Tambien puede consultar el recurso en Miro haciendo clic [aquí](https://miro.com/app/board/o9J_lQKbLXc=/).
 
-### Entrevista a Mercados Orgánicos
+### Primer paso. Entrevista con el dueño de producto
 ---
 
 **SARA:** Hola Ramiro, gracias por invitarnos a participar en este proyecto. Nos gustaría aprovechar este espacio para conocer un poco más sobre Mercados Orgánicos y la principal motivación al contactarnos.
@@ -90,17 +90,17 @@ Si es la primera vez que el cliente va a comprar se le va a pedir que se registr
 
 **SARA:** Gracias a ustedes nuevamente por invitarnos a participar en este proyecto y esperamos contactarlos nuevamente para resolver las dudas que puedan salir en el proceso.
 
-### User Story Mapping
+### Segundo paso. Elaboración del Mapa de Historias de Usuario
 ---
 
-Se recomienda revisar las instrucciones en el enlace a [Miro](https://miro.com/app/board/o9J_lQKbLXc=/) del recurso
+A partir de la conversación con Ramiro (dueño de Mercados Orgánicos) se ha elaborado el siguiente Mapa de Historias de Usuario. Se recomienda revisar las instrucciones en el recurso disponible en [Miro](https://miro.com/app/board/o9J_lQKbLXc=/).
 
 ![](./../../assets/images/user_story_mapping.jpg)
 
-### Product Backlog
+### Tercer paso. Product Backlog
 ---
 
-Primera versión del *Product Backlog* para el caso de Mercados Orgánicos:
+El siguiente listado de historias de usuario corresponde a la primera versión del *Product Backlog* propuesto:
 
 * Crear productos
 * Listar productos
