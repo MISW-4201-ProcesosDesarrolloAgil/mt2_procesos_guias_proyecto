@@ -48,9 +48,3 @@ Realizar la planeación general del proyecto. Al finalizar esta actividad cada u
 * Formato de velocidad diligenciado en la Wiki del proyecto.
 * Sprint 1 se ha creado en JIRA y contiene las Historias de usuario seleccionadas y aprobadas por el dueño de producto para el sprint.
 
-### Criterios de evaluación
-
----
-* El PBL en Jira tiene las estimaciones de cada HU.
-* El formato para el cálculo de la velocidad del equipo se encuentra completamente diligenciado.
-* El listado de HU propuestas para el sprint se encuentra en la wiki.
