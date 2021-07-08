@@ -29,6 +29,6 @@ Para realizar esta actividad, se espera que cada miembro del equipo haya verific
 ### Recursos 
 ---
 
-[Tutorial alistamiento del ambiente de desarrollo]()(*Pendiente*)
+[Tutorial alistamiento del ambiente de desarrollo]() (*Pendiente*)
 
 
