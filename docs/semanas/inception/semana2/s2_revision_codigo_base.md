@@ -17,16 +17,14 @@ Para realizar esta actividad, se espera que cada miembro del equipo haya verific
 
 #### ![](./../../../assets/images/individuo.png) Actividad individual
 
-Las actividades que deben realizar son:
-
-* Hacer el tutorial de alistamiento del ambiente de desarrollo disponible en Recursos.
+* Realizar el tutorial de alistamiento del ambiente de desarrollo disponible en Recursos.
 * Clonar el repositorio.
 * Abrir el proyecto en el editor de código configurado.
 * Revisar la estructura del código base:
   * Modelos.
   * Servicios rest.
-  * Conexión entre backend y frontend.
-  * Vistas.
+  * Conexión entre *backend* y *frontend*.
+  * Componentes.
 
 ### Recursos 
 ---
