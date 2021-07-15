@@ -26,4 +26,4 @@ Ahora se procede a evaluar el resultado obtenido, encontrando las siguientes con
 ### Referencias
 ---
 
-*Lawrence, R. Green, P.The Humanizing Work Guide to Splitting User Stories. (11 de julio de 2021). https://www.humanizingwork.com/the-humanizing-work-guide-to-splitting-user-stories/*
+*Lawrence, R. Green, P. (11 de julio de 2021). The Humanizing Work Guide to Splitting User Stories. https://www.humanizingwork.com/the-humanizing-work-guide-to-splitting-user-stories/*
