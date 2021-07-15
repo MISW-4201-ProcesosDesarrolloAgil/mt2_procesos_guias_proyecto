@@ -5,7 +5,7 @@ Después de revisar las historias de usuario del *product backlog* en el ejemplo
 ### Caso 1. Seleccionar información de envío
 ---
 
-Se sabe por el dueño de producto que la información de envío corresponde a la fecha y la dirección de envío, por lo cual es posible que la historia de usuario no cumpla con la característica Small (pequeña) de INVEST.
+Se sabe por el dueño de producto que la información de envío corresponde a la fecha y la dirección de envío, por lo cual es posible que la historia de usuario no cumpla con la característica *Small* (pequeña) de INVEST.
 
 Para aclarar esto, se aplica el primer patrón para división de historias de usuario propuesto por *Humanizing Work*[1], identificar los pasos del flujo de trabajo:
 
@@ -19,8 +19,11 @@ Para aclarar esto, se aplica el primer patrón para división de historias de us
 Como se puede observar en el listado de pasos, para seleccionar la dirección de envío es necesario al menos crearla y listarla, sin embargo, es posible que un usuario tenga varias direcciones y que desee actualizarlas o incluso eliminarlas en algún momento.
 
 Ahora se procede a evaluar el resultado obtenido, encontrando las siguientes conclusiones:
+
   * Los pasos 2, 3, 4 y 5 corresponden a elementos de un CRUD de direcciones que se pueden convertir en nuevas historias de usuario.
   * Los pasos 1 y 6 se pueden unir en una sola historia de usuario pues comparten la misma interface y su complejidad no es mayor.
 
-### Paso 2.
+### Referencias
 ---
+
+*Lawrence, R. Green, P.The Humanizing Work Guide to Splitting User Stories. (11 de julio de 2021). https://www.humanizingwork.com/the-humanizing-work-guide-to-splitting-user-stories/*
