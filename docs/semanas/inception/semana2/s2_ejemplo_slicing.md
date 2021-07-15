@@ -4,7 +4,7 @@ Después de revisar las historias de usuario del *product backlog* en el ejemplo
 
 ### Caso 1. Seleccionar información de envío
 ---
-
+<br>
 Se sabe por el dueño de producto que la información de envío corresponde a la fecha y la dirección de envío, por lo cual es posible que la historia de usuario no cumpla con la característica *Small* (pequeña) de INVEST [1].
 
 Para aclarar esto, se aplica el primer patrón para división de historias de usuario propuesto por *Humanizing Work*, identificar los pasos del flujo de trabajo [2]:
@@ -25,7 +25,7 @@ Ahora se procede a evaluar el resultado obtenido, encontrando las siguientes con
 
 ### Caso 2. Consultar pedidos
 ---
-
+<br>
 La consulta de pedidos es una funcionalidad que a primera vista puede tener muchas variaciones dependiendo del criterio de búsqueda y por lo tanto una complejidad mayor.
 
 Para aclarar esto, se solicita apoyo del dueño de producto y se aplica el tercer patrón para división de historias de usuario, variaciones de las reglas comerciales [2].
@@ -41,6 +41,7 @@ Cada una de estas historias cumplen con las características INVEST [1] y por lo
 
 ### Referencias
 ---
-
+<br>
 [1] *Rubin, K. (2012). Chapter 5. Requirements and User Stories en Essential Scrum: A Practical Guide to the Most Popular Agile Process. Estados Unidos: Addison-Wesley Professional.*
+
 [2] *Lawrence, R. Green, P. (11 de julio de 2021). The Humanizing Work Guide to Splitting User Stories. https://www.humanizingwork.com/the-humanizing-work-guide-to-splitting-user-stories/*
