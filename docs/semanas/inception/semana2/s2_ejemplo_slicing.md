@@ -5,9 +5,9 @@ Después de revisar las historias de usuario del *product backlog* en el ejemplo
 ### Caso 1. Seleccionar información de envío
 ---
 <br>
-Se sabe por el dueño de producto que la información de envío corresponde a la fecha y la dirección de envío, por lo cual es posible que la historia de usuario no cumpla con la característica *Small* (pequeña) de INVEST [1].
+Se sabe por el dueño de producto que la información de envío corresponde a la fecha y la dirección de envío. Para seleccionar la dirección de envío es necesario al menos crearla y luego listarla. Adicionalmete es posible que un usuario tenga varias direcciones y que desee actualizarlas o incluso eliminarlas en algún momento. por lo cual es posible que la historia de usuario no cumpla con la característica *Small* (pequeña) de INVEST [1].
 
-Para aclarar esto, se aplica el primer patrón para división de historias de usuario propuesto por *Humanizing Work*, identificar los pasos del flujo de trabajo [2]:
+En este caso se puede aplicar el primer patrón para división de historias de usuario propuesto por *Humanizing Work*, identificar los pasos del flujo de trabajo [2]:
 
 1.	Seleccionar fecha de envío.
 2.	Crear dirección de envío.
@@ -16,12 +16,10 @@ Para aclarar esto, se aplica el primer patrón para división de historias de us
 5.	Eliminar dirección de envío.
 6.	Seleccionar dirección de envío.
 
-Como se puede observar en el listado de pasos, para seleccionar la dirección de envío es necesario al menos crearla y listarla, sin embargo, es posible que un usuario tenga varias direcciones y que desee actualizarlas o incluso eliminarlas en algún momento.
-
 Ahora se procede a evaluar el resultado obtenido, encontrando las siguientes conclusiones:
 
   * Los pasos 2, 3, 4 y 5 corresponden a elementos de un CRUD de direcciones que se pueden convertir en nuevas historias de usuario.
-  * Los pasos 1 y 6 se pueden unir en una sola historia de usuario pues comparten la misma interface y su complejidad no es mayor.
+  * Los pasos 1 y 6 se pueden unir en una sola historia de usuario pues comparten la misma interfaz y su complejidad no es mayor.
 
 ### Caso 2. Consultar pedidos
 ---
