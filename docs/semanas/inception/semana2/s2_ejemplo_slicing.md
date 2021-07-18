@@ -1,4 +1,4 @@
-## Ejemplo. División de historias de usuario
+## Partiendo historias de usuario: ejemplo
 
 Después de revisar las historias de usuario del *product backlog* en el ejemplo de [Mercados Orgánicos](https://miro.com/app/board/o9J_lQKbLXc=/), se ha detectado que las siguientes historias de usuario pueden ser candidatas para dividirse. Encuentre a continuación el análisis realizado a cada una:
 
