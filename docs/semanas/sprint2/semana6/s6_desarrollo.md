@@ -42,5 +42,4 @@ Durante la ejecución del sprint se espera que el equipo complete las actividade
 
 ---
 * La presentación de bad smells en la wiki del proyecto.
-* URL del repositorio del equipo en GitHub.
 
