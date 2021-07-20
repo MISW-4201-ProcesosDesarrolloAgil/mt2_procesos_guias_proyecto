@@ -39,12 +39,12 @@ Realizar la planeación general del proyecto. Al finalizar esta actividad cada u
 ---
 * [DoD primer sprint](../semana3/s3_DoD)
 * [Instructivo para conducir una sesión de Planning Poker](../semana3/s3_planning_poker)
-* [Formato para cálculo de velocidad del equipo](cambiar por enlace en Coursera)
+* [Formato para cálculo de velocidad del equipo](https://www.coursera.org/learn/procesos-de-desarrollo-agil/resources/SJjwI)
 
 ### Entregables
 
 ---
 * Historias de usuario del PBL se encuentran estimadas en Jira.
-* Formato de velocidad diligenciado en la Wiki del proyecto.
-* Sprint 1 se ha creado en JIRA y contiene las Historias de usuario seleccionadas y aprobadas por el dueño de producto para el sprint.
+* Formato de velocidad diligenciado en la wiki del proyecto.
+* Sprint 1 se ha creado en Jira y contiene las historias de usuario seleccionadas y aprobadas por el dueño de producto para el sprint.
 
