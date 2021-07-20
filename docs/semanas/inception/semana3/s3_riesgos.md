@@ -18,7 +18,7 @@
 ### Recursos 
 
 ---
-[Formato de definición de riesgos](https://uniandes.sharepoint.com/:w:/s/mod/EQUoRssKFtpGl0JlHX8glvsBme7bPBCf1wk7VaOjmkezcw?e=TxgARK).
+[Formato de definición de riesgos](https://www.coursera.org/learn/procesos-de-desarrollo-agil/resources/SJjwI).
 
 ### Entregables
 
