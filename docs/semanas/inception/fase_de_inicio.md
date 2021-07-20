@@ -9,7 +9,7 @@ A continuación podrá encontrar una hoja de ruta con las actividades a desarrol
 
 <br>
 
-<table class="tg">
+<table>
   <thead>
     <tr>
       <th colspan="2" class="tg-0lax">Detalle de objetivos y actividades por semana</th>
@@ -17,12 +17,12 @@ A continuación podrá encontrar una hoja de ruta con las actividades a desarrol
   </thead>
   <tbody>
     <tr>
-      <td class="tg-0pky">Semana 2</td>
-      <td class="tg-0pky">[Ver detalle](../semana2/semana2)</td>
+      <td>Semana 2</td>
+      <td>[Ver detalle](../semana2/semana2)</td>
     </tr>
     <tr>
-      <td class="tg-0pky">Semana 3</td>
-      <td class="tg-0pky">[Ver detalle](../semana3/semana3)</td>
+      <td>Semana 3</td>
+      <td>[Ver detalle](../semana3/semana3)</td>
     </tr>
   </tbody>
 </table>
