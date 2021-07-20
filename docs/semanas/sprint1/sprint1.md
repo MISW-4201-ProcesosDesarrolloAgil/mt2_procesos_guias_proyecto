@@ -10,6 +10,30 @@ El equipo debe hacer seguimiento a las actividades mediante *daily meetings* y l
 
 ![](./../../assets/images/sprint1.jpg)
 
+<br>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="2" class="tg-0lax">Detalle de objetivos y actividades por semana</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Semana 4</td>
+      <td>
+        <a href="{{ '/semanas/sprint1/semana4/semana4' | absolute_url }}">Ver detalle</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Semana 5</td>
+      <td>
+        <a href="{{ '/semanas/sprint1/semana5/semana5' | absolute_url }}">Ver detalle</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 ### Entregables y criterios de evaluación
 ---
 
