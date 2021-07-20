@@ -30,4 +30,4 @@ Para el desarrollo de esta actividad es necesario haber realizado la actividad d
 ### Entregables
 ---
 
-Cargar imagen del Canvas de equipo o su enlace a Miro en la wiki de GitHub.
+Imagen del Canvas de equipo o su enlace a Miro en la wiki de GitHub.
