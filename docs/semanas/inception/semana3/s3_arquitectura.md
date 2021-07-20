@@ -34,6 +34,6 @@ Revisar la arquitectura de referencia de la aplicación base para entender su di
 ### Entregables
 
 ---
-Cargar el documento de arquitectura en la wiki del proyecto.
+Documento de arquitectura en la wiki del proyecto.
 
 
