@@ -23,7 +23,7 @@ Realizar la instalación y configuración del ambiente de desarrollo de acuerdo 
 
 ---
 * Instrucciones de instalación del ambiente de desarrollo *(Pendiente)*.
-* [Formato GitFlow](enlace a Recurso en Coursera)
+* [Formato GitFlow](https://www.coursera.org/learn/procesos-de-desarrollo-agil/resources/SJjwI)
 
 ### Entregables 
 
