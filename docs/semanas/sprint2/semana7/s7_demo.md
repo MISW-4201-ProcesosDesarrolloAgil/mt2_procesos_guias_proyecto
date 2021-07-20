@@ -41,8 +41,8 @@ Tutorial Heroku (*Pendiente*).
 ### Entregables
 
 ---
-* URL al repositorio del equipo en GitHub.
-* URL del producto desplegado en Heroku.
+* Tarea en Coursera con la URL del ambiente de pruebas y datos requeridos para verificar las funcionalidades desarrolladas.
+* Presentación de la demostración de producto en la wiki del proyecto.
 
 
 
