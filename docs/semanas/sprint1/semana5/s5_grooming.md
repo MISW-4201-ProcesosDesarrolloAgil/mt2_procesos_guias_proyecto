@@ -33,6 +33,6 @@ Cada integrante del equipo debe:
 ### Entregables
 ---
 
-URL al proyecto del equipo en Jira.
+Las HU del tope del PBL detalladas en Jira. El detalle incluye descripción, criterios de aceptación y mockups.
 
 
