@@ -28,4 +28,4 @@ Realizar la instalación y configuración del ambiente de desarrollo de acuerdo 
 ### Entregables 
 
 ---
-* Cargar el formato de flujo de trabajo en la wiki del proyecto.
+* Formato de flujo de trabajo en la wiki del proyecto.
