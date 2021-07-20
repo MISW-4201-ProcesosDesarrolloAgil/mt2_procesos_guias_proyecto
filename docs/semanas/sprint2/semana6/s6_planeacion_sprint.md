@@ -39,11 +39,11 @@ Durante esta semana los miembros del equipo deben coordinarse para realizar las 
 
 * [DoD segundo sprint](../semana6/s6_DoD).
 * [Instructivo para conducir una sesión de Planning Poker](/mt2_procesos_guias_proyecto/semanas/inception/semana3/s3_planning_poker).
-* [Formato para cálculo de velocidad del equipo](cambiar por enlace de coursera).
+* [Formato para cálculo de velocidad del equipo](https://www.coursera.org/learn/procesos-de-desarrollo-agil/resources/SJjwI).
 
 
 ### Entregables
 ---
 
-* El formato para cálculo de velocidad del sprint 2 del equipo se encuentra en la wiki del proyecto.
+* El formato para cálculo de velocidad del sprint 2 en la wiki del proyecto.
 * La planeación de tareas del sprint en el tablero de tareas de Jira.
