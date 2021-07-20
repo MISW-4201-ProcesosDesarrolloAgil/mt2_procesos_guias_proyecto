@@ -19,13 +19,13 @@ A continuación podrá encontrar una hoja de ruta con las actividades a desarrol
     <tr>
       <td>Semana 2</td>
       <td>
-        <a href="{{ '../semana2/semana2' | absolute_url }}">Ver detalle</a>
+        <a href="{{ '../../semana2/semana2' | absolute_url }}">Ver detalle</a>
       </td>
     </tr>
     <tr>
       <td>Semana 3</td>
       <td>
-        <a href="{{ '../semana3/semana3' | absolute_url }}">Ver detalle</a>
+        <a href="{{ '../../semana3/semana3' | absolute_url }}">Ver detalle</a>
       </td>
     </tr>
   </tbody>
