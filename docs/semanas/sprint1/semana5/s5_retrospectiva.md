@@ -39,4 +39,4 @@
 ### Entregables
 
 ---
-* Presentación con el resultado de la retrospectiva en la wiki del proyecto.
+Presentación con el resultado de la retrospectiva en la wiki del proyecto.
