@@ -7,6 +7,15 @@ A continuación podrá encontrar una hoja de ruta con las actividades a desarrol
 <br>
 ![](./../../assets/images/fase_inicio.jpg)
 
+### Detalle de objetivos y actividades por semana
+---
+<br>
+
+| Semana |             |
+|--------|-------------|
+| 2      | [Ver detalle](../semana2/semana2) |
+| 3      | [Ver detalle](../semana3/semana3) |
+
 ### Entregables y criterios de evaluación
 ---
 <br>
