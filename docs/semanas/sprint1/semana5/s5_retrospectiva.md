@@ -39,7 +39,6 @@
 ### Entregables
 
 ---
-* URL a la wiki del proyecto.
-* URL al proyecto del equipo en Jira.
+* Presentación con el resultado de la retrospectiva en la wiki del proyecto.
 
 
