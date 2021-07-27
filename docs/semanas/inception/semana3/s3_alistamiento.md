@@ -22,7 +22,7 @@ Realizar la instalación y configuración del ambiente de desarrollo de acuerdo 
 ### Recursos 
 
 ---
-* Instrucciones de instalación del ambiente de desarrollo *(Pendiente)*.
+* [Instrucciones de instalación del ambiente de desarrollo](https://misovirtual.virtual.uniandes.edu.co/codelabs/tutorial-alistamiento/index.html#0).
 * [Formato GitFlow](https://www.coursera.org/learn/procesos-de-desarrollo-agil/resources/SJjwI)
 
 ### Entregables 
