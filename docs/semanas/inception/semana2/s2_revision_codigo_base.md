@@ -21,10 +21,14 @@ Para realizar esta actividad, se espera que cada miembro del equipo haya verific
 * Clonar el repositorio.
 * Abrir el proyecto en el editor de código configurado.
 * Revisar la estructura del código base:
-  * Modelos.
-  * Servicios rest.
-  * Conexión entre *backend* y *frontend*.
-  * Componentes.
+  * Backend
+    * Modelos
+    * Servicios rest
+  * Frontend
+    * Diseño de interfaces
+    * Componentes
+    * Enrutamiento
+    * Conexión con el backend
 
 ### Recursos 
 ---
