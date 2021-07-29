@@ -102,7 +102,9 @@ Si es la primera vez que el cliente va a comprar se le va a pedir que se registr
 ### Segundo paso. Mapa de Historias de Usuario
 ---
 <br>
-A partir de la conversación con Ramiro (dueño de Mercados Orgánicos) se ha elaborado el siguiente Mapa de Historias de Usuario. **Revise los detalles en el recurso disponible en [Miro](https://miro.com/app/board/o9J_lQKbLXc=/).**
+A partir de la conversación con Ramiro (dueño de Mercados Orgánicos) se ha elaborado el siguiente Mapa de Historias de Usuario.
+<br>
+**Revise los detalles en el recurso disponible en [Miro](https://miro.com/app/board/o9J_lQKbLXc=/).**
 
 ![](./../../../assets/images/user_story_mapping.jpg)
 
@@ -111,60 +113,69 @@ A partir de la conversación con Ramiro (dueño de Mercados Orgánicos) se ha el
 <br>
 El siguiente listado de historias de usuario corresponde a la primera versión del *Product Backlog* propuesto:
 
-* Crear productos
-* Listar productos
-* Editar producto
-* Eliminar producto
-* Crear canasta
-* Ver canasta
-* Listar canastas
-* Modificar canasta
-* Inactivar canasta
-* Registrar productor
-* Aprobar / rechazar un productor
-* Recibir notificación de solicitud aprobada / rechazada
-* Iniciar sesión
-* Registrar oferta
-* Confirmar oferta
-* Listar ofertas de la semana
-* Ver oferta por productor
-* Establecer precio de venta por producto
-* Listar productores
-* Ver productor
-* Listar consumidores
-* Ver consumidor
-* Reporte de inventarios
-* Modificar oferta
-* Abrir mercado
-* Definir fecha y hora de apertura automática del mercado
-* Ver catálogo de productos
-* Ver información de producto
-* Agregar producto al carrito de compras
-* Eliminar producto al carrito de compras
-* Registrar consumidor
-* Registrar medio de pago
-* Confirmar compra
-* Recibir notificación de nuevo pedido
-* Listar pedidos
-* Ver detalle de pedido
-* Consultar pedidos por día
-* Dar de baja un productor
-* Reporte de productores por pedido
-* Reporte de pedidos por día
-* Lista de pedidos por cliente
-* Inactivar producto
-* Activar producto
-* Cerrar sesión
-* Ver perfil de usuario
-* Actualizar perfil de usuario
-* Ver productos ofertados
-* Vaciar carrito de compras
-* Actualizar medio de pago
-* Seleccionar fecha y dirección de envio
-* Consultar pedidos por fecha
-* Listar histórico de pedidos
-* Histórico de ofertas por semana
-* Histórico de ofertas por producto
-* Histórico de pedidos por producto
-* Dar de baja un consumidor
-* Reporte de ventas semanales
+* AP01 - Crear productos
+* AP02 - Ver Listado de productos
+* AP03 - Ver detalle de producto
+* AP04 - Editar producto
+* AP05 - Eliminar producto
+* AC01 - Crear canasta
+* AC02 - Ver detalle de canasta
+* AC03 - Ver listado de canastas
+* AC04 - Modificar canasta
+* AC05 - Inactivar canasta
+* GC01 - Registrar productor
+* PR01 - Aprobar / rechazar un productor
+* NO01 - Recibir notificación de solicitud aprobada / rechazada
+* GC02 - Iniciar sesión
+* OP01 - Registrar oferta
+* OP02 - Confirmar oferta
+* GO01 - Listar ofertas de la semana
+* GO02 - Ver oferta por productor
+* GO03 - Establecer precio de venta por producto
+* PR02 - Listar productores
+* PR03 - Ver productor
+* CO01 - Listar consumidores
+* CO02 - Ver consumidor
+* RE01 - Reporte de inventarios
+* OP03 - Modificar oferta
+* GM01 - Abrir mercado
+* GM02 - Definir fecha y hora de apertura automática del mercado
+* VC01 - Ver catálogo de productos
+* VC02 - Ver información de producto
+* RC01 - Agregar producto al carrito de compras
+* RC02 - Eliminar producto al carrito de compras
+* GC03 - Registrar consumidor
+* GC04 - Registrar medio de pago
+* RC04 - Confirmar compra
+* NO02 - Recibir notificación de nuevo pedido
+* GP01 - Listar pedidos
+* GP02 - Ver detalle de pedido
+* GP03 - Consultar pedidos
+* PR04 - Dar de baja un productor
+* RE07 - Reporte de productores por pedido
+* RE02 - Reporte de pedidos por fecha
+* RE08 - Lista de pedidos por cliente
+* AP06 - Inactivar producto
+* AP07 - Activar producto
+* GC06 - Cerrar sesión
+* GC07 - Ver perfil de usuario
+* GC08 - Actualizar perfil de usuario
+* OP04 - Ver productos ofertados
+* RC05 - Vaciar carrito de compras
+* GC05 - Actualizar medio de pago
+* RC03 - Seleccionar información de envio
+* RE09 - Consultar pedidos por fecha
+* RE03 - Listar histórico de pedidos
+* RE04 - Histórico de ofertas por semana
+* RE05 - Histórico de ofertas por producto
+* RE06 - Histórico de pedidos por producto
+* PR05 - Dar de baja un consumidor
+* RE10 - Reporte de ventas semanales
+
+### *Backlog* en Jira
+---
+<br>
+
+La siguiente imagen corresponde al *Product Backlog* cargado en Jira. En los recuadros de color rojo podrán ver el título de la historia de usuario con su identificador interno y su descripción en la forma *Como XXX quiero YYY para ZZZ*.
+
+![](./../../../assets/images/ejemplo_backlog_jira.png)
