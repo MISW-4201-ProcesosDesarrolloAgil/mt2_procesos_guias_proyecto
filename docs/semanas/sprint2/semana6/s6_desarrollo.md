@@ -36,7 +36,7 @@ Durante la ejecución del sprint se espera que el equipo complete las actividade
 ---
 
 * Refactoring: Improving the Design of Existing Code, Martin Fowler, Capitulo 3 disponible en la Biblioteca de la Universidad  en la [Colección O´Reilly](https://www.oreilly.com/library/view/temporary-access/?email=^u).
-* [Instructivo para conducir sesiones de *Daily meeting*](../sprint1/semana4/s4_daily_meeting)
+* [Instructivo para conducir sesiones de *Daily meeting*](/mt2_procesos_guias_proyecto/semanas/sprint1/semana4/s4_daily_meeting)
 
 ### Entregables
 
