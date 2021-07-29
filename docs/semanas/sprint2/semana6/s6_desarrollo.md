@@ -27,7 +27,7 @@ Durante la ejecución del sprint se espera que el equipo complete las actividade
 * *Refactoring Bad Smells*:
   * Previo a esta actividad los integrantes del grupo deben haber realizado la actividad individual de Refactoring y Bad Smells
   * A partir de los Bad Smells identificados por los integrantes del grupo, seleccionar al menos 3 bad smells y corregirlos.
-  * Agregar las tareas de corrección al tablero de tareas en JIRA
+  * Agregar las tareas de corrección al tablero de tareas en Jira.
   * Elaborar una presentación donde se expliquen los bad smells identificados y muestren el antes y el después del código corregido.
   * Cargar la presentación en la wiki del proyecto.
 
@@ -36,7 +36,7 @@ Durante la ejecución del sprint se espera que el equipo complete las actividade
 ---
 
 * Refactoring: Improving the Design of Existing Code, Martin Fowler, Capitulo 3 disponible en la Biblioteca de la Universidad  en la [Colección O´Reilly](https://www.oreilly.com/library/view/temporary-access/?email=^u).
-* [Instructivo para conducir sesiones de *Daily meeting*](/sprint1/semana4/s4_daily_meeting)
+* [Instructivo para conducir sesiones de *Daily meeting*](../sprint1/semana4/s4_daily_meeting)
 
 ### Entregables
 
