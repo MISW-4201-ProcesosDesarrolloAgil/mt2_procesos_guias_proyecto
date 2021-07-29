@@ -24,7 +24,7 @@ Cada integrante del equipo debe leer con anticipación la lectura titulada *Los 
 ---
 
 * [Formato de definición de riesgos](https://www.coursera.org/learn/procesos-de-desarrollo-agil/resources/SJjwI).
-* [Los riesgos positivos y los riesgos negativos](https://www.coursera.org/learn/procesos-de-desarrollo-agil/resources/coqqh).
+* Gómez, A. (2006). [Los riesgos positivos y los riesgos negativos](https://www.coursera.org/learn/procesos-de-desarrollo-agil/resources/coqqh) en Proyectos complejos: éxitos o Fracasos (Semana 3). Coursera.
 
 
 ### Entregables
