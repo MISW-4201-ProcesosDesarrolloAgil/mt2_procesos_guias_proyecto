@@ -22,7 +22,7 @@ Para realizar esta actividad es necesario que cada integrante del equipo haya re
      * Un modelo de componentes.
      * Un modelo de clases.
      * Un modelo de despliegue.
-   
+<br>
 * Cargar el documento de arquitectura en la wiki del proyecto del curso.
 
 
