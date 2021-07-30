@@ -12,6 +12,8 @@ Para el desarrollo de esta actividad es necesario:
 * Haber realizado la actividad de Conformación de equipos y contar con un equipo establecido.
 * Crear una cuenta con el correo institucional de la Universidad en [Miro](https://miro.com/signup/) y activar la licencia educativa en este [enlace](https://miro.com/contact/education/).
 
+Adicional a lo anterior, lo invito a que busque en Internet el video titulado “El secreto para el trabajo en equipo - EQUIPOS VIRTUALES también” publicado por Tatiana Rodriguez Leal. Puede encontrar este video en la plataforma de YouTube en un canal llamado “Tatiana Rodriguez Leal”.
+
 ### Descripción actividad
 
 ---
