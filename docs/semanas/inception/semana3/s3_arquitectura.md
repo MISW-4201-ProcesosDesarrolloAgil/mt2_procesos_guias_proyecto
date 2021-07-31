@@ -23,7 +23,7 @@ Para realizar esta actividad es necesario que cada integrante del equipo haya re
      * Un modelo de clases.
      * Un modelo de despliegue.
 
-* Cargar el documento de arquitectura en la wiki del proyecto del curso.
+* Cargar el documento de arquitectura en la wiki del equipo.
 
 
 ### Recursos 
@@ -35,6 +35,6 @@ Para realizar esta actividad es necesario que cada integrante del equipo haya re
 ### Entregables
 ---
 
-Documento de arquitectura en la wiki del proyecto.
+Documento de arquitectura en la wiki del equipo.
 
 
