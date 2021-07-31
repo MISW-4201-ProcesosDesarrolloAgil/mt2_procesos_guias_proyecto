@@ -36,7 +36,7 @@ Para realizar la demostración, el equipo debe:
 ### Recursos
 
 ---
-Tutorial Heroku (*Pendiente*).
+[Tutorial Heroku](http://misovirtual.virtual.uniandes.edu.co/codelabs/despliegue-heroku/index.html#0).
 
 
 ### Entregables
