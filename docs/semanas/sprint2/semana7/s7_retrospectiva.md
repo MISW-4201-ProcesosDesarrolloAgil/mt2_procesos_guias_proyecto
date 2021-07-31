@@ -21,11 +21,11 @@ Analizar las lecciones aprendidas durante el sprint en las dimensiones de equipo
     * Datos de tiempos estimados vs ejecutados por historia.
     * Burndown chart.
   * Lecciones aprendidas.
-* Cargar los resultados obtenidos en la wiki del proyecto.
+* Cargar los resultados obtenidos en la wiki del equipo.
 
 
 ### Entregables
 
 ---
-Presentación con el resultado de la retrospectiva en la wiki del proyecto.
+Presentación con el resultado de la retrospectiva en la wiki del equipo.
 
