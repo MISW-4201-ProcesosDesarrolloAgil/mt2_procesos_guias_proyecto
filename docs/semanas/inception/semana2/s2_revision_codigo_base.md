@@ -10,7 +10,7 @@
 ### Pasos previos
 ---
 
-Para realizar esta actividad, se espera que cada miembro del equipo haya verificado su acceso al repositorio asignado en GitHub.
+Para realizar esta actividad se espera que cada miembro del equipo haya verificado su acceso al repositorio asignado en GitHub.
 
 ### Descripción actividad
 ---
@@ -18,8 +18,6 @@ Para realizar esta actividad, se espera que cada miembro del equipo haya verific
 #### ![](./../../../assets/images/individuo.png) Actividad individual
 
 * Realizar el tutorial de alistamiento del ambiente de desarrollo disponible en Recursos.
-* Clonar el repositorio.
-* Abrir el proyecto en el editor de código configurado.
 * Revisar la estructura del código base:
   * Backend
     * Modelos
@@ -33,6 +31,6 @@ Para realizar esta actividad, se espera que cada miembro del equipo haya verific
 ### Recursos 
 ---
 
-[Tutorial alistamiento del ambiente de desarrollo]() (*Pendiente*)
+[Tutorial de alistamiento ambiente de desarrollo](https://misovirtual.virtual.uniandes.edu.co/codelabs/tutorial-alistamiento/index.html#0).
 
 
