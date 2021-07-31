@@ -45,5 +45,5 @@ Durante esta semana los miembros del equipo deben coordinarse para realizar las 
 ### Entregables
 ---
 
-* El formato para cálculo de velocidad del sprint 2 en la wiki del proyecto.
+* El formato para cálculo de velocidad del sprint 2 en la wiki del equipo.
 * La planeación de tareas del sprint en el tablero de tareas de Jira.
