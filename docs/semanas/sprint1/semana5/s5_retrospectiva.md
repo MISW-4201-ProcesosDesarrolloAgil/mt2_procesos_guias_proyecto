@@ -27,7 +27,7 @@
     * Datos de tiempos estimados vs ejecutados por historia.
     * Burndown chart.
   * Lecciones aprendidas.
-* Colocar en la wiki del proyecto la presentación.
+* Colocar la presentación en la wiki del equipo.
 
 ### Recursos
 
@@ -39,4 +39,4 @@
 ### Entregables
 
 ---
-Presentación con el resultado de la retrospectiva en la wiki del proyecto.
+Presentación con el resultado de la retrospectiva en la wiki del equipo.
