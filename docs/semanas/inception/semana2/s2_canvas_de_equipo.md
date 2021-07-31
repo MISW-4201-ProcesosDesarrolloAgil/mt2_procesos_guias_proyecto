@@ -25,7 +25,7 @@ Adicional a lo anterior, lo invito a que busque en Internet el video titulado �
   * Definir el canal de comunicación del equipo.
   * Establecer acuerdos para que cada miembro del equipo se comprometa a contactar a sus compañeros en caso de tener impedimentos durante el desarrollo del proyecto.
 
-* Cargar el Canvas de equipo en la wiki del equipo.
+* Cargar el Canvas de equipo en la wiki.
 
 ### Recursos 
 
