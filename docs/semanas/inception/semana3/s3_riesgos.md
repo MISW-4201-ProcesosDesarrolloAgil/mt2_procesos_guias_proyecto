@@ -18,7 +18,7 @@ Cada integrante del equipo debe leer con anticipación la lectura titulada *Los 
 #### ![](./../../../assets/images/grupo.png) Actividad grupal
 
 * Descargar el formato de definición de riesgos y diligenciarlo en equipo.
-* Cargar el documento de definición de riesgos en la wiki del proyecto.
+* Cargar el documento de definición de riesgos en la wiki del equipo.
 
 ### Recursos 
 ---
@@ -30,5 +30,5 @@ Cada integrante del equipo debe leer con anticipación la lectura titulada *Los 
 ### Entregables
 ---
 
-Formato de identificación de riesgos completamente diligenciado y cargado en la wiki del proyecto.
+Formato de identificación de riesgos completamente diligenciado y cargado en la wiki del equipo.
 
