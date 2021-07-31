@@ -15,7 +15,7 @@ Si no realizó el alistamiento del ambiente de desarrollo en la semana 2, realic
 
 #### ![](./../../../assets/images/grupo.png) Actividad grupal
 
-* Acordar el flujo de trabajo que se seguirá para la implementación. Revisar el [GitFlow base](../semana3/s3_gitflow) propuesto, realizar los ajustes que el equipo considere y completar la información solicitada en el formato GitFlow disponible en Recursos. Al finalizar cargarlo en la wiki del proyecto.
+* Acordar el flujo de trabajo que se seguirá para la implementación. Revisar el [GitFlow base](../semana3/s3_gitflow) propuesto, realizar los ajustes que el equipo considere y completar la información solicitada en el formato GitFlow disponible en Recursos. Al finalizar cargarlo en la wiki del equipo.
 * Crear un script de GitHub Actions para integrar el código que pasa exitosamente las pruebas unitarias en el repositorio de acuerdo con el flujo de trabajo definido.
 
 
