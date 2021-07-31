@@ -21,7 +21,7 @@ Durante la ejecución del sprint se espera que el equipo complete las actividade
 
 * Definir en equipo el horario y periodicidad que más se ajuste para la realización de *Daily Meetings* (se recomienda hacerlas mínimo 2 veces por semana en el mismo horario).
 * Realizar las *Daily Meetings* en los horarios definidos y teniendo en cuenta el instructivo disponible en Recursos.
-* Cargar las evidencias de la realización de *Daily Meetings* en la wiki del proyecto.
+* Cargar las evidencias de la realización de *Daily Meetings* en la wiki del equipo.
 
 ### Recursos 
 ---
@@ -32,5 +32,5 @@ Durante la ejecución del sprint se espera que el equipo complete las actividade
 ### Entregables
 ---
 
-* Evidencias de la realización de las *Daily Meetings* cargadas en la wiki del proyecto.
+* Evidencias de la realización de las *Daily Meetings* cargadas en la wiki del equipo.
 
