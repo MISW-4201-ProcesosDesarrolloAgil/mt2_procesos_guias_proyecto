@@ -45,6 +45,6 @@ Realizar la planeación general del proyecto. Al finalizar esta actividad cada u
 
 ---
 * Historias de usuario del PBL se encuentran estimadas en Jira.
-* Formato de velocidad diligenciado en la wiki del proyecto.
+* Formato de velocidad diligenciado en la wiki del equipo.
 * Sprint 1 se ha creado en Jira y contiene las historias de usuario seleccionadas y aprobadas por el dueño de producto para el sprint.
 
