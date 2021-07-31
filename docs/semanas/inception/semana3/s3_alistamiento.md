@@ -3,7 +3,7 @@
 ### Objetivos
 
 ---
-* Configurar el ambiente de desarrollo de cada uno de los integrantes del equipo.
+* Realizar el alistamiento del ambiente de desarrollo para el proyecto del curso.
 * Acordar el flujo de trabajo que el equipo va a utilizar en Git para iniciar la implementación del proyecto.
 
 ### Descripción actividad
@@ -11,7 +11,7 @@
 ---
 #### ![](./../../../assets/images/individuo.png) Actividad individual
 
-Realizar la instalación y configuración del ambiente de desarrollo de acuerdo con las instrucciones proporcionadas en la sección de Recursos.
+Si no realizó el alistamiento del ambiente de desarrollo en la semana 2, realice la instalación y configuración del ambiente de desarrollo de acuerdo con el tutorial disponible en la sección de Recursos.
 
 #### ![](./../../../assets/images/grupo.png) Actividad grupal
 
@@ -22,10 +22,10 @@ Realizar la instalación y configuración del ambiente de desarrollo de acuerdo 
 ### Recursos 
 
 ---
-* [Instrucciones de instalación del ambiente de desarrollo](https://misovirtual.virtual.uniandes.edu.co/codelabs/tutorial-alistamiento/index.html#0).
+* [Tutorial de alistamiento ambiente de desarrollo](https://misovirtual.virtual.uniandes.edu.co/codelabs/tutorial-alistamiento/index.html#0).
 * [Formato GitFlow](https://www.coursera.org/learn/procesos-de-desarrollo-agil/resources/SJjwI)
 
 ### Entregables 
 
 ---
-* Formato de flujo de trabajo en la wiki del proyecto.
+* Formato de flujo de trabajo en la wiki del equipo.
