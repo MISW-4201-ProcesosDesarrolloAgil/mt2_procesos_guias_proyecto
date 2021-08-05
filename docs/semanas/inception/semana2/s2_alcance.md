@@ -11,7 +11,7 @@
 ---
 
 * Leer con atención el [enunciado del proyecto](../../../generalidades#enunciado). 
-* Resolver las dudas o preguntas que surjan del enunciado a través del foro **Preguntas al cliente**.
+* Resolver las dudas o preguntas que surjan del enunciado a través del foro [Preguntas al cliente](https://www.coursera.org/learn/procesos-de-desarrollo-agil/discussions/weeks/3).
 
 ### Descripción actividad
 ---
