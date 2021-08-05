@@ -19,7 +19,7 @@ Si no lo hizo en la semana 1, lo invito a ver el video titulado [El secreto para
 ---
 #### ![](./../../../assets/images/grupo.png) Actividad grupal
 
-* Realizar una reunión con los miembros del equipo para diligenciar el Canvas de acuerdo con las instrucciones del formato proporcionado. Se recomienda aprovechar este espacio para:
+* Realizar una reunión con los miembros del equipo para diligenciar el Canvas de acuerdo con las instrucciones del formato proporcionado en la sección de recursos. Se recomienda aprovechar este espacio para:
 
   * Elegir al Scrum Master y al representante de el dueño de producto en el equipo. Tener en cuenta las características que debe tener cada rol y las funciones que debe desempeñar de acuerdo con la Guía de Scrum y los videos referenciados en la sección de Recursos en Coursera (enlace).
   * Definir el canal de comunicación del equipo.
@@ -30,7 +30,8 @@ Si no lo hizo en la semana 1, lo invito a ver el video titulado [El secreto para
 ### Recursos 
 
 ---
-[Formato Canvas de equipo](https://miro.com/app/board/o9J_l34UBDo=/)
+[Formato Canvas de equipo](https://miro.com/app/board/o9J_l34UBDo=/) +
+[Instrucciones para uso del tablero](http://misovirtual.virtual.uniandes.edu.co/codelabs/miro/index.html#0)
 
 
 ### Entregables
