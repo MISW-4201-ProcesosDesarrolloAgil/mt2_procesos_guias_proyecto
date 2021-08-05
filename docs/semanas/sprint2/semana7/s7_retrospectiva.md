@@ -13,7 +13,7 @@ Analizar las lecciones aprendidas durante el sprint en las dimensiones de equipo
 
 #### ![](./../../../assets/images/grupo.png) Actividad grupal
 
-* Realizar la retrospectiva del sprint utilizando la plantilla en [este enlace](https://miro.com/app/board/o9J_l4-775o=/). 
+* Realizar la retrospectiva del sprint utilizando la plantilla en [este enlace](https://miro.com/app/board/o9J_l3_cnqc=/). 
 * Consignar el resultado en una presentación que contenga:
   * Imagen del resultado obtenido.
   * Datos del sprint.
