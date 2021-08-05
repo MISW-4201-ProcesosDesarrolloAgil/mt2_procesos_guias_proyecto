@@ -5,6 +5,7 @@
 
 A continuación podrá encontrar una hoja de ruta con las actividades a desarrollar durante la Fase de inicio del proyecto del curso.
 <br>
+
 ![](./../../assets/images/infografía_fase_inicio.PNG)
 
 <br>
