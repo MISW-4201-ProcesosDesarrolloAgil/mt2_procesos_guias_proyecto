@@ -30,8 +30,7 @@ Si no lo hizo en la semana 1, lo invito a ver el video titulado [El secreto para
 ### Recursos 
 
 ---
-[Formato Canvas de equipo](https://miro.com/app/board/o9J_l34UBDo=/) +
-[Instrucciones para uso del tablero](http://misovirtual.virtual.uniandes.edu.co/codelabs/miro/index.html#0)
+[Formato Canvas de equipo](https://miro.com/app/board/o9J_l34UBDo=/) ([Instrucciones para uso del tablero en miro](http://misovirtual.virtual.uniandes.edu.co/codelabs/miro/index.html#0))
 
 
 ### Entregables
