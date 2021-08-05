@@ -46,7 +46,7 @@ Carlos propuso las siguientes funcionalidades:
 
 * **Compartir con amigos**
 
-Se espera que los usuarios registrados en la aplicación puedan compartir  sus álbumes y canciones. 
+Se espera que los usuarios registrados en la aplicación puedan compartir sus álbumes y canciones con las personas registradas en la aplicación. 
 
 * **Generar hilos de conversación**
 
@@ -54,7 +54,7 @@ Los usuarios deben poder comentar la información de los álbumes y canciones ge
 
 * **Notificaciones**
 
-Los usuarios podrán saber cuándo las canciones y álbumes compartidos por ellos  han sido comentados y quién lo hizo.
+Los usuarios podrán saber cuándo las canciones y álbumes compartidos por ellos han sido comentados y quién lo hizo mediante notificaciones.
 
 * **Puntuación**
 
