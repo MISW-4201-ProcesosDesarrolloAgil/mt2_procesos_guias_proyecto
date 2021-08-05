@@ -33,7 +33,7 @@
 
 ---
 
-[Plantilla Starfish](https://miro.com/app/board/o9J_lO1al0I=/)
+[Plantilla Starfish](https://miro.com/app/board/o9J_l3_cn4c=/)
 
 
 ### Entregables
