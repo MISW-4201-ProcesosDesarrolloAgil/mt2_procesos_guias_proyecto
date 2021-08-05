@@ -10,7 +10,7 @@ Generar acuerdos para el trabajo en equipo utilizando el Canvas de Equipo.
 Para el desarrollo de esta actividad es necesario:
 
 * Haber realizado la actividad de Conformación de equipos y contar con un equipo establecido.
-* Crear una cuenta con el correo institucional de la Universidad en [Miro](https://miro.com/signup/) y activar la licencia educativa en este [enlace](https://miro.com/contact/education/).
+* Crear una cuenta con el correo institucional de la Universidad en [Miro](https://miro.com/signup/) y activar la licencia educativa en [este enlace](https://miro.com/contact/education/).
 
 Si no lo hizo en la semana 1, lo invito a ver el video titulado [El secreto para el trabajo en equipo - EQUIPOS VIRTUALES también](https://www.youtube.com/watch?v=tblYiOt-HAk)  publicado por la profesora Tatiana Rodriguez Leal.
 
