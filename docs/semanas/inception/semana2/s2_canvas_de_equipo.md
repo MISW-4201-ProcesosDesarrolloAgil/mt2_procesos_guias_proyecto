@@ -31,9 +31,7 @@ Si no lo hizo en la semana 1, lo invito a ver el video titulado [El secreto para
 
 ---
 * [Formato Canvas de equipo](https://miro.com/app/board/o9J_lQEeUlQ=/) ([Instrucciones para uso del tablero en miro](http://misovirtual.virtual.uniandes.edu.co/codelabs/miro/index.html#0)).
-
 * Video sobre el rol del Scrum Master: “Scrum Master - Funny movie about The Power of Scrum” publicado por Jeff Sutherland, Rini van Solingen y Eelco Rustenburg. Disponible en: https://www.youtube.com/watch?v=P6v-I9VvTq4.
-
 * Video sobre el rol del Product Owner: “Agile Product Ownership in a nutshell” publicado por Henrik Kniberg. Disponible en: https://blog.crisp.se/2012/10/25/henrikkniberg/agile-product-ownership-in-a-nutshell.
 
 
