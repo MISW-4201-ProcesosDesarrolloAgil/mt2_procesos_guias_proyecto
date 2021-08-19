@@ -32,7 +32,6 @@ Realizar una propuesta individual del mapa de historias de usuario de la soluci�
 ---
 
 * [Ejemplo *User Story Map*](https://miro.com/app/board/o9J_lQKbLXc=/): este ejemplo muestra el mapa de historias de usuario y la primera pila de producto del caso "Mercados Orgánicos", obtenidos al utilizar la técnica de *User Story Mapping*.
-
 * [Ejemplo. Elaboración de la visión de producto](https://misw-4201-procesosdesarrolloagil.github.io/mt2_procesos_guias_proyecto/semanas/inception/semana2/s2_ejemplo_alcance).
 
 ### Entregables
