@@ -26,6 +26,7 @@ Realizar la planeación general del proyecto. Al finalizar esta actividad cada u
 * Estimar todo el *Product Backlog* (PBL):
    * Dada la HU Base seleccionada, cada equipo debe estimar las historias de usuario (HU) del PBL del proyecto, utilizando la técnica de *Planning Poker*.
    * Registrar el resultado de la estimación en el PBL en Jira.
+   * Cargar el enlace de la grabación de la reunión de estimación en la wiki del proyecto.
 * Cálculo de la velocidad del equipo
    * Utilizando la técnica de *Planning Poker* estimar en horas las actividades para desarrollar la HU Base (se deben tener en cuenta todas las actividades).
    * Diligenciar el formato para cálculo de velocidad disponible en Recursos y cargarlo en la wiki.
