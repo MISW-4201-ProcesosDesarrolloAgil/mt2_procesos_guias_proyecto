@@ -13,9 +13,14 @@ Durante la ejecución del sprint se espera que el equipo complete las actividade
 
 #### ![](./../../../assets/images/individuo.png) Actividad individual
 
-* Revisar la distribución de las tareas de historias de usuario (HU) en el tablero del sprint.
-* Ejecutar las tareas asignadas para el siguiente *Daily Meeting*.
-* Actualizar los tiempos reales de las actividades en Jira. 
+* Desarrollo del sprint:
+  * Revisar la distribución de las tareas de historias de usuario (HU) en el tablero del sprint.
+  * Ejecutar las tareas asignadas para el siguiente *Daily Meeting*.
+  * Actualizar los tiempos reales de las actividades en Jira. 
+  
+* *Refactoring Bad Smells*:
+  * Realizar la lectura del capítulo 3 del libro Refactoring: Improving the Design of Existing Code, Martin Fowler disponible en Recursos.
+  * Identificar al menos 3 bad smells en el código de la aplicación.
 
 #### ![](./../../../assets/images/grupo.png) Actividades grupales
 
@@ -25,10 +30,10 @@ Durante la ejecución del sprint se espera que el equipo complete las actividade
   * Cargar las evidencias de la realización de *Daily meetings* en la wiki del equipo.
 
 * *Refactoring Bad Smells*:
-  * Previo a esta actividad los integrantes del grupo deben haber realizado la actividad individual de Refactoring y Bad Smells
-  * A partir de los Bad Smells identificados por los integrantes del grupo, seleccionar al menos 3 bad smells y corregirlos.
+  * Previo a esta actividad los integrantes del grupo deben haber realizado la actividad individual de *Refactoring* y *Bad Smells*.
+  * A partir de los Bad Smells identificados por los integrantes del grupo, seleccionar al menos 3 *bad smells* y corregirlos.
   * Agregar las tareas de corrección al tablero de tareas en Jira.
-  * Elaborar una presentación donde se expliquen los bad smells identificados y muestren el antes y el después del código corregido.
+  * Elaborar una presentación donde se expliquen los *bad smells* identificados y muestren el antes y el después del código corregido.
   * Cargar la presentación en la wiki del equipo.
 
 
@@ -41,5 +46,5 @@ Durante la ejecución del sprint se espera que el equipo complete las actividade
 ### Entregables
 
 ---
-* La presentación de bad smells en la wiki del equipo.
+* La presentación de *bad smells* en la wiki del equipo.
 
