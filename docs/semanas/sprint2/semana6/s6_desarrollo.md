@@ -20,7 +20,7 @@ Durante la ejecución del sprint se espera que el equipo complete las actividade
   
 * *Refactoring y Bad Smells*:
   * Realizar la lectura del capítulo 3 del libro *Refactoring: Improving the Design of Existing Code, Martin Fowler* disponible en Recursos.
-  * Identificar al menos 3 bad smells en el código de la aplicación.
+  * Identificar al menos 3 *Bad Smells* en el código de la aplicación.
 
 #### ![](./../../../assets/images/grupo.png) Actividades grupales
 
@@ -31,7 +31,7 @@ Durante la ejecución del sprint se espera que el equipo complete las actividade
 
 * *Refactoring y Bad Smells*:
   * Previo a esta actividad los integrantes del grupo deben haber realizado la actividad individual de *Refactoring* y *Bad Smells*.
-  * A partir de los Bad Smells identificados por los integrantes del grupo, seleccionar al menos 3 *bad smells* y corregirlos.
+  * A partir de los *Bad Smells* identificados por los integrantes del grupo, seleccionar al menos 3 *bad smells* y corregirlos.
   * Agregar las tareas de corrección al tablero de tareas en Jira.
   * Elaborar una presentación donde se expliquen los *bad smells* identificados y muestren el antes y el después del código corregido.
   * Cargar la presentación en la wiki del equipo.
