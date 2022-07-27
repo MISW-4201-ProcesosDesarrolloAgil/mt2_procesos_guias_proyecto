@@ -86,3 +86,4 @@ Las tecnologías que se utilizarán para desarrollar el proyecto son: Python con
 | Documentación del proyecto     | Wiki de GitHub |
 | Gestión del proyecto      | Jira |
 
+
