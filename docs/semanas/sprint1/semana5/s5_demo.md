@@ -14,7 +14,7 @@ Preparar la demostración de las historias de usuario (HU) completadas durante e
 Para realizar la demostración, el equipo debe:
 
   * Finalizar o detener las actividades de desarrollo. Si el equipo no finalizó todas las actividades planeadas, debe revisar cuáles historias están completas y están listas para entregar en el producto.
-  * Crear el ambiente de pruebas en Heroku y desplegar la nueva versión del producto con las historias de usuario terminadas. Verificar que el ambiente se encuentre estable y la aplicación sea totalmente funcional.
+  * Desplegar en Heroku la nueva versión del producto con las historias de usuario terminadas. Verificar que el ambiente se encuentre estable y la aplicación sea totalmente funcional.
   * Preparar la presentación para mostrar el incremento durante el sprint al dueño de producto. Tener en cuenta las recomendaciones abajo descritas.
 
 ### Recomendaciones
@@ -42,7 +42,7 @@ Para realizar la demostración, el equipo debe:
 ### Entregables
 
 ---
-* Tarea en Coursera con la URL del ambiente de pruebas y datos requeridos para verificar las funcionalidades desarrolladas.
+* Tarea en Coursera con la URL de la aplicación en Heroku y datos requeridos para verificar las funcionalidades desarrolladas.
 * Presentación de la demostración de producto en la wiki del equipo.
 
 
