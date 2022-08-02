@@ -30,7 +30,7 @@ a la información de los proyectos creados en el plan free.
 Las actividades que deben realizar como parte del alistamiento son:
 
 * Crear el proyecto en Jira e invitar a los integrantes del equipo (incluya al profesor y tutor del curso).
-* Estructurar el espacio para la documentación del proyecto en la wiki de GitHub teniendo en cuenta la guía disponible en Recursos.
+* Estructurar el espacio para la documentación del proyecto en la wiki del repositorio backend en GitHub teniendo en cuenta la guía disponible en Recursos.
 * Cargar la información de los miembros del equipo en la wiki. 
 
 ### Recursos 
