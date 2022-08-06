@@ -34,13 +34,14 @@ Durante la **Semana 8** se realiza el cierre del proyecto y una retrospectiva de
 
 La empresa SoftOne está desarrollando la versión web de la aplicación “E-porra”, una aplicación de escritorio para administrar apuestas de carreras de cualquier tipo (caballos, formula 1, atletismo, etc.). La versión web contará con nuevas funcionalidades y está dirigida a un público objetivo más amplio.
 
-SoftOne ya tiene desarrollada una versión inicial de la aplicación web. Esta versión tiene implementadas las mismas funcionalidades de la aplicación de escritorio y las funcionalidades que permite el inicio de sesión con usuario y contraseña al usuario administrador de la aplicación.
+SoftOne ya tiene desarrollada una versión inicial de la aplicación web. Esta versión tiene implementadas las mismas funcionalidades de la aplicación de escritorio y las funcionalidades que permiten el inicio de sesión con usuario y contraseña, al usuario administrador de la aplicación.
 
 Al iniciar sesión, el usuario administrador ve una pantalla principal con la descripción de “E-porra”, acompañada de un listado de las carreras que tiene registradas. El administrador tiene la opción de crear, editar, terminar o borrar una carrera, esto último siempre que no tenga apuestas asociadas. Crear una nueva carrera requiere indicar el nombre de la carrera y los competidores. Para cada competidor, la aplicación solicita su nombre y la probabilidad que tiene de ganar la carrera (un valor entre 0 y 1). 
 
 Cuando el usuario administrador ve el detalle de una carrera, tiene la opción de crear apuestas asociadas a la misma. Para esto debe ingresar el valor apostado, el nombre del apostador y el competidor al que le apostó. El usuario administrador puede ver el listado completo de las apuestas de una carrera, crearlas, editarlas o eliminarlas.
 
 Cuando se termina una carrera, el usuario administrador puede marcarla como terminada y registrar el competidor ganador para generar el reporte de pagos a realizar.
+
 SoftOne quiere participar en una ronda de inversión y esto requiere evolucionar E-Porra para convertirlo en un Producto Mínimo Viable (MVP, por sus siglas en inglés) completamente usable y funcional. Esto implica realizar mejoras a su interfaz web y a la navegación entre pantallas, e incluir nuevas funcionalidades para cautivar a posibles inversionistas.  SoftOne ha decidido contactar a la Universidad de los Andes con el fin de conseguir un equipo que le ayude a mejorar su aplicación y lograr su objetivo de presentarse a la ronda de inversión.
 
 Las nuevas funcionalidades que se quieren desarrollar son:
