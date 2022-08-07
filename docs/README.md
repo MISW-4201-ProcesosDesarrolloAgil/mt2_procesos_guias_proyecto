@@ -44,24 +44,19 @@ Cuando se termina una carrera, el usuario administrador puede marcarla como term
 
 SoftOne quiere participar en una ronda de inversión y esto requiere evolucionar E-Porra para convertirlo en un Producto Mínimo Viable (MVP, por sus siglas en inglés) completamente usable y funcional. Esto implica realizar mejoras a su interfaz web y a la navegación entre pantallas, e incluir nuevas funcionalidades para cautivar a posibles inversionistas.  SoftOne ha decidido contactar a la Universidad de los Andes con el fin de conseguir un equipo que le ayude a mejorar su aplicación y lograr su objetivo de presentarse a la ronda de inversión.
 
-Las nuevas funcionalidades que se quieren desarrollar son:
+Las nuevas funcionalidades que se quieren desarrollar deben permitir lograr los siguientes objetivos: 
 
-- Ampliar apuestas a otras categorías de deportes, por ejemplo, futbol, baloncesto, tenis, etc. El usuario administrador debe poder:
-  - Crear, editar, eliminar y ver el listado de deportes existentes.
-  -	Crear un evento en cualquiera de las categorías de deporte y ver el listado de eventos registrados.
-- Habilitar el registro de apostadores. Al iniciar sesión, el usuario apostador debe poder:
-  - Administrar su cuenta.
-    - Registrar o actualizar su información de perfil
-    - Depositar dinero
-    - Retirar dinero
-    - Ver el balance y filtrarlo por fecha o tipo de movimiento
-  - Apostar
-    - Ver el listado de eventos activos
-    -	Filtrar la lista de eventos por deporte
-    -	Ver el detalle de un evento
-    -	Registrar una apuesta. Al ingresar el valor apostado, el sistema debe calcular y mostrar el pago potencial en caso de ganar
-  -	Ver notificaciones
-    -	El apostador debe recibir una notificación cada vez que gana en una apuesta
+**Ampliar el tipo de eventos a los que se puede apostar:**
+
+Se quiere que en la aplicación además de carreras se pueda apostar a eventos relacionados con otros deportes por ejemplo futbol, baloncesto, tenis, etc. Para ello se quiere que se puedan gestionar los nuevos tipos de eventos que tenga el sistema. Para los nuevos tipos de eventos es necesario poder gestionar los competidores, sus probabilidades de ganancias y la cantidad máxima de competidores, y una vez el evento haya ocurrido registrar el ganador y distribuir las ganancias entre los apostadores. 
+
+**Extender las funcionalidades para que los apostadores puedan tener cuentas y gestionar ellos sus apuestas:**
+
+Un apostador debe poder administrar su cuenta en E-Porra. Debe poder registrar o actualizar su información y gestionar el dinero que tiene en su cuenta (depositar dinero para apostar, retirar dinero, ver las transacciones que ha realizado) 
+
+ 
+
+Igualmente se quiere que los apostadores puedan consultar todos los eventos que estén disponibles para realizar apuestas, poderlos filtrar por sus deportes favoritos, consultar un evento en particular y por supuesto apostar en un evento de su interés. Igualmente se quiere que cuando un apostador gane una apuesta se agregue a su cuenta el dinero que se ganó y que se le envíe una notificación avisando que ganó la apuesta. 
 
 
 ## Tecnologías para el desarrollo 
