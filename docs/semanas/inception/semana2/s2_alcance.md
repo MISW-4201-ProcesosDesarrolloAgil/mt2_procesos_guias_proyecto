@@ -11,14 +11,14 @@
 ---
 
 * Leer con atención el [enunciado del proyecto](../../../#enunciado). 
-* Resolver las dudas o preguntas que surjan del enunciado a través del [formulario](https://forms.office.com/pages/responsepage.aspx?id=fAS9-kj_KkmLu4-YufucygdfimpkFvRNpDa4NrLNlsJURFEwVU5VR1dFN1hSSkkzUjUxREFETU9UTi4u) de Preguntas al cliente. [Enlace a la hoja de respuestas](https://uniandes.sharepoint.com/:x:/s/mod/EfKqPGWqbQtCh07itt5PH8oBk5NGm_-xBitsNUUaLSbUiA?e=VPt5Pn)
+* Resolver las dudas o preguntas que surjan del enunciado a través del [formulario](https://forms.office.com/pages/responsepage.aspx?id=fAS9-kj_KkmLu4-YufucygdfimpkFvRNpDa4NrLNlsJURFEwVU5VR1dFN1hSSkkzUjUxREFETU9UTi4u) de Preguntas al cliente. Podrá consultar las respuestas del cliente en la hoja de respuestas( [enlace a la hoja de respuestas](https://uniandes.sharepoint.com/:x:/s/mod/EfKqPGWqbQtCh07itt5PH8oBk5NGm_-xBitsNUUaLSbUiA?e=VPt5Pn)).
 
 ### Descripción actividad
 ---
 
 #### ![](./../../../assets/images/individuo.png) Actividad individual
 
-Realizar una propuesta individual del mapa de historias de usuario de la solución.
+* Realizar una propuesta individual del mapa de historias de usuario de la solución.
 
 #### ![](./../../../assets/images/grupo.png) Actividad grupal
 
