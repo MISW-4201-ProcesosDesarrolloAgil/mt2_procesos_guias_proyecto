@@ -11,7 +11,9 @@
 ---
 #### ![](./../../../assets/images/individuo.png) Actividad individual
 
-Realice la instalación y configuración del ambiente de desarrollo de acuerdo con el tutorial disponible en la sección de Recursos.
+Realice la instalación y configuración del ambiente de desarrollo de acuerdo con el tutorial disponible en la sección de Recursos. La aplicación base tiene precargado el usuario administrador, para iniciar sesión utilice las siguientes credenciales:
+- Usuario: admin
+- Contraseña: admin
 
 #### ![](./../../../assets/images/grupo.png) Actividad grupal
 
