@@ -23,7 +23,7 @@ Para realizar esta actividad es necesario que cada integrante del equipo haya re
      * Un diagrama de flujo de navegación o mockups.
      * Un modelo de clases (o modelo de dominio).
      * Un modelo de despliegue.
-
+<br>
 * Cargar el documento de arquitectura en la wiki del equipo.
 
 
@@ -31,7 +31,7 @@ Para realizar esta actividad es necesario que cada integrante del equipo haya re
 ---
 
 * [Formato de Arquitectura para el proyecto](https://uniandes.sharepoint.com/:w:/s/mod/EfBEsRY9NyVBrHFgdGXuUqABYitn9tEoPsbAcGWMJW11bg?e=GsgddK)
-* [Arquitectura de referencia de la aplicación base](https://uniandes.sharepoint.com/:w:/s/mod/ERctgSB0p61Cvp2gFimx0sgB918Cl90fYY7mIZyaUjwslg?e=bl6sc2)
+* [Arquitectura de referencia de la aplicación base](https://uniandes.sharepoint.com/:w:/s/mod/ES8yHdAkl6pOgADro83iMqUBPwy2xSvq5LfkWTSILbyrew?e=RkUpBM)
 
 ### Entregables
 ---
