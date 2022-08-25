@@ -38,4 +38,3 @@ Para realizar esta actividad es necesario que cada integrante del equipo haya re
 
 Documento de arquitectura en la wiki del equipo.
 
-
