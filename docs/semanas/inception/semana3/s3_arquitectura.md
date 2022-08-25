@@ -23,7 +23,7 @@ Para realizar esta actividad es necesario que cada integrante del equipo haya re
      * Un diagrama de flujo de navegación o mockups.
      * Un modelo de clases (o modelo de dominio).
      * Un modelo de despliegue.
-<br>
+      <br>
 * Cargar el documento de arquitectura en la wiki del equipo.
 
 
