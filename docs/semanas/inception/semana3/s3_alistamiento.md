@@ -19,7 +19,9 @@ Realice la instalación y configuración del ambiente de desarrollo de acuerdo c
 
 * Acordar el flujo de trabajo que se seguirá para la implementación. Revisar el [GitFlow base](../semana3/s3_gitflow) propuesto, realizar los ajustes que el equipo considere y completar la información solicitada en el formato GitFlow disponible en Recursos. Al finalizar cargarlo en la wiki.
 * Crear un script de GitHub Actions para integrar el código que pasa exitosamente las pruebas unitarias en el repositorio de acuerdo con el flujo de trabajo definido.
-* Desplegar la aplicación base en Heroku de acuerdo con el tutorial disponible en la sección de recursos. Verificar que el ambiente se encuentre estable y la aplicación sea totalmente funcional.
+* Crear los ambientes de desarrollo, pruebas y producción en Heroku
+  * Agregar al tutor principal como colaborador en cada uno y confirmarle vía Slack.
+  * Desplegar la aplicación base en cada ambiente de acuerdo con el tutorial disponible en la sección de recursos. Verificar que el despliegue sea exitoso y la aplicación quede totalmente funcional.
 
 
 ### Recursos 
