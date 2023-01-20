@@ -11,7 +11,7 @@
 ---
 
 * Leer con atención el [enunciado del proyecto](../../../#enunciado). 
-* Resolver las dudas o preguntas que surjan del enunciado a través del [formulario](https://forms.office.com/pages/responsepage.aspx?id=fAS9-kj_KkmLu4-YufucygdfimpkFvRNpDa4NrLNlsJURFEwVU5VR1dFN1hSSkkzUjUxREFETU9UTi4u) de Preguntas al cliente. Podrá consultar las respuestas del cliente en la hoja de respuestas( [enlace a la hoja de respuestas](https://uniandes.sharepoint.com/:x:/s/mod/EfKqPGWqbQtCh07itt5PH8oBk5NGm_-xBitsNUUaLSbUiA?e=VPt5Pn)).
+* Resolver las dudas o preguntas que surjan del enunciado a través del [formulario](https://forms.office.com/r/6YaN8G88Fv) de Preguntas al cliente. Podrá consultar las respuestas del cliente en la hoja de respuestas( [enlace a la hoja de respuestas](https://uniandes.sharepoint.com/:x:/s/mod/EU2ZLXbtj49HpT9cC3PSnqQBjIDR8E10InQbnyHPxWOdCQ)).
 
 ### Descripción actividad
 ---
