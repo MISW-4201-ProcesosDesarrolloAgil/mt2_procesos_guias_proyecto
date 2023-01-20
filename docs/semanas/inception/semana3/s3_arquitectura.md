@@ -15,7 +15,7 @@ Para realizar esta actividad es necesario que cada integrante del equipo haya re
 
 #### ![](./../../../assets/images/grupo.png) Actividad grupal
 
-* Evolucionar la arquitectura de la aplicación base utilizando el [Formato de Arquitectura para el proyecto](https://uniandes.sharepoint.com/:w:/s/mod/EfBEsRY9NyVBrHFgdGXuUqABYitn9tEoPsbAcGWMJW11bg?e=GsgddK) disponible en Recursos. Tener en cuenta los nuevos requerimientos y los cambios que deberían implementarse a nivel de interfaces y clases para satisfacerlos. 
+* Evolucionar la arquitectura de la aplicación base utilizando el [Formato de Arquitectura para el proyecto](https://uniandes.sharepoint.com/:w:/s/mod/Eb5QzzyoW61Elxf-T_zmRX0BLfMcGl1NGNGp6eTbWX9EBg) disponible en Recursos. Tener en cuenta los nuevos requerimientos y los cambios que deberían implementarse a nivel de interfaces y clases para satisfacerlos. 
 
   Se espera que el nuevo documento de arquitectura tenga como mínimo:
      * Un modelo de contexto.
@@ -30,8 +30,8 @@ Para realizar esta actividad es necesario que cada integrante del equipo haya re
 ### Recursos 
 ---
 
-* [Formato de Arquitectura para el proyecto](https://uniandes.sharepoint.com/:w:/s/mod/EfBEsRY9NyVBrHFgdGXuUqABYitn9tEoPsbAcGWMJW11bg?e=GsgddK)
-* [Arquitectura de referencia de la aplicación base](https://uniandes.sharepoint.com/:w:/s/mod/ES8yHdAkl6pOgADro83iMqUBPwy2xSvq5LfkWTSILbyrew?e=RkUpBM)
+* [Formato de Arquitectura para el proyecto](https://uniandes.sharepoint.com/:w:/s/mod/Eb5QzzyoW61Elxf-T_zmRX0BLfMcGl1NGNGp6eTbWX9EBg) 
+* [Arquitectura de referencia de la aplicación base](https://uniandes.sharepoint.com/:w:/s/mod/EWs6D_mYoZZOiW9jUL-ddwwB3p77To4M0RAu_YLvJjy0fw?e=Rdcbda)
 
 ### Entregables
 ---
