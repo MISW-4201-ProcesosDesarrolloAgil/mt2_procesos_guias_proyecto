@@ -32,11 +32,9 @@ Durante la **Semana 8** se realiza el cierre del proyecto y una retrospectiva de
 ## Enunciado
 ---
 
-La empresa SoftOne está desarrollando la versión web de la aplicación “En Forma”, una aplicación de escritorio que le permite a un entrenador gestionar todo lo relacionado con los ejercicios que realizan las personas que entrena. La versión web contará con nuevas funcionalidades y está dirigida a un público objetivo más amplio. 
+La empresa SoftOne está desarrollando la aplicación web “En Forma”, una aplicación que le permite a un entrenador gestionar todo lo relacionado con los ejercicios que realizan las personas que entrena. SoftOne ya tiene desarrollada una versión inicial de la aplicación.
 
-SoftOne ya tiene desarrollada una versión inicial de la aplicación web. Esta versión tiene implementadas las mismas funcionalidades de la aplicación de escritorio y las funcionalidades que permiten el inicio de sesión con usuario y contraseña. 
-
-Al ingresar a la aplicación el usuario ve una pantalla principal, en la que se muestra el listado de personas que está entrenando y opciones para agregar una nueva persona y para acceder a la lista de ejercicios disponibles en “En Forma”.   
+Al ingresar a la aplicación el entrenador ve una pantalla principal, en la que se muestra el listado de personas que está entrenando y opciones para agregar una nueva persona y para acceder a la lista de ejercicios disponibles en “En Forma”.   
 
 En el listado, para cada persona tiene opciones para editar la información de la persona, para ver los entrenamientos que ha realizado, para dejar de entrenar a la persona y para borrar la información de la persona, siempre que no tenga entrenamientos registrados. Cuando se deja de entrenar a la persona, se registra la fecha y la razón por la cual no continuará con el entrenamiento. La opción de ver los entrenamientos muestra una lista de los ejercicios que ha realizado la persona con el nombre del ejercicio, la fecha, la cantidad de repeticiones que realizó y el tiempo que le tardó en hacerlo definido en horas, minutos y segundos. Adicionalmente, en esta pantalla puede agregar, editar y borrar los ejercicios entrenados, así como un botón que le mostrará un reporte con su IMC (Índice de masa corporal) y en cuál categoría del IMC se encuentra, además de un cálculo del consumo calórico por cada fecha en la que se ha entrenado. 
 
@@ -54,7 +52,7 @@ Se quiere que los clientes de los entrenadores puedan consultar la información 
 
 - **Agregar a la aplicación el manejo de rutinas** 
 
-Además de tener ejercicios disponibles para todos los entrenadores, se quiere que también se puedan registrar rutinas. Las rutinas son secuencias de ejercicios que tienen un propósito específico. Por ejemplo, existen diferentes rutinas para trabajar miembros superiores, o para hacer cardio. Los entrenadores pueden proponer nuevas rutinas y utilizarlas con sus clientes. Las rutinas propuestas pueden ser utilizadas por todos los entrenadores.  
+Además de tener ejercicios disponibles para todos los entrenadores, se quiere que también se puedan registrar rutinas. Las rutinas son secuencias de ejercicios que tienen un propósito específico. Por ejemplo, existen diferentes rutinas para trabajar miembros superiores, para hacer calentamiento o para ejercitar la espalda. Los entrenadores pueden proponer nuevas rutinas y utilizarlas con sus clientes. Las rutinas propuestas pueden ser utilizadas por todos los entrenadores.  
 
 - **Extender las funcionalidades para que un administrador pueda gestionar los entrenadores de la aplicación**  
 
