@@ -17,7 +17,7 @@
   * HU teminadas y no terminadas.
   * Datos de tiempos estimados vs ejecutados por historia.
   * Burndown chart. 
-* Realizar la retrospectiva del sprint utilizando la técnica de Starfish (tener en cuenta la plantilla disponible en la sección de Recursos).
+* Realizar la retrospectiva del sprint utilizando la técnica de Starfish (tener en cuenta la plantilla disponible en la sección de Recursos). Grabar la sesión y subir el video a la wiki del equipo.
 * Consignar el resultado en una presentación de PowerPoint que contenga:
   * Imagen del starfish.
   * Compromisos acordados.
