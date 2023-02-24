@@ -13,7 +13,7 @@ Analizar las lecciones aprendidas durante el sprint en las dimensiones de equipo
 
 #### ![](./../../../assets/images/grupo.png) Actividad grupal
 
-* Realizar la retrospectiva del sprint utilizando la plantilla en [este enlace](https://miro.com/app/board/o9J_l4-775o=/) y las [instrucciones para uso del tablero en miro](http://misovirtual.virtual.uniandes.edu.co/codelabs/miro/index.html#0). 
+* Realizar la retrospectiva del sprint utilizando la plantilla en [este enlace](https://miro.com/app/board/o9J_l4-775o=/) y las [instrucciones para uso del tablero en miro](http://misovirtual.virtual.uniandes.edu.co/codelabs/miro/index.html#0). Grabar la sesión y subir el video a la wiki del equipo.
 * Consignar el resultado en una presentación que contenga:
   * Imagen del resultado obtenido.
   * Datos del sprint.
