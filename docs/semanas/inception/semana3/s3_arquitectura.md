@@ -31,7 +31,7 @@ Para realizar esta actividad es necesario que cada integrante del equipo haya re
 ---
 
 * [Formato de Arquitectura para el proyecto](https://uniandes.sharepoint.com/:w:/s/mod/Eb5QzzyoW61Elxf-T_zmRX0BLfMcGl1NGNGp6eTbWX9EBg) 
-* [Arquitectura de referencia de la aplicación base](https://uniandes.sharepoint.com/:w:/s/mod/EWs6D_mYoZZOiW9jUL-ddwwB3p77To4M0RAu_YLvJjy0fw?e=Rdcbda)
+* [Arquitectura de referencia de la aplicación base](https://uniandes.sharepoint.com/:w:/s/mod/EcKPfk18n25Bu72w4sFtXpkBk3p6KP4OTWYOCHraeGXLoA?e=kjiMEx)
 
 ### Entregables
 ---
