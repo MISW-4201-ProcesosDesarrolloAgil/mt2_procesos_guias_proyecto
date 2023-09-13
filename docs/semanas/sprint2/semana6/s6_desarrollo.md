@@ -20,7 +20,7 @@ Durante la ejecución del sprint se espera que el equipo complete las actividade
   
 * *Refactoring y Bad Smells*:
   * Realizar la lectura del capítulo 3 del libro *Refactoring: Improving the Design of Existing Code, Martin Fowler* disponible en Recursos.
-  * Identificar al menos 3 *Bad Smells* en el código de la aplicación.
+  * Identificar al menos 3 *Bad Smells* en el código de la aplicación que se entregó en el Sprint 1.
 
 #### ![](./../../../assets/images/grupo.png) Actividades grupales
 
