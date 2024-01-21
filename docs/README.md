@@ -32,32 +32,39 @@ Durante la **Semana 8** se realiza el cierre del proyecto y una retrospectiva de
 ## Enunciado
 ---
 
-La empresa SoftOne está desarrollando “Recetario”, una aplicación que permite gestionar todo lo relacionado con las recetas y platos que ofrecen en un restaurante. SoftOne tiene desarrollada una versión inicial de la aplicación web. 
+Con el auge en los últimos 10 años de las rentas de corta estancia (propiedades que se alquilan a través de plataformas como Airbnb o Booking) ha surgido una nueva actividad que es la administración del alquiler de estas propiedades. Los propietarios de las propiedades delegan en un administrador toda la gestión y la logística que se requiere para prestar un buen servicio a sus clientes.
 
-Luego de ingresar, al abrir la página principal, el administrador del restaurante puede ver la lista de recetas que tiene registradas, así como las opciones para agregar una nueva receta y acceder a la lista de ingredientes que puede utilizar para las recetas. 
+La empresa 4201Software está desarrollando “Corta Estancia”, una aplicación web para la administración de rentas de corta estancia que facilita todas las tareas relacionadas con la administración y mantenimiento de las propiedades, la gestión de las reservas y la gestión de cuentas entre el propietario y el administrador.
 
-La opción para ver la lista de ingredientes muestra el listado de ingredientes que comúnmente utilizan en el restaurante, incluyendo para cada uno su nombre, unidad, valor por unidad, sitio de compra y calorías que aporta por unidad. A partir de esta lista podrá agregar un nuevo ingrediente si lo necesita, y editar o borrar alguno, siempre que este ingrediente no se está utilizando en alguna de las recetas. 
+4201Software ya tiene desarrollada una versión inicial de la aplicación que realizó un practicante. En esta primera versión se tienen las siguientes funcionalidades básicas: 
 
-Por cada receta en el listado, el administrador puede consultar cómo es su preparación según la receta actual, editar una receta, eliminarla del listado o planear una preparación para un número específico de personas. 
+- Ingresar a la aplicación con usuario y clave. 
+- Gestionar las propiedades administradas: agregar una nueva propiedad, editar la información de la propiedad y eliminar propiedades.
+- Gestionar las reservas de la propiedad: agregar una reserva, editar la información de las reservas y eliminar reservas.
+- Gestionar los ingresos y gastos de las propiedades: agregar, editar y eliminar gastos por mantenimiento, comisiones de administración, compras de suministros, etc. Agregar, editar y eliminar ingresos recibidos por reservas. Igualmente se cuenta con un reporte que presenta un resumen de los ingresos y gastos de la propiedad.
 
-Al agregar una nueva receta, el administrador registra su nombre, tiempo de preparación en horas, para cuantas personas es, los ingredientes a utilizar con sus medidas y la descripción detallada de su preparación. Cuando se edita una receta, se puede cambiar cualquiera de estos datos, incluso, se pueden adicionar o quitar ingredientes. 
+4201Software quiere participar en una ronda de inversión y esto requiere evolucionar “Corta estancia” para convertirlo en un Producto Mínimo Viable (MVP, por sus siglas en inglés) completamente usable y funcional. Esto implica incluir nuevas funcionalidades, mejorar la interfaz web y la navegación entre pantallas para cautivar a posibles inversionistas.  4201Software ha decidido contactar a la Universidad de los Andes con el fin de conseguir un equipo que le ayude a mejorar su aplicación y lograr su objetivo de presentarse a la ronda de inversión.
 
-Adicionalmente, cuando se elige la opción Preparar de una receta, el sistema preguntará el número de personas para quienes se realizará la preparación, y mostrará una pantalla donde se muestra la cantidad de personas a las que se les va a preparar la receta, la cantidad de calorías por porción, se calcula el costo de los ingredientes y la cantidad de ingredientes proporcional a la cantidad de personas, y se muestra la descripción detallada de la preparación. 
+La evolución de la aplicación debe permitir lograr los siguientes objetivos:
 
-Con el fin de participar en una ronda de inversionistas SoftOne quiere evolucionar la aplicación para convertirla en un Producto Mínimo Viable (MVP, por sus siglas en inglés) completamente usable y funcional, para que pueda ser usada por una cadena de restaurantes donde se tienen varios administradores y varios chefs que gestionan las recetas de la cadena. Esto implica incluir nuevas funcionalidades y posiblemente realizar mejoras a su interfaz web y a la navegación entre pantallas para cautivar a posibles inversionistas.  SoftOne ha decidido contactar a la Universidad de los Andes con el fin de conseguir un equipo que le ayude a mejorar su aplicación y lograr su objetivo de presentarse a la ronda de inversión.  
 
-Adicionalmente, SoftOne está evaluando la posibilidad de actualizar el stack tecnológico de la aplicación debido a que hay nuevas versiones de los frameworks y librerías que usan actualmente.  
+- **Mejorar la interfaz gráfica de la aplicación** 
 
-Las nuevas funcionalidades que se quieren desarrollar deben permitir lograr los siguientes objetivos:  
+Se quiere que la aplicación tenga una mejor interfaz. La interfaz actual sigue un estilo de interfaz “Multiple Pages”  y se quiere que la interfaz sea más moderna y atractiva para los usuarios y que tenga un estilo “single page” que simplifique y mejore la navegación por la aplicación.
 
-- **Administrar varios restaurantes**
-Se espera que en cada restaurante se puedan tener chefs asociados donde se puedan registrar las recetas que allí manejan y que se puedan compartir recetas entre los restaurantes.  
+- **Agregar a la aplicación la planificación del mantenimiento de las propiedades** 
 
-- **Gestionar compras por restaurante**
-El propósito de esta mejora es que se pueda elegir el menú de una semana, y a partir de ese menú se sepa el conjunto de recetas que se ofrecerán la próxima semana y en qué posibles cantidades, de manera que se pueda obtener el número de compras a realizar conforme con el número de platos a preparar del menú a la semana.  
+Se quiere que la aplicación pueda ayudar al administrador la gestión de las actividades de mantenimiento de las propiedades. Las actividades de mantenimiento comprenden varios tipos de actividades: los mantenimientos periódicos a la dotación que tiene la propiedad, por ejemplo mantenimiento anual a los electrodomésticos, revisiones cada tres meses de aires acondicionados, la limpieza y arreglo de la propiedad al finalizar una estadía, etc. El administrador debe poder programar estas actividades y hacer seguimiento a su ejecución.
 
-- **Analítica de datos para gestión de compras**
-De acuerdo con la ubicación de cada restaurante y de las preferencias del chef o del dueño, que se tengan sitios definidos y opcionales para la compra de ingredientes. Estos sitios deben estar clasificados según su relación calidad, costo y disponibilidad de los productos. 
+- **Agregar un módulo para que los dueños de propiedades puedan consultar la información de su propiedad**  
+
+Se quiere agregar funcionalidades que permitan a un administrador gestionar a los entrenadores. El administrador podrá agregar un entrenador, registrar su información personal (identificación, nombre y apellido, teléfono y dirección) y asignarle un usuario y contraseña. También podrá consultar la lista de entrenadores, editar la información o borrar un entrenador.  Adicionalmente, en la funcionalidad de registrarse en la aplicación se debe solicitar además del usuario y contraseña, la información personal del entrenador. 
+
+- **Mejorar el módulo de ingresos y gastos**  
+
+Los ingresos y gastos se deberían poder clasificar en diferentes categorías, con el fin de poder analizar el comportamiento de las propiedades por estas categorías y tener un indicador de eficiencia para cada propiedad. También se quiere mejorar el reporte incluyendo el resumen por categoría y el indicador de eficiencia. Y finalmente se quiere tener un reporte en el que un propietario pueda ver un resumen de todas sus propiedades.
+
+Adicionalmente, 4201Software está evaluando la posibilidad de actualizar el stack tecnológico de la aplicación debido a que hay nuevas versiones de los frameworks y librerías que usan actualmente.
 
 
 ## Tecnologías para el desarrollo 
