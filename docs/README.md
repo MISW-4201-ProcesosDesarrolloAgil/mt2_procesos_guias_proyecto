@@ -58,7 +58,7 @@ Se quiere que la aplicación pueda ayudar al administrador la gestión de las ac
 
 - **Agregar un módulo para que los dueños de propiedades puedan consultar la información de su propiedad**  
 
-Se quiere agregar funcionalidades que permitan a un administrador gestionar a los entrenadores. El administrador podrá agregar un entrenador, registrar su información personal (identificación, nombre y apellido, teléfono y dirección) y asignarle un usuario y contraseña. También podrá consultar la lista de entrenadores, editar la información o borrar un entrenador.  Adicionalmente, en la funcionalidad de registrarse en la aplicación se debe solicitar además del usuario y contraseña, la información personal del entrenador. 
+Con el fin de tener transparencia frente a sus clientes, se quiere que los dueños de propiedades puedan ingresar a la plataforma y consultar la información de sus propiedades, deben poder revisar la información de su propiedad, las reservas y los  ingresos y egresos.   
 
 - **Mejorar el módulo de ingresos y gastos**  
 
