@@ -31,7 +31,7 @@ Para realizar esta actividad es necesario que cada integrante del equipo haya re
 ---
 
 * [Formato de Arquitectura para el proyecto](https://uniandes-my.sharepoint.com/:w:/g/personal/misovirtual-da_uniandes_edu_co/EeusIs5EtjJNlBO7P5VdDCUBbH4ZRrC5wPP4RFGINZbSpg?e=FOAhRL) 
-* [Arquitectura de referencia de la aplicación base](https://uniandes-my.sharepoint.com/:w:/g/personal/misovirtual-da_uniandes_edu_co/EUpK1wSO89RKn6ag81Irft4BVeQuMyAbwiVNZGHrFPaSpQ?e=ZTWs4y)
+* [Arquitectura de referencia de la aplicación base](https://uniandes-my.sharepoint.com/:w:/g/personal/misovirtual-da_uniandes_edu_co/)
 
 ### Entregables
 ---
