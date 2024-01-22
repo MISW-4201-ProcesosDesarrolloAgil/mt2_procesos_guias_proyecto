@@ -10,8 +10,8 @@
 ### Pasos previos
 ---
 
-* Leer con atención el [enunciado del proyecto](../../../#enunciado). El dueño de producto envió adicionalmente este [mensaje de audio](https://uniandes-my.sharepoint.com/:u:/g/personal/misovirtual-da_uniandes_edu_co/Ear5T2iaQidOmbJJH8Tdi4UBu_cHX-vbb6a5NzkdOyeFpQ?e=p0Xz3f) sobre la evolución del producto. 
-* Resolver las dudas o preguntas que surjan del enunciado y del mensaje de audio a través del [formulario](https://forms.office.com/r/DAFLjHzzpY) de Preguntas al cliente. Podrá consultar las respuestas del cliente en la hoja de respuestas( [enlace a la hoja de respuestas](https://uniandes-my.sharepoint.com/:x:/g/personal/misovirtual-da_uniandes_edu_co/EZmI4745U19Bu99t29kLMI0BlqcNxrirlPSPX0noDO0SMQ)).
+* Leer con atención el [enunciado del proyecto](../../../#enunciado). El dueño de producto envió adicionalmente este [mensaje de audio]() sobre la evolución del producto. 
+* Resolver las dudas o preguntas que surjan del enunciado y del mensaje de audio a través del [formulario]() de Preguntas al cliente. Podrá consultar las respuestas del cliente en la hoja de respuestas( [enlace a la hoja de respuestas]().
 
 ### Descripción actividad
 ---
