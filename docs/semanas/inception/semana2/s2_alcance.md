@@ -10,8 +10,8 @@
 ### Pasos previos
 ---
 
-* Leer con atención el [enunciado del proyecto](../../../#enunciado). El dueño de producto envió adicionalmente este [mensaje de audio]() sobre la evolución del producto. 
-* Resolver las dudas o preguntas que surjan del enunciado y del mensaje de audio a través del [formulario]() de Preguntas al cliente. Podrá consultar las respuestas del cliente en la hoja de respuestas( [enlace a la hoja de respuestas]().
+* Leer con atención el [enunciado del proyecto](../../../#enunciado). El dueño de producto envió adicionalmente este [mensaje de audio](https://misw-4201-procesosdesarrolloagil.github.io/mt2_procesos_guias_proyecto/semanas/inception/semana2/s2_alcance) sobre la evolución del producto. 
+* Resolver las dudas o preguntas que surjan del enunciado y del mensaje de audio a través del [formulario](https://misw-4201-procesosdesarrolloagil.github.io/mt2_procesos_guias_proyecto/semanas/inception/semana2/s2_alcance) de Preguntas al cliente. Podrá consultar las respuestas del cliente en la hoja de respuestas( [enlace a la hoja de respuestas](https://misw-4201-procesosdesarrolloagil.github.io/mt2_procesos_guias_proyecto/semanas/inception/semana2/s2_alcance)).
 
 ### Descripción actividad
 ---
