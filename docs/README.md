@@ -32,39 +32,31 @@ Durante la **Semana 8** se realiza el cierre del proyecto y una retrospectiva de
 ## Enunciado
 ---
 
-Con el auge en los últimos 10 años de las rentas de corta estancia (propiedades que se alquilan a través de plataformas como Airbnb o Booking) ha surgido una nueva actividad que es la administración del alquiler de estas propiedades. Los propietarios de las propiedades delegan en un administrador toda la gestión y la logística que se requiere para prestar un buen servicio a sus clientes.
+La empresa 4201Software está desarrollando la versión web de la aplicación “E-porra”, una aplicación de escritorio para administrar apuestas de carreras de cualquier tipo (caballos, formula 1, atletismo, etc.). La versión web contará con nuevas funcionalidades y está dirigida a un público objetivo más amplio.
 
-La empresa 4201Software está desarrollando “Corta Estancia”, una aplicación web para la administración de rentas de corta estancia que facilita todas las tareas relacionadas con la administración y mantenimiento de las propiedades, la gestión de las reservas y la gestión de cuentas entre el propietario y el administrador.
+4102Software ya tiene desarrollada una versión inicial de la aplicación web. Esta versión tiene implementadas las mismas funcionalidades de la aplicación de escritorio y las funcionalidades que permiten el inicio de sesión con usuario y contraseña, al usuario administrador de la aplicación.
 
-4201Software ya tiene desarrollada una versión inicial de la aplicación que realizó un practicante. En esta primera versión se tienen las siguientes funcionalidades básicas: 
+Al iniciar sesión, el usuario administrador ve una pantalla principal con la descripción de “E-porra”, acompañada de un listado de las carreras que tiene registradas. El administrador tiene la opción de crear, editar, terminar o borrar una carrera, esto último siempre que no tenga apuestas asociadas. Crear una nueva carrera requiere indicar el nombre de la carrera y los competidores. Para cada competidor, la aplicación solicita su nombre y la probabilidad que tiene de ganar la carrera (un valor entre 0 y 1). 
 
-- Ingresar a la aplicación con usuario y clave. 
-- Gestionar las propiedades administradas: agregar una nueva propiedad, editar la información de la propiedad y eliminar propiedades.
-- Gestionar las reservas de la propiedad: agregar una reserva, editar la información de las reservas y eliminar reservas.
-- Gestionar los ingresos y gastos de las propiedades: agregar, editar y eliminar gastos por mantenimiento, comisiones de administración, compras de suministros, etc. Agregar, editar y eliminar ingresos recibidos por reservas. Igualmente se cuenta con un reporte que presenta un resumen de los ingresos y gastos de la propiedad.
+Cuando el usuario administrador ve el detalle de una carrera, tiene la opción de crear apuestas asociadas a la misma. Para esto debe ingresar el valor apostado, el nombre del apostador y el competidor al que le apostó. El usuario administrador puede ver el listado completo de las apuestas de una carrera, crearlas, editarlas o eliminarlas.
 
-4201Software quiere participar en una ronda de inversión y esto requiere evolucionar “Corta estancia” para convertirlo en un Producto Mínimo Viable (MVP, por sus siglas en inglés) completamente usable y funcional. Esto implica incluir nuevas funcionalidades, mejorar la interfaz web y la navegación entre pantallas para cautivar a posibles inversionistas.  4201Software ha decidido contactar a la Universidad de los Andes con el fin de conseguir un equipo que le ayude a mejorar su aplicación y lograr su objetivo de presentarse a la ronda de inversión.
+Cuando se termina una carrera, el usuario administrador puede marcarla como terminada y registrar el competidor ganador para generar el reporte de pagos a realizar.
 
-La evolución de la aplicación debe permitir lograr los siguientes objetivos:
+4201Software quiere participar en una ronda de inversión y esto requiere evolucionar E-Porra para convertirlo en un Producto Mínimo Viable (MVP, por sus siglas en inglés) completamente usable y funcional. Esto implica realizar mejoras a su interfaz web y a la navegación entre pantallas, e incluir nuevas funcionalidades para cautivar a posibles inversionistas.  4201Software ha decidido contactar a la Universidad de los Andes con el fin de conseguir un equipo que le ayude a mejorar su aplicación y lograr su objetivo de presentarse a la ronda de inversión.
 
+Las nuevas funcionalidades que se quieren desarrollar deben permitir lograr los siguientes objetivos: 
 
-- **Mejorar la interfaz gráfica de la aplicación** 
+**Ampliar el tipo de eventos a los que se puede apostar:**
 
-Se quiere que la aplicación tenga una mejor interfaz. La interfaz actual sigue un estilo de interfaz “Multiple Pages”  y se quiere que la interfaz sea más moderna y atractiva para los usuarios y que tenga un estilo “single page” que simplifique y mejore la navegación por la aplicación.
+Se quiere que en la aplicación además de carreras se pueda apostar a eventos relacionados con otros deportes por ejemplo futbol, baloncesto, tenis, etc. Para ello se quiere que se puedan gestionar los nuevos tipos de eventos que tenga el sistema. Para los nuevos tipos de eventos es necesario poder gestionar los competidores, sus probabilidades de ganancias y la cantidad máxima de competidores, y una vez el evento haya ocurrido registrar el ganador y distribuir las ganancias entre los apostadores. 
 
-- **Agregar a la aplicación la planificación del mantenimiento de las propiedades** 
+**Extender las funcionalidades para que los apostadores puedan tener cuentas y gestionar ellos sus apuestas:**
 
-Se quiere que la aplicación pueda ayudar al administrador la gestión de las actividades de mantenimiento de las propiedades. Las actividades de mantenimiento comprenden varios tipos de actividades: los mantenimientos periódicos a la dotación que tiene la propiedad, por ejemplo mantenimiento anual a los electrodomésticos, revisiones cada tres meses de aires acondicionados, la limpieza y arreglo de la propiedad al finalizar una estadía, etc. El administrador debe poder programar estas actividades y hacer seguimiento a su ejecución.
+Un apostador debe poder administrar su cuenta en E-Porra. Debe poder registrar o actualizar su información y gestionar el dinero que tiene en su cuenta (depositar dinero para apostar, retirar dinero, ver las transacciones que ha realizado) 
 
-- **Agregar un módulo para que los dueños de propiedades puedan consultar la información de su propiedad**  
+ 
 
-Con el fin de tener transparencia frente a sus clientes, se quiere que los dueños de propiedades puedan ingresar a la plataforma y consultar la información de sus propiedades, deben poder revisar la información de su propiedad, las reservas y los  ingresos y egresos.   
-
-- **Mejorar el módulo de ingresos y gastos**  
-
-Los ingresos y gastos se deberían poder clasificar en diferentes categorías, con el fin de poder analizar el comportamiento de las propiedades por estas categorías y tener un indicador de eficiencia para cada propiedad. También se quiere mejorar el reporte incluyendo el resumen por categoría y el indicador de eficiencia. Y finalmente se quiere tener un reporte en el que un propietario pueda ver un resumen de todas sus propiedades.
-
-Adicionalmente, 4201Software está evaluando la posibilidad de actualizar el stack tecnológico de la aplicación debido a que hay nuevas versiones de los frameworks y librerías que usan actualmente.
+Igualmente se quiere que los apostadores puedan consultar todos los eventos que estén disponibles para realizar apuestas, poderlos filtrar por sus deportes favoritos, consultar un evento en particular y por supuesto apostar en un evento de su interés. Igualmente se quiere que cuando un apostador gane una apuesta se agregue a su cuenta el dinero que se ganó y que se le envíe una notificación avisando que ganó la apuesta. 
 
 
 ## Tecnologías para el desarrollo 
