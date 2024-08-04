@@ -10,8 +10,8 @@
 ### Pasos previos
 ---
 
-* Leer con atención el [enunciado del proyecto](../../../#enunciado). El dueño de producto envió adicionalmente este [mensaje de audio](https://uniandes-my.sharepoint.com/:u:/g/personal/misovirtual-da_uniandes_edu_co/EaSW2N69wjtKhv98KmXWUT8BGOCOZWNAyuPa_Uz2m5NVpw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=gOfM5G) sobre la evolución del producto. 
-* Resolver las dudas o preguntas que surjan del enunciado y del mensaje de audio a través del [formulario](https://forms.office.com/r/FnahqqM6qG) de Preguntas al cliente. Podrá consultar las respuestas del cliente en la hoja de respuestas( [enlace a la hoja de respuestas](https://uniandes-my.sharepoint.com/:x:/g/personal/misovirtual-da_uniandes_edu_co/Eddi4rmZ-5dFvIULdgnjgX0Bs7Q8RaOGoKu-j17PZLCaOA)).
+* Leer con atención el [enunciado del proyecto](../../../#enunciado). El dueño de producto envió adicionalmente este [mensaje de audio]() sobre la evolución del producto. 
+* Resolver las dudas o preguntas que surjan del enunciado y del mensaje de audio a través del [formulario](https://forms.office.com/r/HvmfP0rFda) de Preguntas al cliente. Podrá consultar las respuestas del cliente en la hoja de respuestas( [enlace a la hoja de respuestas](https://uniandes-my.sharepoint.com/:x:/g/personal/misovirtual-da_uniandes_edu_co/EQPm0fti0E1IqLKtupuBvUABlGhD-ghvccDgC9Z8QtP02g?e=zPus4v)).
 
 ### Descripción actividad
 ---
