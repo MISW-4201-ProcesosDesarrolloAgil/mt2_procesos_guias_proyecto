@@ -32,31 +32,31 @@ Durante la **Semana 8** se realiza el cierre del proyecto y una retrospectiva de
 ## Enunciado
 ---
 
-La empresa 4201Software está desarrollando la versión web de la aplicación “E-porra”, una aplicación de escritorio para administrar apuestas de carreras de cualquier tipo (caballos, formula 1, atletismo, etc.). La versión web contará con nuevas funcionalidades y está dirigida a un público objetivo más amplio.
+La empresa SoftOne está desarrollando la aplicación web “En Forma”, una aplicación que le permite a un entrenador gestionar todo lo relacionado con los ejercicios que realizan las personas que entrena. SoftOne ya tiene desarrollada una versión inicial de la aplicación.
 
-4102Software ya tiene desarrollada una versión inicial de la aplicación web. Esta versión tiene implementadas las mismas funcionalidades de la aplicación de escritorio y las funcionalidades que permiten el inicio de sesión con usuario y contraseña, al usuario administrador de la aplicación.
+Al ingresar a la aplicación el entrenador ve una pantalla principal, en la que se muestra el listado de personas que está entrenando y opciones para agregar una nueva persona y para acceder a la lista de ejercicios disponibles en “En Forma”.   
 
-Al iniciar sesión, el usuario administrador ve una pantalla principal con la descripción de “E-porra”, acompañada de un listado de las carreras que tiene registradas. El administrador tiene la opción de crear, editar, terminar o borrar una carrera, esto último siempre que no tenga apuestas asociadas. Crear una nueva carrera requiere indicar el nombre de la carrera y los competidores. Para cada competidor, la aplicación solicita su nombre y la probabilidad que tiene de ganar la carrera (un valor entre 0 y 1). 
+En el listado, para cada persona tiene opciones para editar la información de la persona, para ver los entrenamientos que ha realizado, para dejar de entrenar a la persona y para borrar la información de la persona, siempre que no tenga entrenamientos registrados. Cuando se deja de entrenar a la persona, se registra la fecha y la razón por la cual no continuará con el entrenamiento. La opción de ver los entrenamientos muestra una lista de los ejercicios que ha realizado la persona con el nombre del ejercicio, la fecha, la cantidad de repeticiones que realizó y el tiempo que le tardó en hacerlo definido en horas, minutos y segundos. Adicionalmente, en esta pantalla puede agregar, editar y borrar los ejercicios entrenados, así como un botón que le mostrará un reporte con su IMC (Índice de masa corporal) y en cuál categoría del IMC se encuentra, además de un cálculo del consumo calórico por cada fecha en la que se ha entrenado. 
 
-Cuando el usuario administrador ve el detalle de una carrera, tiene la opción de crear apuestas asociadas a la misma. Para esto debe ingresar el valor apostado, el nombre del apostador y el competidor al que le apostó. El usuario administrador puede ver el listado completo de las apuestas de una carrera, crearlas, editarlas o eliminarlas.
+La opción para agregar una nueva persona permite registrar: el nombre y los apellidos, la fecha de inicio del entrenamiento, la talla, el peso, la edad, y las medidas en centímetros de brazos, pecho, abdomen, cintura y piernas. 
 
-Cuando se termina una carrera, el usuario administrador puede marcarla como terminada y registrar el competidor ganador para generar el reporte de pagos a realizar.
+La opción para acceder a la lista de ejercicios disponibles en “En Forma”, muestra un listado con los ejercicios que se utilizan en los entrenamientos, y desde esta lista puede crear un ejercicio con su nombre, descripción, aproximado de calorías quemadas por repetición y un enlace a un video en YouTube, editar los ejercicios existentes, o borrarlos si el ejercicio nunca se ha usado en el entrenamiento de alguna persona.  
 
-4201Software quiere participar en una ronda de inversión y esto requiere evolucionar E-Porra para convertirlo en un Producto Mínimo Viable (MVP, por sus siglas en inglés) completamente usable y funcional. Esto implica realizar mejoras a su interfaz web y a la navegación entre pantallas, e incluir nuevas funcionalidades para cautivar a posibles inversionistas.  4201Software ha decidido contactar a la Universidad de los Andes con el fin de conseguir un equipo que le ayude a mejorar su aplicación y lograr su objetivo de presentarse a la ronda de inversión.
+SoftOne quiere participar en una ronda de inversión y esto requiere evolucionar “En Forma” para convertirlo en un Producto Mínimo Viable (MVP, por sus siglas en inglés) completamente usable y funcional. Esto implica realizar mejoras a su interfaz web y a la navegación entre pantallas, e incluir nuevas funcionalidades para cautivar a posibles inversionistas.  SoftOne ha decidido contactar a la Universidad de los Andes con el fin de conseguir un equipo que le ayude a mejorar su aplicación y lograr su objetivo de presentarse a la ronda de inversión. 
 
-Las nuevas funcionalidades que se quieren desarrollar deben permitir lograr los siguientes objetivos: 
+Las nuevas funcionalidades que se quieren desarrollar deben permitir lograr los siguientes objetivos:  
 
-**Ampliar el tipo de eventos a los que se puede apostar:**
+- **Extender las funcionalidades para que la aplicación pueda ser usada por las personas que se entrenan** 
 
-Se quiere que en la aplicación además de carreras se pueda apostar a eventos relacionados con otros deportes por ejemplo futbol, baloncesto, tenis, etc. Para ello se quiere que se puedan gestionar los nuevos tipos de eventos que tenga el sistema. Para los nuevos tipos de eventos es necesario poder gestionar los competidores, sus probabilidades de ganancias y la cantidad máxima de competidores, y una vez el evento haya ocurrido registrar el ganador y distribuir las ganancias entre los apostadores. 
+Se quiere que los clientes de los entrenadores puedan consultar la información de los entrenamientos que han realizado, gestionar su información personal y ver el reporte de sus entrenamientos. Cuando se agregue una nueva persona, además de la información básica se debe solicitar la información para crear una cuenta: usuario y contraseña. Con este usuario y contraseña el cliente podrá ingresar a la aplicación. 
 
-**Extender las funcionalidades para que los apostadores puedan tener cuentas y gestionar ellos sus apuestas:**
+- **Agregar a la aplicación el manejo de rutinas** 
 
-Un apostador debe poder administrar su cuenta en E-Porra. Debe poder registrar o actualizar su información y gestionar el dinero que tiene en su cuenta (depositar dinero para apostar, retirar dinero, ver las transacciones que ha realizado) 
+Además de tener ejercicios disponibles para todos los entrenadores, se quiere que también se puedan registrar rutinas. Las rutinas son secuencias de ejercicios que tienen un propósito específico. Por ejemplo, existen diferentes rutinas para trabajar miembros superiores, para hacer calentamiento o para ejercitar la espalda. Los entrenadores pueden proponer nuevas rutinas y utilizarlas con sus clientes. Las rutinas propuestas pueden ser utilizadas por todos los entrenadores.  
 
- 
+- **Extender las funcionalidades para que un administrador pueda gestionar los entrenadores de la aplicación**  
 
-Igualmente se quiere que los apostadores puedan consultar todos los eventos que estén disponibles para realizar apuestas, poderlos filtrar por sus deportes favoritos, consultar un evento en particular y por supuesto apostar en un evento de su interés. Igualmente se quiere que cuando un apostador gane una apuesta se agregue a su cuenta el dinero que se ganó y que se le envíe una notificación avisando que ganó la apuesta. 
+Se quiere agregar funcionalidades que permitan a un administrador gestionar a los entrenadores. El administrador podrá agregar un entrenador, registrar su información personal (identificación, nombre y apellido, teléfono y dirección) y asignarle un usuario y contraseña. También podrá consultar la lista de entrenadores, editar la información o borrar un entrenador.  Adicionalmente, en la funcionalidad de registrarse en la aplicación se debe solicitar además del usuario y contraseña, la información personal del entrenador.
 
 
 ## Tecnologías para el desarrollo 
