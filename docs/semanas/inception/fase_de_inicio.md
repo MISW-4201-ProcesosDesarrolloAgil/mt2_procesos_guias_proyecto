@@ -34,6 +34,10 @@ A continuación podrá encontrar una hoja de ruta con las actividades a desarrol
 
 ### Entregables y criterios de evaluación
 ---
-Los criterios detallados a continuación equivalen el 25% de la calificación del proyecto. La sustentación corresponde al 5%.
+<br>
+
+>**Los criterios detallados a continuación equivalen el 25% de la calificación del proyecto. <br>
+>La sustentación corresponde al 5%.**
+
 <br>
 ![](./../../assets/images/criterios_semanas_2_y_3.png)
