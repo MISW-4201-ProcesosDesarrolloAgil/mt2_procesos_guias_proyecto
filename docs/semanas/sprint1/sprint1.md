@@ -36,8 +36,10 @@ El equipo debe hacer seguimiento a las actividades mediante *daily meetings* y l
 
 ### Entregables y criterios de evaluación
 ---
-
-Los criterios detallados a continuación equivalen el 25% de la calificación del proyecto. La sustentación corresponde al 5%.
 <br>
+
+>**Los criterios detallados a continuación equivalen el 25% de la calificación del proyecto. <br>
+>La sustentación corresponde al 5%.**
+
 <br>
 ![](./../../assets/images/criterios_semanas_4_y_5.png)
