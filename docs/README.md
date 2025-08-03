@@ -32,31 +32,33 @@ Durante la **Semana 8** se realiza el cierre del proyecto y una retrospectiva de
 ## Enunciado
 ---
 
-La empresa SoftOne está desarrollando la aplicación web “En Forma”, una aplicación que le permite a un entrenador gestionar todo lo relacionado con los ejercicios que realizan las personas que entrena. SoftOne ya tiene desarrollada una versión inicial de la aplicación.
+La empresa 4201Software está desarrollando “Recetario”, una aplicación que permite gestionar todo lo relacionado con las recetas y platos que ofrecen en un restaurante. SoftOne tiene desarrollada una versión inicial de la aplicación web. 
 
-Al ingresar a la aplicación el entrenador ve una pantalla principal, en la que se muestra el listado de personas que está entrenando y opciones para agregar una nueva persona y para acceder a la lista de ejercicios disponibles en “En Forma”.   
+Luego de ingresar, al abrir la página principal, el administrador del restaurante puede ver la lista de recetas que tiene registradas, así como las opciones para agregar una nueva receta y acceder a la lista de ingredientes que puede utilizar para las recetas. 
 
-En el listado, para cada persona tiene opciones para editar la información de la persona, para ver los entrenamientos que ha realizado, para dejar de entrenar a la persona y para borrar la información de la persona, siempre que no tenga entrenamientos registrados. Cuando se deja de entrenar a la persona, se registra la fecha y la razón por la cual no continuará con el entrenamiento. La opción de ver los entrenamientos muestra una lista de los ejercicios que ha realizado la persona con el nombre del ejercicio, la fecha, la cantidad de repeticiones que realizó y el tiempo que le tardó en hacerlo definido en horas, minutos y segundos. Adicionalmente, en esta pantalla puede agregar, editar y borrar los ejercicios entrenados, así como un botón que le mostrará un reporte con su IMC (Índice de masa corporal) y en cuál categoría del IMC se encuentra, además de un cálculo del consumo calórico por cada fecha en la que se ha entrenado. 
+La opción para ver la lista de ingredientes muestra el listado de ingredientes que comúnmente utilizan en el restaurante, incluyendo para cada uno su nombre, unidad, valor por unidad, sitio de compra y calorías que aporta por unidad. A partir de esta lista podrá agregar un nuevo ingrediente si lo necesita, y editar o borrar alguno, siempre que este ingrediente no se está utilizando en alguna de las recetas. 
 
-La opción para agregar una nueva persona permite registrar: el nombre y los apellidos, la fecha de inicio del entrenamiento, la talla, el peso, la edad, y las medidas en centímetros de brazos, pecho, abdomen, cintura y piernas. 
+Por cada receta en el listado, el administrador puede consultar cómo es su preparación según la receta actual, editar una receta, eliminarla del listado o planear una preparación para un número específico de personas. 
 
-La opción para acceder a la lista de ejercicios disponibles en “En Forma”, muestra un listado con los ejercicios que se utilizan en los entrenamientos, y desde esta lista puede crear un ejercicio con su nombre, descripción, aproximado de calorías quemadas por repetición y un enlace a un video en YouTube, editar los ejercicios existentes, o borrarlos si el ejercicio nunca se ha usado en el entrenamiento de alguna persona.  
+Al agregar una nueva receta, el administrador registra su nombre, tiempo de preparación en horas, para cuantas personas es, los ingredientes a utilizar con sus medidas y la descripción detallada de su preparación. Cuando se edita una receta, se puede cambiar cualquiera de estos datos, incluso, se pueden adicionar o quitar ingredientes. 
 
-SoftOne quiere participar en una ronda de inversión y esto requiere evolucionar “En Forma” para convertirlo en un Producto Mínimo Viable (MVP, por sus siglas en inglés) completamente usable y funcional. Esto implica realizar mejoras a su interfaz web y a la navegación entre pantallas, e incluir nuevas funcionalidades para cautivar a posibles inversionistas.  SoftOne ha decidido contactar a la Universidad de los Andes con el fin de conseguir un equipo que le ayude a mejorar su aplicación y lograr su objetivo de presentarse a la ronda de inversión. 
+Adicionalmente, cuando se elige la opción Preparar de una receta, el sistema preguntará el número de personas para quienes se realizará la preparación, y mostrará una pantalla donde se muestra la cantidad de personas a las que se les va a preparar la receta, la cantidad de calorías por porción, se calcula el costo de los ingredientes y la cantidad de ingredientes proporcional a la cantidad de personas, y se muestra la descripción detallada de la preparación. 
+
+Con el fin de participar en una ronda de inversionistas SoftOne quiere evolucionar la aplicación para convertirla en un Producto Mínimo Viable (MVP, por sus siglas en inglés) completamente usable y funcional, para que pueda ser usada por una cadena de restaurantes donde se tienen varios administradores y varios chefs que gestionan las recetas de la cadena. Esto implica incluir nuevas funcionalidades y posiblemente realizar mejoras a su interfaz web y a la navegación entre pantallas para cautivar a posibles inversionistas.  SoftOne ha decidido contactar a la Universidad de los Andes con el fin de conseguir un equipo que le ayude a mejorar su aplicación y lograr su objetivo de presentarse a la ronda de inversión.  
+
+Adicionalmente, SoftOne está evaluando la posibilidad de actualizar el stack tecnológico de la aplicación debido a que hay nuevas versiones de los frameworks y librerías que usan actualmente.  
 
 Las nuevas funcionalidades que se quieren desarrollar deben permitir lograr los siguientes objetivos:  
 
-- **Extender las funcionalidades para que la aplicación pueda ser usada por las personas que se entrenan** 
+- **Administrar varios restaurantes**
+Se espera que en cada restaurante se puedan tener chefs asociados donde se puedan registrar las recetas que allí manejan y que se puedan compartir recetas entre los restaurantes.  
 
-Se quiere que los clientes de los entrenadores puedan consultar la información de los entrenamientos que han realizado, gestionar su información personal y ver el reporte de sus entrenamientos. Cuando se agregue una nueva persona, además de la información básica se debe solicitar la información para crear una cuenta: usuario y contraseña. Con este usuario y contraseña el cliente podrá ingresar a la aplicación. 
+- **Gestionar compras por restaurante**
+El propósito de esta mejora es que se pueda elegir el menú de una semana, y a partir de ese menú se sepa el conjunto de recetas que se ofrecerán la próxima semana y en qué posibles cantidades, de manera que se pueda obtener el número de compras a realizar conforme con el número de platos a preparar del menú a la semana.  
 
-- **Agregar a la aplicación el manejo de rutinas** 
+- **Analítica de datos para gestión de compras**
+De acuerdo con la ubicación de cada restaurante y de las preferencias del chef o del dueño, que se tengan sitios definidos y opcionales para la compra de ingredientes. Estos sitios deben estar clasificados según su relación calidad, costo y disponibilidad de los productos. 
 
-Además de tener ejercicios disponibles para todos los entrenadores, se quiere que también se puedan registrar rutinas. Las rutinas son secuencias de ejercicios que tienen un propósito específico. Por ejemplo, existen diferentes rutinas para trabajar miembros superiores, para hacer calentamiento o para ejercitar la espalda. Los entrenadores pueden proponer nuevas rutinas y utilizarlas con sus clientes. Las rutinas propuestas pueden ser utilizadas por todos los entrenadores.  
-
-- **Extender las funcionalidades para que un administrador pueda gestionar los entrenadores de la aplicación**  
-
-Se quiere agregar funcionalidades que permitan a un administrador gestionar a los entrenadores. El administrador podrá agregar un entrenador, registrar su información personal (identificación, nombre y apellido, teléfono y dirección) y asignarle un usuario y contraseña. También podrá consultar la lista de entrenadores, editar la información o borrar un entrenador.  Adicionalmente, en la funcionalidad de registrarse en la aplicación se debe solicitar además del usuario y contraseña, la información personal del entrenador.
 
 
 ## Tecnologías para el desarrollo 
