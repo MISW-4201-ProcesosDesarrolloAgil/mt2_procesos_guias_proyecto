@@ -32,7 +32,7 @@ Durante la **Semana 8** se realiza el cierre del proyecto y una retrospectiva de
 ## Enunciado
 ---
 
-La empresa 4201Software está desarrollando “Recetario”, una aplicación que permite gestionar todo lo relacionado con las recetas y platos que ofrecen en un restaurante. SoftOne tiene desarrollada una versión inicial de la aplicación web. 
+La empresa 4201Software está desarrollando “Recetario”, una aplicación que permite gestionar todo lo relacionado con las recetas y platos que ofrecen en un restaurante. 4201Software tiene desarrollada una versión inicial de la aplicación web. 
 
 Luego de ingresar, al abrir la página principal, el administrador del restaurante puede ver la lista de recetas que tiene registradas, así como las opciones para agregar una nueva receta y acceder a la lista de ingredientes que puede utilizar para las recetas. 
 
@@ -44,9 +44,9 @@ Al agregar una nueva receta, el administrador registra su nombre, tiempo de prep
 
 Adicionalmente, cuando se elige la opción Preparar de una receta, el sistema preguntará el número de personas para quienes se realizará la preparación, y mostrará una pantalla donde se muestra la cantidad de personas a las que se les va a preparar la receta, la cantidad de calorías por porción, se calcula el costo de los ingredientes y la cantidad de ingredientes proporcional a la cantidad de personas, y se muestra la descripción detallada de la preparación. 
 
-Con el fin de participar en una ronda de inversionistas SoftOne quiere evolucionar la aplicación para convertirla en un Producto Mínimo Viable (MVP, por sus siglas en inglés) completamente usable y funcional, para que pueda ser usada por una cadena de restaurantes donde se tienen varios administradores y varios chefs que gestionan las recetas de la cadena. Esto implica incluir nuevas funcionalidades y posiblemente realizar mejoras a su interfaz web y a la navegación entre pantallas para cautivar a posibles inversionistas.  SoftOne ha decidido contactar a la Universidad de los Andes con el fin de conseguir un equipo que le ayude a mejorar su aplicación y lograr su objetivo de presentarse a la ronda de inversión.  
+Con el fin de participar en una ronda de inversionistas 4201Software quiere evolucionar la aplicación para convertirla en un Producto Mínimo Viable (MVP, por sus siglas en inglés) completamente usable y funcional, para que pueda ser usada por una cadena de restaurantes donde se tienen varios administradores y varios chefs que gestionan las recetas de la cadena. Esto implica incluir nuevas funcionalidades y posiblemente realizar mejoras a su interfaz web y a la navegación entre pantallas para cautivar a posibles inversionistas.  4201Software ha decidido contactar a la Universidad de los Andes con el fin de conseguir un equipo que le ayude a mejorar su aplicación y lograr su objetivo de presentarse a la ronda de inversión.  
 
-Adicionalmente, SoftOne está evaluando la posibilidad de actualizar el stack tecnológico de la aplicación debido a que hay nuevas versiones de los frameworks y librerías que usan actualmente.  
+Adicionalmente, 4201Software está evaluando la posibilidad de actualizar el stack tecnológico de la aplicación debido a que hay nuevas versiones de los frameworks y librerías que usan actualmente.  
 
 Las nuevas funcionalidades que se quieren desarrollar deben permitir lograr los siguientes objetivos:  
 
