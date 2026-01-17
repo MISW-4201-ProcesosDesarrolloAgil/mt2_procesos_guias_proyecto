@@ -52,6 +52,10 @@ La evolución de la aplicación debe permitir lograr los siguientes objetivos:
 
 Se quiere que la aplicación tenga una mejor interfaz. La interfaz actual sigue un estilo de interfaz “Multiple Pages”  y se quiere que la interfaz sea más moderna y atractiva para los usuarios y que tenga un estilo “single page” que simplifique y mejore la navegación por la aplicación.
 
+- **Agregar a la aplicación la administración del inventario de las propiedades**
+
+Se quiere que la aplicación ayude al administrador en la gestión del inventario de cada propiedad. El inventario consiste de todos los elementos que se tienen en la propiedad. El inventario se organiza por cada zona del inmueble, por ejemplo cocina, entrada principal, baño principal, habitación principal, etc.  El administrador debe poder registrar los elementos que hay en cada propiedad con su información respectiva y hacer seguimiento al estado en que se encuentra cada elemento. 
+
 - **Agregar a la aplicación la planificación del mantenimiento de las propiedades** 
 
 Se quiere que la aplicación pueda ayudar al administrador la gestión de las actividades de mantenimiento de las propiedades. Las actividades de mantenimiento comprenden varios tipos de actividades: los mantenimientos periódicos a la dotación que tiene la propiedad, por ejemplo mantenimiento anual a los electrodomésticos, revisiones cada tres meses de aires acondicionados, la limpieza y arreglo de la propiedad al finalizar una estadía, etc. El administrador debe poder programar estas actividades y hacer seguimiento a su ejecución.
