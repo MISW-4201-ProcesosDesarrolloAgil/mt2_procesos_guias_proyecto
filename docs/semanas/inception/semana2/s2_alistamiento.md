@@ -37,7 +37,7 @@ Las actividades que deben realizar como parte del alistamiento son:
 
 ---
 * [Guía para organización de la documentación del proyecto](../semana2/s2_organizacion_de_la_documentacion).
-* [Tutorial de Jira](http://misovirtual.virtual.uniandes.edu.co/codelabs/tutorial-jira/index.html#0).
+* [Tutorial de Jira](./MISW4201-TutorialUsoBasicoJira.pdf) ([Versión anterior](http://misovirtual.virtual.uniandes.edu.co/codelabs/tutorial-jira/index.html#0)).
 
 ### Entregables
 
