@@ -10,7 +10,7 @@
 ### Pasos previos
 ---
 
-* Leer con atención el [enunciado del proyecto](../../../#enunciado). El dueño de producto envió adicionalmente este [mensaje de audio](https://misw-4201-procesosdesarrolloagil.github.io/mt2_procesos_guias_proyecto/semanas/inception/semana2/s2_alcance) sobre la evolución del producto. 
+* Leer con atención el [enunciado del proyecto](../../../#enunciado). El dueño de producto envió adicionalm[ente este [mensaje de audio](https://uniandes-my.sharepoint.com/:u:/g/personal/misovirtual-da_uniandes_edu_co/IQBjAnS1gJpTTbnUHn3mb125AWfaIW2NNUr8Hls6IjRHTNc?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=VwcyYY) sobre la evolución del producto. 
 * Resolver las dudas o preguntas que surjan del enunciado y del mensaje de audio a través del [formulario](https://forms.office.com/r/ug3U78mWp7) de Preguntas al cliente. Podrá consultar las respuestas del cliente en la hoja de respuestas( [enlace a la hoja de respuestas](https://uniandes-my.sharepoint.com/:x:/g/personal/misovirtual-da_uniandes_edu_co/IQCErB2X4jgzSYWpgLYWMYZpAc_jwPsPij-IeJzY9AptP84?e=LQimrP)).
 
 ### Descripción actividad
